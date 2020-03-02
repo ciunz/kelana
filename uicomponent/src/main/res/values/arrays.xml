@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--KYC-->
+
+    <string-array name="KYC_TITLES">
+        <item>OJK</item>
+        <item>Identitas</item>
+        <item>Alamat</item>
+        <item>Rekening</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_THIS_YEAR_INCOME">
+        <item>Pilih</item>
+        <item>Di bawah Rp 10 juta</item>
+        <item>Rp 10 - Rp 50 juta</item>
+        <item>Rp 50 - Rp 100 juta</item>
+        <item>Rp 100 - Rp 500 juta</item>
+        <item>Rp 500 juta - Rp 1 miliar</item>
+        <item>Di atas Rp 1 miliar</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_MONTHLY_INCOME">
+        <item>Pilih</item>
+        <item>Di bawah Rp 1 juta</item>
+        <item>Rp 1 – 4 juta</item>
+        <item>Rp 4 – 8 juta</item>
+        <item>Rp 8 – 20 juta</item>
+        <item>Rp 20 – 40 juta</item>
+        <item>Rp 40 – 85 juta</item>
+        <item>Diatas Rp 85 juta</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_INVEST_STYLE">
+        <item>Pilih</item>
+        <item>Risiko rendah, tingkat return rendah</item>
+        <item>Risiko sedang, tingkat return sedang</item>
+        <item>Risiko tinggi, tingkat return tinggi</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_SOURCE_INCOME">
+        <item>Pilih</item>
+        <item>Penghasilan Kerja</item>
+        <item>Keuntungan bisnis</item>
+        <item>Bunga simpanan</item>
+        <item>Warisan</item>
+        <item>Dari orang tua / anak</item>
+        <item>Hibah</item>
+        <item>Dana suami / istri</item>
+        <item>Undian</item>
+        <item>Keuntungan investasi</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_INVEST_OBJECTIVE">
+        <item>Pilih</item>
+        <item>Mendapatkan Kenaikan Harga</item>
+        <item>Investasi</item>
+        <item>Spekulasi</item>
+        <item>Mendapatkan Penghasilan</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_EDUCATION">
+        <item>Pilih</item>
+        <item>SD</item>
+        <item>SMP</item>
+        <item>SMA</item>
+        <item>Diploma</item>
+        <item>S1</item>
+        <item>S2</item>
+        <item>S3</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_EXPERIENCE">
+        <item>Pilih</item>
+        <item>Tidak berpengalaman</item>
+        <item>Sedikit berpengalaman</item>
+        <item>Lumayan berpengalaman</item>
+        <item>Sangat berpengalaman</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_INVEST_PERIOD">
+        <item>Pilih</item>
+        <item>&#60;1 tahun</item>
+        <item>&#62;1 - 3 tahun</item>
+        <item>&#62;3 - 9 tahun</item>
+        <item>&#62;9 - 12 tahun</item>
+        <item>&#62;12 tahun</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_RELIGION">
+        <item>Pilih</item>
+        <item>Islam</item>
+        <item>Protestan</item>
+        <item>Katolik</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+        <item>Kong Hu Chu</item>
+        <item>Aliran kepercayaan</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_OCCUPATION">
+        <item>Pilih</item>
+        <item>Pelajar/Mahasiswa</item>
+        <item>Ibu rumah tangga</item>
+        <item>Wiraswasta</item>
+        <item>Pegawai Negeri Sipil</item>
+        <item>TNI/Polisi</item>
+        <item>Pensiunan</item>
+        <item>Dosen/Guru</item>
+        <item>Karyawan swasta</item>
+        <item>Lainnya</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_MARITAL_STATUS">
+        <item>Pilih</item>
+        <item>Belum Kawin</item>
+        <item>Kawin</item>
+        <item>Cerai</item>
+    </string-array>
+
+    <string-array name="OPTIONS_IMAGE_PICK">
+        <item>Ambil foto</item>
+        <item>Pilih dari galeri</item>
+    </string-array>
+
+    <string-array name="KYC_OPTION_OFFICE_FIELD">
+        <item>Pilih</item>
+        <item>Konsultan Akunting, Pajak </item>
+        <item>Elektronik, Komputer, Perangkat Lunak, Alat telekomunikasi</item>
+        <item>Garmen dan Tekstil</item>
+        <item>Usaha Internet</item>
+        <item>Konsultan Hukum</item>
+        <item>Lembaga Keuangan Bukan Bank</item>
+        <item>Perumahan / Properti</item>
+        <item>Restoran</item>
+        <item>Agen Perjalanan</item>
+        <item>Organisasi Politik</item>
+    </string-array>
+
+    <!-- PAYMENT GUIDES -->
+    <string-array name="PAYMENT_GUIDES_KEYS">
+        <item>TRANSFER_ATM</item>
+        <item>TRANSFER_ATM_CROSS_BANK</item>
+        <item>M_BANKING</item>
+        <item>M_BANKING_CROSS_BANK</item>
+        <item>TELLER</item>
+    </string-array>
+
+    <string-array name="PAYMENT_GUIDES_TITLES">
+        <item>Transfer ATM</item>
+        <item>Transfer ATM Antarbank</item>
+        <item>M-Banking / Online Banking</item>
+        <item>M-Banking / Online Banking Antarbank</item>
+        <item>Bank Teller</item>
+    </string-array>
+
+    <string-array name="TRANSFER_ATM">
+        <item>Pilih menu Transfer ke Rekening Sesama</item>
+        <item>Masukkan no. rekening tujuan</item>
+        <item>Masukkan jumlah transaksi</item>
+        <item>Simpan bukti transfermu</item>
+        <item>Foto bukti transfer lalu unggah untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <string-array name="TRANSFER_ATM_CROSS_BANK">
+        <item>Pilih Menu Transfer ke Rekening Bank Lain</item>
+        <item>Masukkan kode bank dan no. rekening tujuan</item>
+        <item>Masukkan jumlah transaksi</item>
+        <item>Simpan bukti transfermu</item>
+        <item>Foto bukti transfer lalu unggah untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <string-array name="M_BANKING">
+        <item>Pilih menu Transfer ke Rekening Sesama</item>
+        <item>Pilih bank tujuan serta no. rekening tujuan</item>
+        <item>Masukkan jumlah transaksi</item>
+        <item>Setelah transaksi berhasil, unduh atau screenshot bukti transfer</item>
+        <item>Unggah bukti transfer via galeri untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <string-array name="M_BANKING_CROSS_BANK">
+        <item>Pilih Menu Transfer ke Rekening Bank Lain</item>
+        <item>Pilih bank tujuan serta no. rekening tujuan</item>
+        <item>Masukkan jumlah transaksi</item>
+        <item>Setelah transaksi berhasil, unduh atau screenshot bukti transfer</item>
+        <item>Unggah bukti transfer via galeri untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <string-array name="TELLER">
+        <item>Kunjungi kantor cabang terdekat</item>
+        <item>Pastikan kamu bawa buku tabungan untuk melakukan transaksi</item>
+        <item>Gunakan slip “Pemindahan Dana” antar rekening (bukan slip “Setoran Tunai”) &amp; lengkapi informasi yang dibutuhkan</item>
+        <item>Serahkan slip ke teller bank tersebut</item>
+        <item>Setelah proses transaksi selesai, foto slip transfer dan unggah untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <!-- STOCK TOP UP PERMATA GUIDE -->
+    <string-array name="TOP_UP_GUIDE_PERMATA_KEYS">
+        <item>TOP_UP_PERMATA_ATM</item>
+        <item>TOP_UP_PERMATA_INTERNET_BANKING</item>
+        <item>TOP_UP_PERMATA_MOBILE_BANKING</item>
+    </string-array>
+
+    <string-array name="TOP_UP_GUIDE_PERMATA_TITLES">
+        <item>ATM</item>
+        <item>Internet Banking</item>
+        <item>Mobile Banking</item>
+    </string-array>
+
+    <string-array name="TOP_UP_PERMATA_ATM">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <string-array name="TOP_UP_PERMATA_INTERNET_BANKING">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <string-array name="TOP_UP_PERMATA_MOBILE_BANKING">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <!-- STOCK TOP UP OTHER GUIDE -->
+    <string-array name="TOP_UP_GUIDE_OTHER_KEYS">
+        <item>TOP_UP_OTHER_ATM</item>
+        <item>TOP_UP_OTHER_INTERNET_BANKING</item>
+        <item>TOP_UP_OTHER_MOBILE_BANKING</item>
+    </string-array>
+
+    <string-array name="TOP_UP_GUIDE_OTHER_TITLES">
+        <item>ATM</item>
+        <item>Internet Banking</item>
+        <item>Mobile Banking</item>
+    </string-array>
+
+    <string-array name="TOP_UP_OTHER_ATM">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <string-array name="TOP_UP_OTHER_INTERNET_BANKING">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <string-array name="TOP_UP_OTHER_MOBILE_BANKING">
+        <item>Masukkan kartu ATM dan PIN BCA Anda</item>
+        <item>Pilih menu Transaksi Lainnya</item>
+        <item>Pilih menu Transfer</item>
+        <item>Pilih menu ke Rek BCA Virtual Account</item>
+        <item>Masukkan nomor RDN kamu</item>
+        <item>Masukkan nominal Top up</item>
+        <item>Ikuti instruksi untuk menyelesaikan transaksi</item>
+    </string-array>
+
+    <string-array name="WITHDRAWAL_REASON_TITLE">
+        <item>Sudah mencapai tujuan investasi</item>
+        <item>Tidak nyaman dengan performa investasi yang diperoleh</item>
+        <item>Membutuhkan dana darurat segera</item>
+        <item>Ingin mengubah susunan investasi</item>
+        <item>Lainnya</item>
+    </string-array>
+    <string-array name="WITHDRAWAL_REASON_DESC">
+        <item>Mantap! Ayo buat tujuan dan impian baru lainnya bersama Ajaib, nanti</item>
+        <item>Guna memaksimalkan performa investasi jangka panjang, jangan buru-buru menarik dana ketika pasar lesu. Hubungi ahli keuangan kami untuk saran!</item>
+        <item>Oh, tidak… Jangan lupa untuk selalu punya dana yang dialokasikan khusus untuk investasi jangka panjang</item>
+        <item>Diversifikasi dengan berinvestasi di lebih banyak instrumen sangat bagus. Pastikan untuk menempatkan sebagian di reksa dana untuk mengurangi risiko</item>
+        <item />
+    </string-array>
+
+    <!--CONFIG-->
+
+    <string-array name="WELCOME_SLIDERS_TITLES">
+        <item>Cara Mudah Berinvestasi</item>
+        <item>Aman dan Terpercaya</item>
+        <item>Investasi Anti Mahal, Anti Bingung</item>
+    </string-array>
+
+    <string-array name="WELCOME_SLIDERS_DESCRIPTION">
+        <item>Miliki dan atur berbagai reksa dana terbaik</item>
+        <item>Terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK)</item>
+        <item>Mulai dari Rp10.000, kamu sudah bisa investasi. Buka akun online dengan beberapa klik!</item>
+    </string-array>
+
+    <string-array name="FAQ_TITLES">
+        <item>Tentang Ajaib</item>
+        <item>Tentang Investasi</item>
+        <item>Setoran/Pembayaran</item>
+        <item>Withdrawal/Penarikan dana</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_ABOUT_AJAIB">
+        <item>Apa itu Ajaib?</item>
+        <item>Bagaimana cara memulai berinvestasi?</item>
+        <item>Apakah aman berinvestasi di Ajaib?</item>
+        <item>Apakah ada biaya jika berinvestasi di Ajaib?</item>
+        <item>Mengapa pilihan investasi di Ajaib tidak banyak?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_ABOUT_AJAIB">
+        <item>Ajaib adalah aplikasi investasi yang memudahkanmu untuk berinvestasi di reksa dana secara online. Ajaib memberikan rekomendasi reksa dana terbaik dan berbagai pelajaran terkait investasi, sehingga semua orang memiliki akses terhadap produk investasi yang aman</item>
+        <item>1. Lengkapi data diri di aplikasi kami. Data ini akan digunakan untuk verifikasi wajib dari OJK demi keamanan dan kenyamanan kamu. Proses verifikasi ini biasa memakan waktu 1–3 jam kerja (Senin-Jumat).\n2. Selagi menunggu proses verifikasi berlangsung, kamu bisa memilih reksa dana yang ada inginkan. Detail transaksi dapat kamu lihat/dikirimkan ke email setelah proses verifikasi selesai</item>
+        <item>Ajaib merupakan aplikasi investasi terpercaya yang terdaftar dan diawasi oleh OJK dan Menkominfo. Terlebih lagi, semua dana investasimu akan dikelola langsung oleh Manajer Investasi melalui pihak bank kustodian yang telah ditunjuk. Kamu juga akan mendapatkan email kepemilikan reksa dana dari bank kustodian termaksud. Jadi, tidak perlu khawatir berinvestasi di Ajaib.</item>
+        <item>Tidak ada biaya sama sekali dalam semua proses yang terjadi di Ajaib, baik transaksi maupun registrasi.</item>
+        <item>Profesor Sheena Iyengar dari Columbia Business School memberi pencerahan bahwa semakin banyak pilihan, orang akan kewalahan sehingga mereka menunda keputusan, terkadang sampai selamanya. Orang-orang yang menunda keputusan investasi merugikan diri mereka sendiri secara finansial. Ajaib hadir memberikan solusi dari masalah ini. Melalui penyediaan reksa dana terbaik, orang tidak perlu susah memilih dan dapat langsung berinvestasi di reksa dana yang sudah teruji performanya.</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_ABOUT_INVESTMENT">
+        <item>Mengapa saya harus berinvestasi?</item>
+        <item>Kapan saya harus berinvestasi?</item>
+        <item>Mengapa harus berinvestasi di reksa dana?</item>
+        <item>Apa itu return?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_ABOUT_INVESTMENT">
+        <item>Investasi penting untuk masa depanmu. Baik untuk meringankan dampak inflasi, meningkatkan jumlah kekayaanmu, persiapan pensiun, maupun untuk menunjang kehidupan keluargamu di masa depan. Menabung di bank hanya memberikan pengembalian sekitar 0,5%, bahkan ada tabungan yang tidak memberikan pengembalian sama sekali. Karena itu, ketimbang menabung di bank, investasi adalah pilihan yang lebih bijak.</item>
+        <item>Sedini mungkin. Namun, pastikan kamu tidak punya hutang berbahaya (seperti kartu kredit), punya asuransi/BPJS untuk hal-hal tidak terduga, dan punya uang yang dialokasikan untuk kehidupan sehari-hari dan dana darurat. Uang yang diinvestasikan haruslah dana menganggur (disposable income), dalam artian, kamu tidak punya rencana khusus terhadap dana menganggur ini. Ketimbang membiarkan dana tersebut tidak menghasilkan apa-apa, sebaiknya kamu menginvestasikannya dan biarkan dana menganggur ini bekerja untukmu.</item>
+        <item>Mudah: Tidak perlu pengetahuan mendalam tentang ekonomi. Para tim profesional (Manajer Investasi) akan mengelola modal agar kamu mendapatkan hasil terbaik.\nTransparan: Investor dapat melihat nilai investasi yang tercatat di portofolio. Naik-turunnya nilai investasi dapat diamati setiap hari, kapanpun, dan di manapun. Para investor juga mendapatkan dokumen hukum dari bank untuk menunjukkan kepemilikan unit reksa dana mereka.\nTerjangkau: Tidak perlu memiliki modal besar untuk memulai. Mulai dari Rp 10.000, investor dapat memiliki portofolio yang terdiversifikasi seperti obligasi, saham, dll.</item>
+        <item>Return adalah selisih nilai investasimu sekarang dengan modal investasi yang telah kamu keluarkan. Semakin tinggi nilai return yang ditampilkan, berarti semakin baik performa investasimu. Jika return menurun, jangan buru-buru melakukan penarikan dana karena ada kemungkinan harga kembali naik dalam waktu dekat. Tarik dana ketika return positif agar keuntungannya maksimal.</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_DEPOSIT">
+        <item>Bagaimana proses pembayaran investasi di Ajaib?</item>
+        <item>Channel pembayaran apa saja yang bisa digunakan untuk melakukan pembayaran?</item>
+        <item>Mengapa saya perlu melakukan transfer lebih dari satu kali untuk satu transaksi yang sama</item>
+        <item>Berapa lama waktu yang diperlukan untuk memproses pembayaran saya</item>
+        <item>Bagaimana jika saya salah upload bukti bayar?</item>
+        <item>Apakah saya dapat membatalkan transaksi saya?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_DEPOSIT">
+        <item>Untuk menyelesaikan proses investasi di Ajaib, kamu cukup membayarkan nilai investasi yang telah kamu pesan melalui dengan metode transfer yang kamu pilih di aplikasi. Lalu, ikuti instruksi yang tertera.</item>
+        <item>Semua channel pembayaran berupa transfer ke rekening bank dapat digunakan dengan syarat:\nAda bukti bayar/screenshot yang dapat diunggah (upload) ke aplikasi Ajaib\nTransaksi dilakukan melalui rekening pribadi Investor (atas nama investor, sesuai dengan KTP yang didaftarkan di awal. Tidak boleh atas nama perusahaan/teman)\nJika transaksi dilakukan melalui channel non-bank (OVO, dll.) pastikan namamu terlihat di bukti bayar yang kamu upload, kecuali jika menggunakan verifikasi otomatis dari Ajaib.</item>
+        <item>Jika hal ini terjadi, berarti Anda menggunakan solusi auto invest. Untuk solusi auto invest, system Ajaib akan secara langsung memecah dana Anda ke dalam beberapa reksadana berdasarkan algoritma yang ada untuk mengurangi resiko investasi Anda.</item>
+        <item>Jika kamu melakukan transfer dan upload bukti bayar sebelum jam 13.00 WIB, transaksimu akan diproses dalam hari kerja yang sama dan unit reksa dana akan kamu terima dalam maksimal 2 hari kerja.\nJika kamu melakukan transfer dan upload bukti bayar melewati jam 13.00 WIB, transaksimu akan diproses pada hari kerja berikutnya. Pada kasus seperti ini, unit reksa dana akan kamu terima dalam maksimal 3 hari kerja. \nHarap diingat bahwa hari kerja tidak termasuk Sabtu, Minggu, dan hari libur nasional.</item>
+        <item>Kamu dapat mengirimkan bukti bayar yang benar melalui customer service kami dengan melampirkan nama, email terdaftar, nama reksa dana dan tanggal transaksi.</item>
+        <item>- Jika kamu belum melakukan pembayaran maka kamu dapat membatalkan transaksimu melalui aplikasi.\n- Jika kamu telah melakukan transfer, tapi belum upload buktinya ke sistem, kamu dapat menghubungi customer service kami untuk melakukan pembatalan transaksi.\n- Jika kamu telah upload bukti bayar, disarankan agar kamu menunggu proses setoran selesai, lalu lakukan penarikan dana</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_WITHDRAW">
+        <item>Bagaimana proses penarikan dana di Ajaib?</item>
+        <item>Apakah saya dapat membatalkan transaksi saya?</item>
+        <item>Apakah ada biaya untuk melakukan penarikan?</item>
+        <item>Mengapa dana yang saya tarik tidak kunjung masuk ke rekening?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_WITHDRAW">
+        <item>Untuk menarik dana investasimu di Ajaib, lakukan langkah–langkah berikut:\n1. Tentukan investasi yang ingin kamu tarik dananya\n2. Masuk ke detail investasi, kemudian pilih menu “tarik” atau “withdraw”\n3. Masukkan nominal penarikan yang Anda inginkan\n4. Permintaan pencairan reksa danamu akan disampaikan ke Manajer Investasi dan diproses.\n5. Reksa dana milikmu akan dicairkan oleh Manajer Investasi. Proses ini biasanya selesai dalam 2–3 hari kerja tapi ada beberapa reksa dana yang membutuhkan proses hingga maksimal 7 hari kerja.\n6. Setelah proses selesai, dana akan kamu terima di rekening yang telah kamu daftarkan.</item>
+        <item>- Kamu dapat membatalkan transaksi penarikan jika transaksi belum melewati 10 menit.\n- Jika sudah melewati 10 menit, tidak semua transaksi penarikan bisa dibatalkan. Untuk memastikan apakah transaksimu bisa dibatalkan, silahkan hubungi customer service Ajaib.</item>
+        <item>Tidak ada biaya yang dikenakan oleh Ajaib, tapi karena dana ditransfer dari bank kustodian ke rekening bank kamu, ada kemungkinan terkena biaya transfer antar bank sebesar Rp6.500. Untuk mengetahui bank kustodian apa yang digunakan oleh Manajer Investasi, kamu bisa membaca prospektus dari tiap reksa dana yang kamu punya.</item>
+        <item>Berdasarkan regulasi, kamu akan mendapatkan dana dalam 2–7 hari kerja. Sebab, ketika kamu mau menarik dana, unit reksa dana yang kamu miliki harus dicairkan dulu oleh Manajer Investasimu. Jika sudah lewat dari 7 hari kerja (tidak termasuk Sabtu, Minggu, dan libur nasional) kamu tidak kunjung menerima dana, harap hubungi customer service Ajaib.</item>
+    </string-array>
+
+    <string-array name="MISSION_HOW_TO_PLAY">
+        <item>Tingkatkan poin masing-masing misi untuk mendapatkan medali</item>
+        <item>Dalam misi <b>Total Investasi</b> poinmu dapat berubah sesuai NAB harian. Poinmu di misi <b>Tidak Tarik Dana</b> juga akan berkurang jika kamu melakukan penarikan. </item>
+        <item>Kamu bisa saja kehilangan medalimu kalau poinmu terus berkurang</item>
+        <item>Misi harus selesai semua (empat medali emas) agar kamu berhak mendapatkan hadiah</item>
+        <item>Ajaib akan memilih 3 pemenang setiap bulannya secara acak. Masing-masing pemenang akan mendapatkan reksa dana sebesar 500.000 rupiah</item>
+        <item>Ajaib akan menghubungi pemenang melalui email &amp; memberikan hadiah langsung ke akun Ajaibmu!</item>
+        <item>Ajaib berhak sewaktu-waktu mengganti syarat dan ketentuan misi.\nSemangat!</item>
+    </string-array>
+
+    <string-array name="SORT_FUND_OPTIONS">
+        <!--        <item>Return terbesar ke terkecil</item>-->
+        <!--        <item>Return terkecil ke terbesar</item>-->
+        <item>Minimal Investasi terbesar ke terkecil</item>
+        <item>Minimal Investasi terkecil ke terbesar</item>
+        <item>Nama reksa dana A ke Z</item>
+        <item>Nama reksa dana Z ke A</item>
+    </string-array>
+
+    <string-array name="SORT_FUND_OPTIONS_KEYS">
+        <!--        <item>Return terbesar ke terkecil</item>-->
+        <!--        <item>Return terkecil ke terbesar</item>-->
+        <item>desc_min_invest</item>
+        <item>asc_min_invest</item>
+        <item>asc_name</item>
+        <item>desc_name</item>
+    </string-array>
+
+    <string-array name="SIMULATION_DISCLAIMER">
+        <item>Angka merupakan contoh saja, berdasarkan kinerja masa lalu. Di masa depan, kamu bisa dapat lebih banyak atau lebih sedikit.</item>
+        <item>Tidak harus investasi tiap bulan, dan jumlah investasi tidak harus sama setiap kalinya.</item>
+        <item>Untuk hasil maksimal, investasilah secara rutin.</item>
+    </string-array>
+
+    <string-array name="DURATION_KEYS">
+        <item>1M</item>
+        <item>3M</item>
+        <item>6M</item>
+        <item>1Y</item>
+        <item>3Y</item>
+        <item>All</item>
+    </string-array>
+
+    <string-array name="REPORT_REASON">
+        <item>Mengandung iklan/promosi</item>
+        <item>Konten tidak pantas</item>
+        <item>Topik tidak sesuai</item>
+    </string-array>
+
+    <string-array name="COMMUNITIES_RULES">
+        <item>Mari berdiskusi dan belajar tentang investasi!</item>
+        <item>Silakan bertanya apa saja terkait topik-topik yang ada. Jangan lupa memberi jawaban pada topik yang kamu kuasai.</item>
+        <item>Mohon untuk tidak: mengiklankan produk/jasa tertentu, membuka topik yang tidak pantas, maupun mempromosikan kode referral.\nAda saran? Kirim ke support@ajaib.co.id</item>
+    </string-array>
+</resources>

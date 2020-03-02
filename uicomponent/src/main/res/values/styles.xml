@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="bottomSheetDialogTheme">@style/RoundedBottomSheetDialog</item>
+        <item name="alertDialogTheme">@style/AlertDialogTheme</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="NoActionBarTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar" parent="AppTheme">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowContentTransitions">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="SplashTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SplashMockTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@drawable/splash_mock_background</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BlankTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/transparent</item>
+        <item name="colorPrimaryDark">@color/transparent</item>
+        <item name="colorAccent">@color/transparent</item>
+    </style>
+
+    <style name="TransparentTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AlertDialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="buttonBarNegativeButtonStyle">@style/NegativeButtonStyle</item>
+        <item name="buttonBarPositiveButtonStyle">@style/PositiveButtonStyle</item>
+    </style>
+
+    <style name="GreyTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/grey_200</item>
+        <item name="colorAccent">@color/grey_200</item>
+    </style>
+
+    <style name="RedTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/redPrimary</item>
+        <item name="colorAccent">@color/redPrimary</item>
+    </style>
+
+    <style name="GreenTheme" parent="AppTheme">
+        <item name="colorPrimary">@color/greenPrimary</item>
+        <item name="colorAccent">@color/greenPrimary</item>
+    </style>
+
+    <style name="NegativeButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:letterSpacing">0</item>
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+    </style>
+
+    <style name="PositiveButtonStyle" parent="Widget.MaterialComponents.Button.TextButton.Dialog">
+        <item name="android:letterSpacing">0</item>
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+    </style>
+
+    <style name="dialogAnimation">
+        <item name="android:windowEnterAnimation">@android:anim/slide_in_left</item>
+        <item name="android:windowExitAnimation">@android:anim/slide_out_right</item>
+    </style>
+
+    <style name="RoundedBottomSheetDialog" parent="@style/ThemeOverlay.MaterialComponents.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/RoundedBottomSheet</item>
+    </style>
+
+    <style name="RoundedBottomSheet" parent="Widget.MaterialComponents.BottomSheet">
+        <item name="shapeAppearanceOverlay">@style/RoundedShapeAppearanceBottomSheetDialog</item>
+    </style>
+
+    <style name="RoundedShapeAppearanceBottomSheetDialog" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopRight">@dimen/corner_radius</item>
+        <item name="cornerSizeTopLeft">@dimen/corner_radius</item>
+        <item name="cornerSizeBottomRight">0dp</item>
+        <item name="cornerSizeBottomLeft">0dp</item>
+    </style>
+
+    <style name="text" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/text</item>
+        <item name="android:textSize">@dimen/sp_14</item>
+
+        <item name="android:fontFamily">@font/lato_light</item>
+    </style>
+
+    <style name="text.xSmall" parent="text">
+        <item name="android:textSize">@dimen/sp_10</item>
+    </style>
+
+    <style name="text.small" parent="text">
+        <item name="android:textSize">@dimen/sp_12</item>
+    </style>
+
+    <style name="text.small.secondary" parent="text.small">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.small.bold" parent="text.small">
+
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="text.xSmall.bold" parent="text.xSmall">
+
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="text.xSmall.bold.secondary" parent="text.xSmall.bold">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.small.bold.light" parent="text.small.bold">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.small.light" parent="text.small">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.bold" parent="text">
+
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="text.bold.small" parent="text.bold">
+        <item name="android:textSize">@dimen/sp_12</item>
+    </style>
+
+    <style name="text.bold.small.secondary" parent="text.bold.small">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.bold.secondary" parent="text.bold">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.xlarge" parent="text">
+        <item name="android:textSize">@dimen/sp_20</item>
+    </style>
+
+    <style name="text.large" parent="text">
+        <item name="android:textSize">@dimen/sp_18</item>
+    </style>
+
+    <style name="text.large.bold" parent="text.large">
+
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="text.xlarge.bold" parent="text.large.bold">
+        <item name="android:textSize">@dimen/sp_24</item>
+    </style>
+
+    <style name="text.xlarge.bold.light" parent="text.large.bold.light">
+        <item name="android:textSize">@dimen/sp_20</item>
+    </style>
+
+    <style name="text.normal" parent="text">
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+    </style>
+
+    <style name="text.normal.hint" parent="text.normal">
+        <item name="android:textColor">@color/text_inactive</item>
+    </style>
+
+    <style name="text.normal.light" parent="text.normal">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.normal.small" parent="text.normal">
+        <item name="android:textSize">@dimen/sp_12</item>
+    </style>
+
+    <style name="text.normal.secondary" parent="text.normal">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.normal.small.secondary" parent="text.normal.small">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.normal.xSmall" parent="text.normal">
+        <item name="android:textSize">@dimen/sp_10</item>
+    </style>
+
+    <style name="text.bold.xSmall" parent="text.bold">
+        <item name="android:textSize">@dimen/sp_10</item>
+    </style>
+
+    <style name="text.normal.xSmall.light" parent="text.normal.xSmall">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.normal.xSmall.secondary" parent="text.normal.xSmall">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.normal.small.light" parent="text.normal.small">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.normal.medium" parent="text.normal">
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style>
+
+    <style name="text.normal.medium.light" parent="text.normal.medium">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.bold.medium" parent="text.bold">
+        <item name="android:textSize">@dimen/sp_16</item>
+    </style>
+
+    <style name="text.normal.large" parent="text.normal">
+        <item name="android:textSize">@dimen/sp_18</item>
+    </style>
+
+    <style name="text.normal.large.secondary" parent="text.normal.large">
+        <item name="android:textColor">@color/text_secondary</item>
+    </style>
+
+    <style name="text.normal.large.light" parent="text.normal.large">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.normal.xLarge" parent="text.normal">
+        <item name="android:textSize">@dimen/sp_24</item>
+    </style>
+
+    <style name="text.light" parent="text">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.bold.light" parent="text.bold">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.large.light" parent="text.large">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.large.bold.light" parent="text.large.bold">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.title" parent="Widget.AppCompat.TextView">
+        <item name="android:textSize">@dimen/sp_18</item>
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <style name="text.tab" parent="text.normal.small">
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">@dimen/sp_11</item>
+    </style>
+
+    <style name="text.tab.normal" parent="text.normal">
+        <item name="android:padding">0dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="text.tab.normal.light" parent="text.tab.normal">
+        <item name="android:padding">0dp</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.tab.light" parent="text.tab">
+        <item name="android:padding">0dp</item>
+        <item name="android:textSize">@dimen/sp_11</item>
+        <item name="textAllCaps">false</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.tab.bold" parent="text.bold">
+        <item name="android:padding">0dp</item>
+        <item name="textAllCaps">false</item>
+
+        <item name="android:fontFamily">@font/lato_bold</item>
+    </style>
+
+    <style name="text.tab.bold.light" parent="text.tab.bold">
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="text.tab.transaction" parent="text.normal">
+        <item name="android:padding">0dp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="icon">
+        <item name="android:layout_width">@dimen/icon_size_x_small</item>
+        <item name="android:layout_height">@dimen/icon_size_x_small</item>
+        <item name="android:foreground">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="button" parent="Widget.MaterialComponents.Button">
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:height">@dimen/button_height</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+    </style>
+
+    <style name="button.grey" parent="button">
+        <item name="android:theme">@style/GreyTheme</item>
+    </style>
+
+    <style name="button.red" parent="button">
+        <item name="android:theme">@style/RedTheme</item>
+    </style>
+
+    <style name="button.green" parent="button">
+        <item name="android:theme">@style/GreenTheme</item>
+    </style>
+
+    <style name="button.small" parent="button">
+        <item name="android:height">@dimen/button_height_small</item>
+        <item name="android:minHeight">@dimen/button_height_small</item>
+    </style>
+
+    <style name="button.box" parent="Widget.MaterialComponents.Button.UnelevatedButton">
+        <item name="cornerRadius">0dp</item>
+        <item name="elevation">0dp</item>
+        <item name="android:minHeight">62dp</item>
+        <item name="android:letterSpacing">0</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="buttonBorderless" parent="Widget.MaterialComponents.Button.TextButton">
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:clickable">true</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:spacing">0dp</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="buttonOutline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="strokeColor">@color/colorPrimary</item>
+        <item name="android:height">@dimen/button_height</item>
+        <item name="android:minHeight">@dimen/button_height</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:letterSpacing">0</item>
+    </style>
+
+    <style name="buttonOutline.small" parent="buttonOutline">
+        <item name="android:height">@dimen/button_height_small</item>
+        <item name="android:minHeight">@dimen/button_height_small</item>
+    </style>
+
+    <style name="cv" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">@dimen/corner_radius</item>
+        <item name="cardElevation">@dimen/dp_3</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="android:layout_marginRight">-3dp</item>
+        <item name="android:layout_marginLeft">-3dp</item>
+        <item name="android:foreground">?selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="cv.flat" parent="cv">
+        <item name="cardElevation">0dp</item>
+    </style>
+
+    <style name="cvSmall" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">@dimen/corner_radius_small</item>
+        <item name="cardElevation">@dimen/dp_3</item>
+        <item name="cardUseCompatPadding">true</item>
+        <item name="android:layout_marginRight">-3dp</item>
+        <item name="android:layout_marginLeft">-3dp</item>
+        <item name="android:foreground">?selectableItemBackgroundBorderless</item>
+    </style>
+
+    <style name="MyCustomTabLayout" parent="Widget.MaterialComponents.TabLayout">
+        <item name="tabIconTint">@color/tab_color</item>
+        <item name="tabSelectedTextColor">@color/colorPrimary</item>
+        <item name="tabTextAppearance">@style/MyCustomTextAppearance</item>
+    </style>
+
+    <style name="MyCustomTextAppearance" parent="TextAppearance.Design.Tab">
+
+        <item name="android:fontFamily">@font/lato_regular</item>
+        <item name="android:textSize">@dimen/sp_12</item>
+        <item name="android:color">@color/tab_color</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
+    <style name="text.error" parent="text.xSmall">
+        <item name="android:textColor">@color/redPrimary</item>
+    </style>
+
+    <style name="text.hint" parent="text.normal.small">
+        <item name="android:textColor">@color/text_hint</item>
+    </style>
+
+    <style name="text.section" parent="text.large.bold">
+        <item name="android:paddingLeft">@dimen/dp_16</item>
+        <item name="android:paddingRight">@dimen/dp_16</item>
+        <item name="android:paddingTop">@dimen/dp_16</item>
+        <item name="android:paddingBottom">@dimen/dp_16</item>
+    </style>
+
+    <style name="text.section.flat" parent="text.section">
+        <item name="android:paddingLeft">0dp</item>
+        <item name="android:paddingRight">0dp</item>
+        <item name="android:paddingTop">@dimen/dp_16</item>
+        <item name="android:paddingBottom">@dimen/dp_16</item>
+    </style>
+
+    <style name="tilOutlined" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense">
+        <item name="errorTextAppearance">@style/text.error</item>
+        <item name="hintTextAppearance">@style/text.hint</item>
+        <item name="helperTextTextAppearance">@style/text.small</item>
+    </style>
+
+    <style name="tilFilled" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="errorTextAppearance">@style/text.error</item>
+        <item name="hintTextAppearance">@style/text.hint</item>
+        <item name="helperTextTextAppearance">@style/text.small</item>
+        <item name="boxBackgroundColor">@color/blueEditTextFill</item>
+    </style>
+
+    <style name="til.filled.dropdown" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu">
+        <item name="errorTextAppearance">@style/text.error</item>
+        <item name="hintTextAppearance">@style/text.hint</item>
+        <item name="helperTextTextAppearance">@style/text.small</item>
+        <item name="boxBackgroundColor">@color/blueEditTextFill</item>
+    </style>
+
+    <style name="til.normal.dropdown" parent="Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu">
+        <item name="errorTextAppearance">@style/text.error</item>
+        <item name="hintTextAppearance">@style/text.hint</item>
+        <item name="helperTextTextAppearance">@style/text.small</item>
+        <item name="boxCollapsedPaddingTop">6dp</item>
+        <item name="boxBackgroundColor">@color/transparent</item>
+    </style>
+
+    <style name="til.normal" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/transparent</item>
+        <item name="boxCollapsedPaddingTop">6dp</item>
+    </style>
+
+    <style name="til.normal.noLine" parent="til.normal">
+        <item name="boxBackgroundColor">@color/transparent</item>
+        <item name="colorControlNormal">@color/transparent</item>
+        <item name="colorControlActivated">@color/transparent</item>
+        <item name="colorControlHighlight">@color/transparent</item>
+    </style>
+
+    <style name="tilNormalNoLine" parent="Widget.MaterialComponents.TextInputLayout.FilledBox">
+        <item name="boxBackgroundColor">@color/transparent</item>
+        <item name="colorControlNormal">@color/transparent</item>
+        <item name="colorControlActivated">@color/transparent</item>
+        <item name="colorControlHighlight">@color/transparent</item>
+    </style>
+
+    <style name="text.section.majesty" parent="text.normal.small">
+        <item name="android:textAppearance">@style/text.normal</item>
+    </style>
+
+    <style name="etMajesty" parent="Widget.AppCompat.EditText">
+        <item name="android:textAppearance">@style/text.normal</item>
+        <item name="android:paddingBottom">@dimen/dp_16</item>
+        <item name="android:tint">@color/text_hint</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/accentOrange</item>
+        <item name="colorControlActivated">@color/greyPrimaryDark</item>
+    </style>
+
+    <style name="switch.majesty" parent="Widget.AppCompat.CompoundButton.Switch">
+        <item name="android:textOff" />
+        <item name="android:textOn" />
+        <item name="android:thumb">@drawable/majesty_switch_thumb</item>
+        <item name="android:track">@drawable/majesty_switch_track</item>
+        <item name="android:switchMinWidth">@dimen/switch_track_width</item>
+        <item name="android:thumbTextPadding">@dimen/dp_12</item>
+    </style>
+
+    <style name="tabs">
+
+    </style>
+
+    <style name="tabs.blue">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="tabIndicatorColor">@color/white</item>
+        <item name="tabIndicatorHeight">@dimen/dp_4</item>
+        <item name="tabSelectedTextColor">@color/white</item>
+        <item name="tabTextAppearance">@style/text.tab.normal</item>
+        <item name="tabTextColor">@color/transparent_white</item>
+    </style>
+</resources>

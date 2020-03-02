@@ -1,0 +1,8 @@
+apply from: "$rootDir/common.gradle"
+
+dependencies {
+    implementation project(Modules.abstraction)
+    implementation project(Modules.uicomponent)
+    implementation project(Modules.router)
+    implementation Firebase.database
+}

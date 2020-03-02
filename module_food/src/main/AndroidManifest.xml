@@ -1,0 +1,29 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="sen.com.module.food">
+
+    <application>
+        <activity
+            android:name=".pages.foodList.AFoodList"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data
+                    android:host="@string/FOOD_LIST"
+                    android:scheme="@string/BASE_SCHEME" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".pages.foodDetails.AFoodDetails"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+                <category android:name="android.intent.category.DEFAULT" />
+                <data
+                    android:host="@string/FOOD_DETAILS"
+                    android:scheme="@string/BASE_SCHEME" />
+            </intent-filter>
+        </activity>
+    </application>
+</manifest>

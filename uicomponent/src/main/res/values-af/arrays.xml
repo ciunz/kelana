@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--KYC-->
+
+    <string-array name="KYC_TITLES">
+        <item>OJK</item>
+        <item>Identity</item>
+        <item>Address</item>
+        <item>Bank account</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_THIS_YEAR_INCOME">
+        <item>Choose</item>
+        <item>Less than Rp10 million</item>
+        <item>Rp10–50 million</item>
+        <item>Rp50–100 million</item>
+        <item>Rp100–500 million</item>
+        <item>Rp500 million - Rp1 billion</item>
+        <item>More than Rp1 billion</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_MONTHLY_INCOME">
+        <item>Choose</item>
+        <item>Less than Rp1 million</item>
+        <item>Rp1–4 million</item>
+        <item>Rp4–8 million</item>
+        <item>Rp8–20 million</item>
+        <item>Rp20–40 million</item>
+        <item>Rp40–85 million</item>
+        <item>More than Rp85 million</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_INVEST_STYLE">
+        <item>Choose</item>
+        <item>Low risk, low return</item>
+        <item>Medium risk, medium return</item>
+        <item>High risk, high return</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_SOURCE_INCOME">
+        <item>Choose</item>
+        <item>Salary</item>
+        <item>Business profit</item>
+        <item>Interest from savings</item>
+        <item>Inheritance</item>
+        <item>From parents/children</item>
+        <item>Grant</item>
+        <item>From husband/wife</item>
+        <item>Lottery</item>
+        <item>Return of investment</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_INVEST_OBJECTIVE">
+        <item>Choose</item>
+        <item>Receive an increase in value</item>
+        <item>Invest</item>
+        <item>Speculate</item>
+        <item>Expect more income</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_EDUCATION">
+        <item>Choose</item>
+        <item>Elementary</item>
+        <item>Junior high</item>
+        <item>Senior high</item>
+        <item>Diploma</item>
+        <item>Undergraduate</item>
+        <item>Graduate</item>
+        <item>Postgraduate</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_EXPERIENCE">
+        <item>Choose</item>
+        <item>1st timer</item>
+        <item>Experienced</item>
+        <item>Advanced</item>
+        <item>Expert</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_RELIGION">
+        <item>Choose</item>
+        <item>Moslem</item>
+        <item>Christian (Protestant)</item>
+        <item>Catholic</item>
+        <item>Hindu</item>
+        <item>Buddhist</item>
+        <item>Confucianism</item>
+        <item>Religious Belief</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_OCCUPATION">
+        <item>Choose</item>
+        <item>Student</item>
+        <item>Housewife</item>
+        <item>Enterpreneur</item>
+        <item>Government employee</item>
+        <item>Soldier/police</item>
+        <item>Retiree</item>
+        <item>Lecturer/teacher</item>
+        <item>Private employee</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="KYC_OPTIONS_MARITAL_STATUS">
+        <item>Choose</item>
+        <item>Single</item>
+        <item>Married</item>
+        <item>Divorce</item>
+    </string-array>
+
+    <string-array name="OPTIONS_IMAGE_PICK">
+        <item>Take Photo</item>
+        <item>Choose from gallery</item>
+    </string-array>
+
+    <!-- PAYMENT GUIDES -->
+    <string-array name="PAYMENT_GUIDES_KEYS">
+        <item>TRANSFER_ATM</item>
+        <item>TRANSFER_ATM_CROSS_BANK</item>
+        <item>M_BANKING</item>
+        <item>M_BANKING_CROSS_BANK</item>
+        <item>TELLER</item>
+    </string-array>
+
+    <string-array name="PAYMENT_GUIDES_TITLES">
+        <item>ATM Transfer</item>
+        <item>Interbank ATM Transfer</item>
+        <item>M-Banking Online Banking</item>
+        <item>M-banking Interbank Online Banking</item>
+        <item>Bank Teller</item>
+    </string-array>
+
+    <string-array name="TRANSFER_ATM">
+        <item>Select the Transfer to the Same Bank Account menu</item>
+        <item>Enter the instructed account number</item>
+        <item>Enter the transaction amount</item>
+        <item>Choose to print your transaction proof</item>
+        <item>Take a picture the transaction proof, then upload to confirm payment</item>
+    </string-array>
+
+    <string-array name="TRANSFER_ATM_CROSS_BANK">
+        <item>Select the Transfer to Another Bank Account menu</item>
+        <item>Enter the bank code and the instructed account number</item>
+        <item>Enter the transaction amount</item>
+        <item>Choose to print your transaction proof</item>
+        <item>Take a picture the transaction proof, then upload to confirm payment</item>
+    </string-array>
+
+    <string-array name="M_BANKING">
+        <item>Pilih menu Transfer ke Rekening Sesama</item>
+        <item>Pilih bank tujuan serta no. rekening tujuan</item>
+        <item>Masukkan jumlah transaksi</item>
+        <item>Setelah transaksi berhasil, unduh atau screenshot bukti transfer</item>
+        <item>Unggah bukti transfer via galeri untuk konfirmasi pembayaran</item>
+    </string-array>
+
+    <string-array name="M_BANKING_CROSS_BANK">
+        <item>Select the Transfer to Another Bank Account menu</item>
+        <item>Enter the bank code and the instructed account number</item>
+        <item>Enter the transaction amount</item>
+        <item>After a successful transaction, download or screenshot the proof of transfer</item>
+        <item>Upload proof of transfer via your phone\'s gallery to confirm payment</item>
+    </string-array>
+
+    <string-array name="TELLER">
+        <item>Visit the nearest bank branch</item>
+        <item>Make sure to bring a passbook to make transactions</item>
+        <item>Use the "Transfer Funds Between Accounts" slip (not the "Cash Deposit" slip) &amp; complete the required information</item>
+        <item>Hand over the slip to the bank teller</item>
+        <item>Upload the picture of a transfer slip to confirm your payment</item>
+    </string-array>
+
+    <string-array name="WITHDRAWAL_REASON_TITLE">
+        <item>Investment goals have been reached</item>
+        <item>Not comfortable with the investment performance obtained</item>
+        <item>Urgent emergency funding needed</item>
+        <item>Want to change my own investment allocation</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="WITHDRAWAL_REASON_DESC">
+        <item>Great! Let\'s create new goals and dreams with Ajaib</item>
+        <item>In order to maximize long-term investment performance, do not rush to withdraw funds when the market is down. Contact our financial experts for advice!</item>
+        <item>Oh, no... Don\'t forget to always have funds allocated specifically for long-term investment</item>
+        <item>Diversification is the key of success in investing. Be sure to include mutual funds in your portfolio to reduce risk</item>
+        <item />
+    </string-array>
+
+    <!--CONFIG-->
+
+    <string-array name="WELCOME_SLIDERS_TITLES">
+        <item>A Simpler Way to Invest</item>
+        <item>Safe and Secure</item>
+        <item>Invest Without Hassle, No Extra Charges</item>
+    </string-array>
+
+    <string-array name="WELCOME_SLIDERS_DESCRIPTION">
+        <item>Own and manage best mutual fund. Directly on your phone!</item>
+        <item>Registered and supervised by Otoritas Jasa Keuangan (OJK)</item>
+        <item>Starts from Rp10,000. Paperless account opening in a few clicks</item>
+    </string-array>
+
+    <string-array name="FAQ_TITLES">
+        <item>About Ajaib</item>
+        <item>About Investing</item>
+        <item>Deposit</item>
+        <item>Withdrawal</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_ABOUT_AJAIB">
+        <item>What is Ajaib?</item>
+        <item>How to start investing?</item>
+        <item>Is it safe to invest in Ajaib?</item>
+        <item>Are there fees for investing in Ajaib?</item>
+        <item>Why aren\'t there many investment options in Ajaib?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_ABOUT_AJAIB">
+        <item>Ajaib is an investment application that makes it easy for you to invest in mutual funds online. Ajaib provides the best mutual fund recommendations and various investment-related lessons, so everyone has access to safe investment products.</item>
+        <item>1. Complete your personal data form in our application. This data will be used for mandatory account verification from OJK. For the sake of your safety and comfort. This verification process usually takes 3 hours (if your data is complete and no discrepancies).\n2. While waiting for the verification process to take place, you can learn about the mutual fund products available in the app before making a transaction later.</item>
+        <item>Ajaib is a trusted investment application that is registered and supervised by OJK and KOMINFO. What\'s more, all of your investment funds will be managed directly by the appointed Investment Manager. You don\'t need to worry about investing in Ajaib. In addition, you will also get mutual fund ownership emails from custodian banks, so you can always find out your investment status, even outside Ajaib.</item>
+        <item>Ajaib does not charge you account costs, purchase costs, disbursement costs. You will only be charged an interbank transfer fee of Rp5,000, or according to the T&amp;C of each bank, only if your bank account is different from a custodian bank.</item>
+        <item>Professor Sheena Iyengar from Columbia Business School once said that the more choices people have, they will be so overwhelmed to the point they postpone decisions, sometimes forever. People who delay investment decisions harm themselves  financially. Ajaib gives a solution to this problem. By providing a curated list of the best mutual funds, investors won\'t need to make a hard decision, and can directly invest in mutual funds which performances have been proven.</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_ABOUT_INVESTMENT">
+        <item>Why should I invest?</item>
+        <item>When should I invest?</item>
+        <item>Why should you invest in mutual funds?</item>
+        <item>What is return?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_ABOUT_INVESTMENT">
+        <item>Investing is important for your future. Be it to ease the impact of inflation, increase your wealth amount, to prepare for retirement, and to support your family\'s life in the future. Saving at a bank only gives around 0.5% return, there are even savings that do not provide a return at all. Therefore, rather than saving at a bank, investing is a wiser choice.</item>
+        <item>As early as possible. However, make sure you do not have debts that might endanger your future (such as credit cards), have insurance/BPJS for unexpected things, and have money allocated for daily life and emergency funds. The money invested must be idle funds (disposable income), in a sense, you do not have a specific plan for this idle fund. Instead of letting the fund sit idly by, you should invest it and let them work for you.</item>
+        <item>Easy: No need for in-depth knowledge of economics. The professional team (Investment Manager) will manage your capital for the best results. \nTransparent: Investors can see the value of investments recorded in the portfolio. The ups and downs of the investments\’ value can be observed every day, anytime, and anywhere. Investors also get legal documents from banks to show ownership of their mutual fund units. \nAffordable: No need to have big capital to get started. Starting from Rp10,000, investors can have diversified portfolios such as bonds, stocks, etc.\n\nMutual funds is an investment instrument suitable for both beginners &amp; experienced investors alike. There are various types of mutual fund in the app: index fund, fixed income funds, sharia funds, balanced funds, and money market funds, you can choose the right type of investment (or let us choose for you).</item>
+        <item>Return is the value difference between your current investment and the investment capital you\'ve spent. Higher returns mean better investment performance. Please be informed that returns can be negative. Negative return is caused by a decrease in investment value. Therefore, as long as you do not disburse your funds, you won\'t lose your money as the investment value can go up again in the near future.</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_DEPOSIT">
+        <item>How is the investment deposit process at Ajaib?</item>
+        <item>What payment channels can be used to make a deposit?</item>
+        <item>Why do I need to transfer more than once for the same transaction?</item>
+        <item>How long does it take to process my deposit transaction?</item>
+        <item>What if I upload the deposit slip incorrectly?</item>
+        <item>Can I cancel my transaction?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_DEPOSIT">
+        <item>You can make an investment deposit according to your chosen amount. Wire the fund to a BCA account that is informed via email and displayed on the application.</item>
+        <item>Deposits can be made through:\n1. Banking services, namely transfers between bank accounts through ATMs, Internet Banking, Mobile Banking.\n2. Non-Bank Services, namely transfers through OVO Premium accounts.\n\nAll deposits are required to use an account in the name of the investor, as recorded on the registered KTP/ID Card. Must not under the name of another person/company. Investors must upload proof of transfer to Ajaib app, be it a picture, screenshot, or account mutation details.</item>
+        <item>If this happens, it means you are using the services of experts to calculate your investment fund allocation. Ajaib system will directly split your money into several mutual funds, based on your profile and investment objectives. Therefore, You must make deposits more than once to various different mutual funds.\n\nThe algorithm used by Ajaib aims to reduce investment risk, and help you achieve your investment goals. </item>
+        <item>If you make a transfer and upload the payment proof before 13.00 WIB, your transaction will be processed within the same business day. You will get your mutual fund units at a max. of 2 business days.\n\nIf you make a transfer and payment proof past 13.00 WIB, your transaction will be processed the next business day. In this case, your will get your unit at a max of 3 business days.\n\nPlease remember that business days do not include Saturdays, Sundays and national holidays.</item>
+        <item>You can send the correct proof of deposit to our customer service through email. Share with us your name, registered telephone number, registered email, mutual fund name, nominal deposit, and deposit date.</item>
+        <item>If you have not made a payment, then you can cancel your transaction through the app. However, if you have already made a deposit and uploaded the proof in Ajaib, your deposit cannot be canceled.</item>
+    </string-array>
+
+    <string-array name="FAQ_SECTION_WITHDRAW">
+        <item>How to withdraw funds from Ajaib?</item>
+        <item>Can I cancel my withdrawal transaction?</item>
+        <item>Is there a fee to make a withdrawal?</item>
+        <item>I can\'t find the money I\'ve withdrawn. How come?</item>
+    </string-array>
+
+    <string-array name="FAQ_CONTENT_WITHDRAW">
+        <item>To withdraw your investment funds in Magic, do the following steps:\n1. Determine the fund you want to withdraw from\n2. Tap on the fund, then tap on the "withdraw" button\n3. Enter the withdrawal amount\n4. Your mutual fund withdrawal request will be submitted to the Investment Manager and processed.\n5. Your mutual funds will be disbursed by the Investment Manager. This process is usually completed in 2-3 business days. However, several mutual funds that require up to a maximum of 7 business days.\n6. After the process is complete, you will receive funds in the account that you have registered.</item>
+        <item>Withdrawal requests can be canceled before 13.00 WIB on the same day the request is made. After 13:00 WIB, you cannot cancel the withdrawal request.</item>
+        <item>There is no fee imposed by Ajaib, but there is a possibility of being charged an interbank transfer fee of at least Rp5,000, or according to the respective bank\'s T&amp;C if your registered bank account is different than the custodian\'s. To find out what custodian bank is used by your Investment Manager, you can read the mutual fund Prospectus page.</item>
+        <item>Based on regulations, you will get the money in 2-7 working days. When you want to withdraw funds, your mutual fund units must be disbursed first by your Investment Manager, and it might take awhile.\n\nIf it has passed 7 business days (not including Saturday, Sunday and national holidays) you have not received your money, please contact Ajaib\’s customer service. </item>
+    </string-array>
+
+    <string-array name="MISSION_HOW_TO_PLAY">
+        <item>Tingkatkan poin masing-masing misi untuk mendapatkan medali</item>
+        <item>Dalam misi <b>Total Investasi</b> poinmu dapat berubah sesuai NAB harian. Poinmu di misi <b>Tidak Tarik Dana</b> juga akan berkurang jika kamu melakukan penarikan. </item>
+        <item>Kamu bisa saja kehilangan medalimu kalau poinmu terus berkurang</item>
+        <item>Misi harus selesai semua (empat medali emas) agar kamu berhak mendapatkan hadiah</item>
+        <item>Ajaib akan memilih 3 pemenang setiap bulannya secara acak. Masing-masing pemenang akan mendapatkan reksa dana sebesar 500.000 rupiah</item>
+        <item>Ajaib akan menghubungi pemenang melalui email &amp; memberikan hadiah langsung ke akun Ajaibmu!</item>
+        <item>Ajaib berhak sewaktu-waktu mengganti syarat dan ketentuan misi.</item>
+    </string-array>
+
+</resources>

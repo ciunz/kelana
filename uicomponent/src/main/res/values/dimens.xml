@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="dp_1">1dp</dimen>
+    <dimen name="dp_2">2dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_4">4dp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_12">12dp</dimen>
+    <dimen name="dp_14">14dp</dimen>
+    <dimen name="dp_16">16dp</dimen>
+    <dimen name="dp_18">18dp</dimen>
+    <dimen name="dp_20">20dp</dimen>
+    <dimen name="dp_24">24dp</dimen>
+    <dimen name="dp_28">28dp</dimen>
+    <dimen name="dp_36">36dp</dimen>
+
+    <dimen name="sp_8">8sp</dimen>
+    <dimen name="sp_10">10sp</dimen>
+    <dimen name="sp_11">11sp</dimen>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="sp_14">14sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="sp_18">18sp</dimen>
+    <dimen name="sp_20">20sp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+
+    <dimen name="loader_small">18dp</dimen>
+    <dimen name="loader_med">24dp</dimen>
+
+    <dimen name="activity_padding">16dp</dimen>
+    <dimen name="placeholder_image">60dp</dimen>
+    <dimen name="placeholder_text_height_small">8dp</dimen>
+    <dimen name="placeholder_text_height">10dp</dimen>
+    <dimen name="placeholder_text_height_large">16dp</dimen>
+    <dimen name="padding_10">10dp</dimen>
+    <dimen name="margin_10">10dp</dimen>
+
+    <dimen name="corner_radius">8dp</dimen>
+    <dimen name="corner_radius_small">4dp</dimen>
+    <dimen name="header_radius">16dp</dimen>
+
+    <dimen name="toolbar_height">56dp</dimen>
+    <dimen name="actionbar_icon_size">36dp</dimen>
+    <dimen name="button_height">52dp</dimen>
+    <dimen name="button_height_small">42dp</dimen>
+    <dimen name="section_header_height">48dp</dimen>
+    <dimen name="icon_size_large">56dp</dimen>
+    <dimen name="icon_size">48dp</dimen>
+    <dimen name="icon_size_small">36dp</dimen>
+    <dimen name="icon_size_x_small">24dp</dimen>
+    <dimen name="icon_size_xx_small">16dp</dimen>
+
+    <dimen name="profile_image">70dp</dimen>
+    <dimen name="profile_image_small">36dp</dimen>
+
+    <dimen name="tab_height">42dp</dimen>
+
+    <dimen name="switch_thumb_size">16dp</dimen>
+    <dimen name="switch_thumb_radius">12dp</dimen>
+    <dimen name="switch_track_height">16dp</dimen>
+    <dimen name="switch_track_width">20dp</dimen>
+    <dimen name="switch_track_radius">12dp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+apply from: "$rootDir/common.gradle"
+
+dependencies {
+    implementation project(Modules.router)
+    implementation project(Modules.uicomponent)
+}

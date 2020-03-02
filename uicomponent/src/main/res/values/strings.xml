@@ -1,0 +1,1642 @@
+<resources>
+    <string name="OK">OK</string>
+    <string name="CANCEL">Batal</string>
+    <string name="CLOSE">CLOSE</string>
+    <string name="ALERT_POSITIVE_BUTTON">OK</string>
+    <string name="ALERT_NEGATIVE_BUTTON">Cancel</string>
+    <string name="TRY_AGAIN">Coba Lagi</string>
+    <string name="LOADING">Loading</string>
+    <string name="SEARCH">Search</string>
+    <string name="COPY">Salin</string>
+    <string name="SUCCESS">Sukses</string>
+    <string name="FAILED">Gagal</string>
+    <string name="FIELD_REQUIRED">*required</string>
+    <string name="PLUS_">+%1$s</string>
+    <string name="PLUS">&#43;</string>
+    <string name="MINUS">&#65293;</string>
+    <string name="DOT_" translatable="false">&#8226; %1$s</string>
+    <string name="DOT" translatable="false">&#8226;</string>
+    <string name="_DOT_" translatable="false">&#160;&#160;&#8226;&#160;&#160;</string>
+    <string name="STAR" translatable="false">&#9733;</string>
+    <string name="JUST">%1$s</string>
+    <string name="N_TO_M">%1$s - %2$s</string>
+    <string name="N_DOT_M">%1$s &#8226; %2$s</string>
+    <string name="BACK">Kembali</string>
+    <string name="YES">Ya</string>
+    <string name="NO">Tidak</string>
+    <string name="COPIED">Tersalin</string>
+    <string name="YEAR">Tahun</string>
+    <string name="RESET">Reset</string>
+    <string name="TAB" translatable="false">\u0009</string>
+    <string name="LOREM" translatable="false">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</string>
+
+    <string name="ERROR_NO_DATA_FOUND">Data tidak ditemukan</string>
+    <string name="ERROR_NO_TRANSACTION_FOUND">Transaksi tidak ditemukan</string>
+
+    <string name="SELECT">Pilih</string>
+    <string name="SELECT_METHOD">Silahkan pilih</string>
+    <string name="PERMISSION_CAMERA_TITLE"></string>
+
+    <string name="PICK_IMAGE_TITLE">Pilih Metode</string>
+    <string name="CAMERA">Kamera</string>
+    <string name="GALLERY">Galeri</string>
+    <string name="TO_SETTINGS">Buka Pengaturan</string>
+    <string name="REQUIRED_PERMISSION_TITLE">Butuh ijin untuk membuka %1$s</string>
+    <string name="REQUIRED_PERMISSION_DESCRIPTION">%1$s membutuhkan izin untuk menggunakan fitur %2$s</string>
+    <string name="REQUIRED_PERMISSION_DESCRIPTION_SETTINGS">%1$s membutuhkan ijin untuk menggunakan fitur %2$s. Silahkan ubah ijin di pengaturan.</string>
+
+    <string name="EQUITY">Saham</string>
+    <string name="MONEY_MARKET">Pasar Uang</string>
+    <string name="BONDS">Pendapatan Tetap</string>
+
+    <string name="SPLASH_OJK_DECLARATION">Ajaib telah terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK)</string>
+    <string name="SPLASH_MOCK_OJK_DECLARATION">Kami telah terdaftar dan diawasi oleh Otoritas Jasa Keuangan (OJK)</string>
+    <string name="SPLASH_VERSION_NAME">Versi: %1$s</string>
+    <string name="SPLASH_FORCE_UPDATE_DEFAULT_TITLE">Yang terbaru dari Ajaib</string>
+    <string name="SPLASH_FORCE_UPDATE_DEFAULT_DESCRIPTION">Update versi terbaru ajaib untuk pengalaman investasi yang lebih baik.</string>
+    <string name="SPLASH_FORCE_UPDATE_BUTTON_TEXT_POSITIVE">UPDATE</string>
+    <string name="SPLASH_FORCE_UPDATE_BUTTON_TEXT_NEGATIVE">KELUAR</string>
+    <string name="SPLASH_NORMAL_UPDATE_DEFAULT_TITLE">Terbaru dari Ajaib</string>
+    <string name="SPLASH_NORMAL_UPDATE_DEFAULT_DESCRIPTION">Update versi terbaru ajaib untuk pengalaman investasi yang lebih baik.</string>
+    <string name="SPLASH_NORMAL_UPDATE_BUTTON_TEXT_POSITIVE">UPDATE</string>
+    <string name="SPLASH_NORMAL_UPDATE_BUTTON_TEXT_NEGATIVE">LANJUT</string>
+
+    <string name="WELCOME_BUTTON_REGISTER">DAFTAR</string>
+    <string name="WELCOME_BUTTON_SIGN_IN">Saya sudah memiliki akun</string>
+    <string name="WELCOME_BUTTON_SIGN_IN_ERROR_EMAIL_EXIST">Email sudah terdaftar, silahkan masuk menggunakan email tersebut, atau pilih \"Lupa Password\"</string>
+    <string name="WELCOME_BUTTON_SIGN_IN_ERROR_EMAIL_EXIST_TO_EMAIL">MASUK</string>
+    <string name="WELCOME_BUTTON_SIGN_IN_WITH_GOOGLE">Masuk Melalui Google</string>
+
+    <string name="LOGIN_TITLE">Masuk</string>
+    <string name="LOGIN_INPUT_HINT_EMAIL">Email</string>
+    <string name="LOGIN_INPUT_ERROR_EMAIL_INVALID">Invalid email address</string>
+    <string name="LOGIN_INPUT_ERROR_PASSWORD_INVALID">Invalid password</string>
+    <string name="LOGIN_INPUT_HINT_PASSWORD">Password</string>
+    <string name="LOGIN_BUTTON_FORGOT_PASSWORD">Lupa password</string>
+    <string name="LOGIN_BUTTON_DISCLAIMER">Disclaimer</string>
+    <string name="LOGIN_BUTTON_LOGIN">MASUK</string>
+
+    <string name="CHANGE_PHONE_TITLE">Ganti Nomor Ponsel</string>
+    <string name="CHANGE_PHONE_HINT_PHONE">Nomor ponsel</string>
+    <string name="CHANGE_PHONE_ERROR_PHONE_INVALID">Nomor ponsel tidak valid</string>
+    <string name="CHANGE_PHONE_BUTTON_CHANGE">Ganti</string>
+    <string name="CHANGE_PHONE_SUCCESS_MESSAGE">Nomor ponsel telah terganti</string>
+    <string name="CHANGE_PHONE_FAILED_MESSAGE">Gagal mengganti nomor ponsel</string>
+
+    <string name="FORGOT_PASSWORD_TITLE">Lupa Password</string>
+    <string name="FORGOT_PASSWORD_INPUT_HINT_EMAIL">Email</string>
+    <string name="FORGOT_PASSWORD_BUTTON_RESET_PASS">Reset Password</string>
+
+    <string name="REGISTER_TITLE">Daftar</string>
+    <string name="REGISTER_HINT_PHONE">Nomor ponsel</string>
+    <string name="REGISTER_ERROR_PHONE_INVALID_FORMAT">Mohon masukkan nomor ponsel yang benar</string>
+    <string name="REGISTER_HINT_EMAIL">Email</string>
+    <string name="REGISTER_ERROR_EMAIL_INVALID_FORMAT">Mohon masukkan email yang benar</string>
+    <string name="REGISTER_HINT_PASSWORD">Password</string>
+    <string name="REGISTER_ERROR_PASSWORD_INVALID_FORMAT">Password harus mengandung huruf dan angka</string>
+    <string name="REGISTER_HINT_RE_PASSWORD">Konfirmasi password</string>
+    <string name="REGISTER_ERROR_RE_PASSWORD_NOT_MATCH">Konfirmasi password tidak sama</string>
+    <string name="REGISTER_SECTION_REFERRAL_CODE">Kode referral</string>
+    <string name="REGISTER_HINT_REFERRAL_CODE">Kode referral</string>
+    <string name="REGISTER_ERROR_REFERRAL_CODE_INVALD">Kode referral tidak valid</string>
+    <string name="REGISTER_BUTTON_REGISTER">DAFTAR</string>
+    <string name="REGISTER_TNC_DESCRIPTION">Dengan mendaftar, saya menyetujui</string>
+    <string name="REGISTER_TNC_LINK">Syarat &amp; Ketentuan, Kebijakan Privasi dan Disclaimer</string>
+    <string name="REGISTER_ALREADY_A_USER">Sudah punya akun?</string>
+    <string name="REGISTER_BUTTON_SIGN_IN">MASUK</string>
+
+    <string name="REGISTER_SOC_MED_TITLE">Masuk menggunakan sosial media</string>
+    <string name="REGISTER_SOC_MED_HEADER_TITLE">Kamu Hampir Siap Berinvestasi!</string>
+    <string name="REGISTER_SOC_MED_HEADER_DESCRIPTION">Pendaftaran sukses! Masukkan nomor ponsel\nuntuk mengamankan akunmu</string>
+
+    <string name="MAIN_TAB_NAME_HOME">Beranda</string>
+    <string name="MAIN_TAB_NAME_INVEST">Investasiku</string>
+    <string name="MAIN_TAB_NAME_DISCOVERY">Discovery</string>
+    <string name="MAIN_TAB_NAME_TRANSACTION">Transaksi</string>
+    <string name="MAIN_TAB_NAME_LEARN">Komunitas</string>
+    <string name="MAIN_TAB_NAME_SETTINGS">Akun Saya</string>
+
+    <string name="MAIN_POPUP_SESSION_OVER_TITLE">Sesi Berakhir</string>
+    <string name="MAIN_POPUP_SESSION_OVER_DESCRIPTION">Sesi anda telah berakhir, silahkan masuk kembali</string>
+
+    <string name="MAIN_EXIT_POPUP_DESC">Tutup aplikasi Ajaib?</string>
+
+    <string name="TAB_MENU_POPUP_REFERRED_TITLE">Selamat, Anda mendapat Rp 10 ribu reksa dana gratis!</string>
+    <string name="TAB_MENU_POPUP_REFERRED_DESC">Lengkapi investasi pertama Anda dalam 3 hari ke depan untuk menerima reksa dana gratis ini</string>
+    <string name="TAB_MENU_POPUP_REFERRED_BUTTON_POSITIVE">Mengerti</string>
+
+    <string name="TAB_MENU_POPUP_CHANCE_TITLE">Anda mendapatkan koin Ajaib dari %1$d teman</string>
+    <string name="TAB_MENU_POPUP_CHANCE_DESC">Gunakan koin Anda untuk main karpet ajaib dan menangkan reksa dana gratis!</string>
+    <string name="TAB_MENU_POPUP_CHANCE_BUTTON_POSITIVE">Mainkan Nanti</string>
+    <string name="TAB_MENU_POPUP_CHANCE_BUTTON_NEGATIVE">Mainkan Sekarang</string>
+
+    <string name="TAB_PROFILE_TITLE">Akun Saya</string>
+    <string name="TAB_PROFILE_MENU_ACCOUNT">Pengaturan Akun</string>
+    <string name="TAB_PROFILE_MENU_LEGAL">Legal</string>
+    <string name="TAB_PROFILE_MENU_FAQ">Pusat Bantuan</string>
+    <string name="TAB_PROFILE_MENU_REFERRAL">Reksa Dana Gratis</string>
+    <string name="TAB_PROFILE_MENU_REWARD">Reward</string>
+    <string name="TAB_PROFILE_MENU_CHALLENGE">Challenge</string>
+    <string name="TAB_PROFILE_MENU_CALCULATOR">Calculator</string>
+    <string name="TAB_PROFILE_MENU_COMMUNITY">Gabung Komunitas</string>
+    <string name="TAB_PROFILE_MENU_RATING">Nilai Kami!</string>
+    <string name="TAB_PROFILE_MENU_INBOX">Kotak Masuk</string>
+    <string name="TAB_PROFILE_MENU_VERSION">Versi Aplikasi</string>
+    <string name="TAB_PROFILE_MENU_GLOSSARY">Kamus</string>
+    <string name="TAB_PROFILE_MENU_QUIT">Keluar</string>
+    <string name="TAB_PROFILE_POPUP_RATING_TITLE">Ayo Berikan Bintangmu kepada kami :D</string>
+    <string name="TAB_PROFILE_POPUP_RATING_DESC">Bantu kami agar menjadi lebih baik lagi</string>
+    <string name="TAB_PROFILE_POPUP_RATING_POSITIVE_BUTTON">Rating</string>
+    <string name="TAB_PROFILE_POPUP_RATING_NEGATIVE_BUTTON">Nanti Saja</string>
+    <string name="TAB_PROFILE_QUIT">Keluar</string>
+    <string name="TAB_PROFILE_POPUP_LOGOUT_TITLE">Konfirmasi</string>
+    <string name="TAB_PROFILE_POPUP_LOGOUT_DESC">Apakah anda yakin ingin Logout?</string>
+    <string name="TAB_PROFILE_OJK_TEXT">Terdaftar dan Diawasi</string>
+
+    <string name="USER_DASHBOARD_BUTTON_VIEW_PROFILE">Lihat profil</string>
+    <string name="USER_DASHBOARD_VERIFY_EMAIL_TITLE">Cek email-mu untuk panduan verifikasi</string>
+    <string name="USER_DASHBOARD_VERIFY_EMAIL_DESC">Belum terima email?</string>
+    <string name="USER_DASHBOARD_VERIFY_EMAIL_BUTTON">Kirim Ulang</string>
+
+    <string name="INBOX_TITLE">Inbox</string>
+
+    <string name="TAB_TRANSACTION_TITLE">Transaksi</string>
+    <string name="TAB_TRANSACTION_TAB_STOCK">Saham</string>
+    <string name="TAB_TRANSACTION_TAB_MUTUAL_FUND">Reksa Dana</string>
+
+    <string name="TAB_LEARN_TITLE">News &amp; Feed</string>
+    <string name="TAB_LEARN_KBBI">KBBI: </string>
+    <string name="TAB_LEARN_COMING_SOON">Fitur ini akan segera ada</string>
+    <string name="TAB_LEARN_KBBI_DESC">Kamus Besar Bahasa Investasi</string>
+    <string name="TAB_LEARN_SECTION_EXPERT_UPDATE">Berita Harian</string>
+    <string name="TAB_LEARN_SECTION_EXPERT_UPDATE_BUTTON">Sebelumnya</string>
+    <string name="TAB_LEARN_ADVISOR_DESCRIPTION">Kelola keuangan kamu lebih baik melalui konsultasi dengan para ahli kami</string>
+    <string name="TAB_LEARN_ADVISOR_BUTTON">Konsultasi Gratis</string>
+
+    <string name="TAB_LEARN_TAB_NEWS">Berita</string>
+    <string name="TAB_LEARN_TAB_COMMUNITY">Komunitas</string>
+    <string name="TAB_LEARN_TAB_LEARN">Belajar</string>
+
+    <string name="LEARN_MATERIAL_DEFAULT_CATEGORY">Belajar</string>
+
+
+    <string name="TAB_PROFILE_VERSION">version: %1$s</string>
+
+    <string name="COMMUNITY_BUTTON_READ_MORE">Read More</string>
+    <string name="COMMUNITY_GREETING">Hai, %1$s</string>
+    <string name="COMMUNITY_COMMENT_HINT">Tulis Komentar…</string>
+    <string name="COMMUNITY_POPUP_RULES_TITLE">Peraturan Komunitas</string>
+    <string name="COMMUNITY_POPUP_RULES_BUTTON">Mengerti</string>
+
+    <string name="COMMUNITY_ITEM_N_LIKE">%1$d Suka</string>
+    <string name="COMMUNITY_ITEM_LIKE">Suka</string>
+    <string name="COMMUNITY_ITEM_N_COMMENTS">%1$d Balas</string>
+    <string name="COMMUNITY_ITEM_COMMENTS">Balas</string>
+    <string name="COMMUNITY_ITEM_SHARE">Bagikan</string>
+
+    <string name="COMMUNITY_POST_TITLE">Buat Baru</string>
+    <string name="COMMUNITY_POST_HINT_CATEGORIES">Pilih Kategori</string>
+    <string name="COMMUNITY_POST_HINT">Punya pertanyaan? Diskusi, yuk!</string>
+    <string name="COMMUNITY_POST_BUTTON_POST">Kirim</string>
+    <string name="COMMUNITY_POST_ERROR_REQUIRED_CATEGORIES">Silahkan pilih kategori</string>
+    <string name="COMMUNITY_POST_ERROR_REQUIRED_CONTENT">Silahkan isi yang ingin anda kirim</string>
+
+    <string name="COMMUNITY_POST_DETAILS_TITLE">Komentar</string>
+    <string name="COMMUNITY_POST_DETAILS_BUTTON_SEND">Kirim</string>
+    <string name="COMMUNITY_POST_DETAILS_ERROR_EMPTY_COMMENT">Silahkan isi yang ingin anda kirim</string>
+    <string name="COMMUNITY_POST_DETAILS_COMMENT_HINT">Tulis Komentar…</string>
+    <string name="COMMUNITY_POST_DETAILS_COMMENT">Balas</string>
+    <string name="COMMUNITY_POST_DETAILS_N_COMMENT">%1$d Balas</string>
+    <string name="COMMUNITY_POST_DETAILS_POPUP_REPORT_TITLE">Alasan Report</string>
+    <string name="COMMUNITY_POST_DETAILS_POPUP_REPORT_DESC">Berikan kami alasan kenapa Anda ingin mereport komentar ini</string>
+    <string name="COMMUNITY_POST_DETAILS_POPUP_POST_REPORT_DESC">Berikan kami alasan kenapa Anda ingin mereport post ini</string>
+    <string name="COMMUNITY_POST_DETAILS_N_LIKE">%1$d Suka</string>
+    <string name="COMMUNITY_POST_DETAILS_ITEM_LIKE">Suka</string>
+    <string name="COMMUNITY_POST_DETAILS_ITEM_N_LIKE">%1$d Suka</string>
+    <string name="COMMUNITY_POST_DETAILS_ITEM_REPORT">Laporkan</string>
+
+    <string name="HOME_DASHBOARD_GREETING">Halo, %1$s</string>
+    <string name="HOME_DASHBOARD_GREETING_NO_NAME">Halo, Investor</string>
+    <string name="HOME_DASHBOARD_TOTAL_INVESTMENT">Total Investasi</string>
+    <string name="HOME_DASHBOARD_TOTAL_DEPOSIT">Setoran</string>
+    <string name="HOME_DASHBOARD_TOTAL_RETURN">Return</string>
+    <string name="HOME_DASHBOARD_TOTAL_BONUS">Bonus</string>
+    <string name="HOME_DASHBOARD_BONUS_BUTTON">Tambah Bonus</string>
+    <string name="HOME_DASHBOARD_AMOUNT_INVEST">Total Investasi</string>
+    <string name="HOME_DASHBOARD_RETURN_TODAY">Return hari ini</string>
+    <string name="HOME_DASHBOARD_ALLOCATION">direncanakan untuk setor</string>
+    <string name="HOME_DASHBOARD_WAITING_KYC_CONFIRMATION">Akunmu akan diverifikasi max.3 jam kerja.\nKamu bisa setor setelahnya!</string>
+    <string name="HOME_DASHBOARD_PENDING_TRANS">Transaksi belum selesai</string>
+    <string name="HOME_DASHBOARD_WAITING_TRANS">Menunggu unit</string>
+    <string name="HOME_DASHBOARD_COMPLETE_NOW">Selesaikan</string>
+    <string name="HOME_DASHBOARD_PENDING_DEPOSIT">Menunggu Setoran</string>
+    <string name="HOME_DASHBOARD_IN_WITHDRAW">Akan Ditarik</string>
+    <string name="HOME_DASHBOARD_VERIFY_EMAIL_TITLE">Selangkah Lagi Jadi Investor!</string>
+    <string name="HOME_DASHBOARD_DID_NOT_RECEIVE">Belum terima email?</string>
+    <string name="HOME_DASHBOARD_RESEND_EMAIL">Kirim Ulang</string>
+    <string name="HOME_DASHBOARD_TRANSFER_NOW">SETOR SEKARANG</string>
+    <string name="HOME_DASHBOARD_OUR_EXPERT_WILL">Para ahli kami akan merekomendasikan investasi yang tepat untukmu</string>
+    <string name="HOME_DASHBOARD_WAITING_VERIFICATION_TITLE">Menunggu Untuk Disetujui</string>
+    <string name="HOME_DASHBOARD_WAITING_VERIFICATION_DESC">Kami sedang melakukan verifikasi data diri kamu, harap ditunggu ya, normalnya ini hanya 1 &#8211; 3 jam.</string>
+    <string name="HOME_DASHBOARD_WAITING_VERIFICATION_HAS_DEPOSIT">Ajaib sedang memverifikasi akunmu. Transaksimu bisa diselesaikan setelahnya</string>
+    <string name="HOME_DASHBOARD_IN_ALLOCATION_FOR_DEPOSIT">direncanakan untuk setor</string>
+    <string name="HOME_DASHBOARD_VERIFICATION_EMAIL">Klik link Ajaib di email mu \n%1$s untuk selesaikan verifikasi.</string>
+    <string name="HOME_DASHBOARD_READY_TO_INVEST_TITLE">Pendaftaran Reksa Dana Berhasil</string>
+    <string name="HOME_DASHBOARD_READY_TO_INVEST_DESC">Selamat akunmu sudah bisa digunakan untuk investasi, ayo lakukan investasi pertamamu!</string>
+    <string name="HOME_DASHBOARD_READY_TO_INVEST_BUTTON">MULAI INVESTASI</string>
+    <string name="HOME_DASHBOARD_KYC_TITLE">Buat Profil Investasi</string>
+    <string name="HOME_DASHBOARD_KYC_DESC">Para ahli kami akan merekomendasikan investasi yang tepat untukmu</string>
+    <string name="HOME_DASHBOARD_KYC_BUTTON">Mulai Buat Profile</string>
+    <string name="HOME_DASHBOARD_POPUP_TITLE_POSITIVE_RETURN">Apa Itu Return</string>
+    <string name="HOME_DASHBOARD_POPUP_DESC_POSITIVE_RETURN">Return, atau disebut juga hasil investasi, adalah selisih nilai investasimu sekarang dengan modal investasi yang telah kamu keluarkan. Semakin tinggi nilai return yang ditampilkan, berarti semakin baik performa investasimu.</string>
+    <string name="HOME_DASHBOARD_POPUP_TITLE_NEGATIVE_RETURN">Apakah Return Bisa Negatif?</string>
+    <string name="HOME_DASHBOARD_POPUP_DESC_NEGATIVE_RETURN">Bisa. Return negatif disebabkan oleh turunnya nilai investasi. Oleh karena itu, selama dana tidak kamu cairkan, kamu belum bisa dikatakan merugi. Pasalnya, nilai investasi ini bisa naik lagi dalam waktu dekat.</string>
+    <string name="HOME_DASHBOARD_SPOTLIGHT_RETURN_TITLE">Return Itu Apa, Sih?</string>
+    <string name="HOME_DASHBOARD_SPOTLIGHT_RETURN_DESC">Ayo lihat di sini!</string>
+
+    <string name="HOME_HIGHLIGHT_THEME_FUND_SECTION">Reksa Dana Terpopuler</string>
+    <string name="HOME_HIGHLIGHT_THEME_FUND_SECTION_BUTTON">Lainnya</string>
+    <string name="HOME_HIGHLIGHT_THEME_FUND_ITEM_START_FROM">Dimulai dari</string>
+    <string name="HOME_HIGHLIGHT_THEME_FUND_ITEM_1Y_RETURN">1Y Return</string>
+    <string name="HOME_HIGHLIGHT_THEME_FUND_ITEM_RISK">Risiko: %1$s</string>
+
+    <string name="HOME_LATEST_INVESTMENT_TITLE">Investasi Terakhir Kamu</string>
+    <string name="HOME_LATEST_INVESTMENT_BUTTON">Setor Lagi</string>
+
+    <string name="HOME_HIGHLIGHT_THEME_RECOMMENDATION_SECTION">Investasi Umum</string>
+    <string name="HOME_HIGHLIGHT_THEME_RECOMMENDATION_SECTION_BUTTON">Lainnya</string>
+
+    <string name="THEME_WATCHLIST_SECTION_TITLE">Reksa Dana</string>
+    <string name="THEME_WATCHLIST_BUTTON_BUY">Beli</string>
+    <string name="THEME_WATCHLIST_BUTTON_DELETE">Hapus</string>
+    <string name="THEME_WATCHLIST_NO_DATA">Watchlist Kosong</string>
+    <string name="THEME_WATCHLIST_BUTTON_ADD_WATCHLIST">Tambah</string>
+
+    <string name="STOCK_PORTFOLIO_SECTION_TITLE">Saham</string>
+    <string name="STOCK_PORTFOLIO_BUTTON_BUY">Beli</string>
+    <string name="STOCK_PORTFOLIO_BUTTON_SELL">Jual</string>
+    <string name="STOCK_PORTFOLIO_NO_DATA_BUTTON_ADD">Tambah</string>
+    <string name="STOCK_PORTFOLIO_NO_DATA_DESC">Investasi saham kamu masih kosong, yuk Investasi sekarang!</string>
+
+    <string name="STOCK_DETAILS_BUTTON_RANKING">Ranking</string>
+    <string name="STOCK_DETAILS_OPEN">Open</string>
+    <string name="STOCK_DETAILS_HIGH">High</string>
+    <string name="STOCK_DETAILS_LOW">Low</string>
+    <string name="STOCK_DETAILS_MARKET_CAP">Mkt Cap</string>
+    <string name="STOCK_DETAILS_52_WK_HIGH">52 WK High</string>
+    <string name="STOCK_DETAILS_52_WK_LOW">52 WK High</string>
+    <string name="STOCK_DETAILS_VOL">Vol</string>
+    <string name="STOCK_DETAILS_PE_RATIO">P/E Ratio</string>
+    <string name="STOCK_DETAILS_TOTAL_INVESTMENT">Total Investasi</string>
+    <string name="STOCK_DETAILS_INVESTED_LOT">Lot</string>
+    <string name="STOCK_DETAILS_SECTION_NEWS">News</string>
+    <string name="STOCK_DETAILS_SECTION_KEY_STATISTICS">Key Statistics</string>
+    <string name="STOCK_DETAILS_SECTION_ORDER_BOOK">Order Book</string>
+    <string name="STOCK_DETAILS_SECTION_FINANCIAL">Financial</string>
+    <string name="STOCK_DETAILS_SECTION_CORP_ACTION">Corp Action</string>
+    <string name="STOCK_DETAILS_SECTION_PROFILE">Profile</string>
+    <string name="STOCK_DETAILS_BUTTON_SELL">Jual</string>
+    <string name="STOCK_DETAILS_BUTTON_BUY">Beli</string>
+    <string name="STOCK_DETAILS_POPUP_RANKING_TITLE">Ranking</string>
+    <string name="STOCK_DETAILS_POPUP_RANKING_DESC">Ranking Berdasarkan penilaian setiap categori industri saham</string>
+
+    <string name="STOCK_KEY_STAT_SECTION_PERFORMANCE">Performance</string>
+    <string name="STOCK_KEY_STAT_SECTION_VALUATION">Valuation</string>
+    <string name="STOCK_KEY_STAT_SECTION_DIVIDEND">Dividend</string>
+    <string name="STOCK_KEY_STAT_ROE">Return on Equity ( RoE )</string>
+    <string name="STOCK_KEY_STAT_ROA">Return on Assets ( RoA )</string>
+    <string name="STOCK_KEY_STAT_RATIO">Current Ratio</string>
+    <string name="STOCK_KEY_STAT_DEBT_TO_EQUITY_RATIO">Debt to Equity Ratio</string>
+    <string name="STOCK_KEY_STAT_GPM">Gross Profit Margin</string>
+    <string name="STOCK_KEY_STAT_OPM">Operating Profit Margin</string>
+    <string name="STOCK_KEY_STAT_NPM">Net Profit Margin</string>
+    <string name="STOCK_KEY_STAT_PRICE_TO_EARNING">Price to Earning (P/E)</string>
+    <string name="STOCK_KEY_STAT_PRICE_TO_BOOK">Price to Book Value (P/B)</string>
+    <string name="STOCK_KEY_STAT_EPS">EPS</string>
+    <string name="STOCK_KEY_STAT_DIVIDEND">Numeric Dividend</string>
+    <string name="STOCK_KEY_STAT_PAYOUT_RATIO">Payout ratio</string>
+    <string name="STOCK_KEY_STAT_DIVIDEND_YIELD">Dividend Yield</string>
+
+    <string name="STOCK_CORP_ACTION_ITEM_DIVIDEND">Dividend</string>
+    <string name="STOCK_CORP_ACTION_ITEM_CASH_DIVIDEND">Cash Dividend</string>
+    <string name="STOCK_CORP_ACTION_ITEM_CUM_DATE">Cum Date</string>
+    <string name="STOCK_CORP_ACTION_ITEM_EX_DATE">Ex Date</string>
+    <string name="STOCK_CORP_ACTION_ITEM_RECORD_DATE">Recording Date</string>
+    <string name="STOCK_CORP_ACTION_ITEM_PAY_DATE">Payment Date</string>
+
+    <string name="STOCK_PROFILE_SECTION_TITLE">Title</string>
+    <string name="STOCK_PROFILE_SECTION_BACKGROUND">Background</string>
+    <string name="STOCK_PROFILE_SECTION_BUSINESS_CP_PRODUCT">Business CP Product</string>
+    <string name="STOCK_PROFILE_SECTION_ADDRESS">Address</string>
+    <string name="STOCK_PROFILE_SECTION_DIRECTORS">Directors</string>
+    <string name="STOCK_PROFILE_DIRECTOR">Director : %1$s</string>
+    <string name="STOCK_PROFILE_VP_DIRECTOR">Vice President Director : %1$s</string>
+    <string name="STOCK_PROFILE_INDEPENDENT_DIRECTOR">Independent Director : %1$s</string>
+    <string name="STOCK_PROFILE_SECTION_HISTORY">Company History</string>
+
+    <string name="STOCK_PORTFOLIO_DETAILS_TITLE">Portfolio Detail</string>
+
+    <string name="STOCK_FINANCE_SECTION_DATA_DETAILS">Data details vs. chart</string>
+    <string name="STOCK_FINANCE_LAST_N_QUARTERS">Last %1$d Quarters</string>
+    <string name="STOCK_FINANCE_SECTION_INCOME_STATEMENT">Income Statement</string>
+    <string name="STOCK_FINANCE_SECTION_INCOME_STATEMENT_LABEL_REVENUE">Revenue</string>
+    <string name="STOCK_FINANCE_SECTION_INCOME_STATEMENT_LABEL_NET_INCOME">Net Income</string>
+    <string name="STOCK_FINANCE_SECTION_INCOME_STATEMENT_LABEL_NET_MARGIN">Net Margin</string>
+    <string name="STOCK_FINANCE_SECTION_BALANCE_SHEET">Balance Sheet</string>
+    <string name="STOCK_FINANCE_SECTION_BALANCE_SHEET_LABEL_ASSET">Total Assets</string>
+    <string name="STOCK_FINANCE_SECTION_BALANCE_SHEET_LABEL_LIABILITIES">Total Liabilities</string>
+    <string name="STOCK_FINANCE_SECTION_BALANCE_SHEET_LABEL_DEQ">Debt Equity Ratio</string>
+    <string name="STOCK_FINANCE_SECTION_CASH_FLOW">Cash Flow</string>
+    <string name="STOCK_FINANCE_SECTION_CASH_FLOW_LABEL_OPERATION">Operation</string>
+    <string name="STOCK_FINANCE_SECTION_CASH_FLOW_LABEL_INVESTING">Investing</string>
+    <string name="STOCK_FINANCE_SECTION_CASH_FLOW_LABEL_FINANCING">Financing</string>
+
+    <string name="STOCK_NEWS_NO_DATA">Belum ada berita tentang saham ini.</string>
+
+    <string name="STOCK_CATEGORIES_SECTION">Kategori</string>
+    <string name="STOCK_CATEGORIES_NO_DATA">Belum ada kategori</string>
+
+    <string name="STOCK_RDN_BUTTON_TOP_UP">Top Up</string>
+    <string name="STOCK_RDN_BUTTON_WITHDRAW">Withdraw</string>
+    <string name="STOCK_RDN_BUTTON_HISTORY">History</string>
+    <string name="STOCK_RDN_BUTTON_SHOW_DETAILS">Show details</string>
+    <string name="STOCK_RDN_PENDING">Pending %1$s</string>
+
+    <string name="STOCK_ORDER_LIST_TITLE_ACTION">Action &amp; Stock</string>
+    <string name="STOCK_ORDER_LIST_TITLE_PRICE">Price &amp; Lot</string>
+    <string name="STOCK_ORDER_LIST_TITLE_STATUS">Status</string>
+
+    <string name="STOCK_ORDER_FILTER_TITLE">Filter</string>
+    <string name="STOCK_ORDER_FILTER_TRANSACTION_TYPE_TITLE">Transaksi</string>
+    <string name="STOCK_ORDER_FILTER_PERIOD_TYPE_TITLE">Period</string>
+    <string name="STOCK_ORDER_FILTER_STATUS_TYPE_TITLE">Status</string>
+    <string name="STOCK_ORDER_FILTER_BUTTON">Terapkan</string>
+
+    <string name="STOCK_ORDER_DETAILS_TITLE">Detail Order</string>
+    <string name="STOCK_ORDER_DETAILS_SECTION_INVEST_DETAILS">Detail Investasi</string>
+    <string name="STOCK_ORDER_DETAILS_ORDER_ID">Order ID</string>
+    <string name="STOCK_ORDER_DETAILS_IDX_ORDER_ID">IDX Order ID</string>
+    <string name="STOCK_ORDER_DETAILS_ACCOUNT_ID">Account ID</string>
+    <string name="STOCK_ORDER_DETAILS_STATUS">Status</string>
+    <string name="STOCK_ORDER_DETAILS_REASON">Alasan</string>
+    <string name="STOCK_ORDER_DETAILS_TIME">Waktu</string>
+    <string name="STOCK_ORDER_DETAILS_PERIOD">Period</string>
+    <string name="STOCK_ORDER_DETAILS_PRICE">Harga</string>
+    <string name="STOCK_ORDER_DETAILS_FEE">Fee</string>
+    <string name="STOCK_ORDER_DETAILS_LOT_ORDER">Lot Order</string>
+    <string name="STOCK_ORDER_DETAILS_VOLUME">Volume</string>
+    <string name="STOCK_ORDER_DETAILS_LOT_DONE">Lot Done</string>
+    <string name="STOCK_ORDER_DETAILS_AMOUNT_ORDER">Amount Order</string>
+    <string name="STOCK_ORDER_DETAILS_AMOUNT_DONE">Amount Done</string>
+    <string name="STOCK_ORDER_DETAILS_BUTTON_CANCEL">Cancel Order</string>
+    <string name="STOCK_ORDER_DETAILS_BUTTON_AMEND">Amend</string>
+    <string name="STOCK_ORDER_DETAILS_POPUP_CONFIRM_DESC">Anda yakin untuk membatalkan order ini?</string>
+    <string name="STOCK_ORDER_DETAILS_POPUP_CONFIRM_BUTTON_CANCEL">Cancel</string>
+    <string name="STOCK_ORDER_DETAILS_POPUP_CONFIRM_BUTTON_CONFIRM">Lanjut</string>
+    <string name="STOCK_ORDER_DETAILS_POPUP_CANCEL_SUCCESS_DESC">Order canceled successfully</string>
+
+    <string name="STOCK_TRADE_DETAILS_TITLE">Detail Trade</string>
+
+    <string name="STOCK_TRANSACTION_LIST_N_LOT">%1$d Lot</string>
+    <string name="STOCK_TRANSACTION_LIST_NO_TRANSACTION">Belum ada Transaksi disini\nNantinya transaksi akan bisa kamu pantau disini Ayo segera lakukan investasi!</string>
+    <string name="STOCK_TRANSACTION_LIST_NO_FILTER_RESULT">Hasil filter tidak ditemukan</string>
+
+    <string name="STOCK_DISCOVERY_HOME_TITLE">Discovery</string>
+    <string name="STOCK_DISCOVERY_HOME_TAB_STOCK">Saham</string>
+    <string name="STOCK_DISCOVERY_HOME_TAB_MUTUAL_FUND">Reksa Dana</string>
+    <string name="STOCK_DISCOVERY_HOME_TAB_AUTO_INVEST">Auto Invest</string>
+    <string name="STOCK_DISCOVERY_HOME_SEARCH_HINT">Cari Saham</string>
+
+    <string name="STOCK_DISCOVERY_SECTION_TREND">Trending Saat Ini</string>
+    <string name="STOCK_DISCOVERY_SECTION_TREND_BUTTON_SEE_MORE">Selengkapnya</string>
+
+    <string name="STOCK_DISCOVERY_SECTION_SECTOR">Sektor Saham</string>
+
+    <string name="STOCK_DISCOVERY_SECTION_CATEGORY">Kategori Saham Terpopuler</string>
+
+    <string name="STOCK_DISCOVERY_SECTION_AUTO_INVEST_SUBTITLE">Paket Investasi dari Ajaib</string>
+    <string name="STOCK_DISCOVERY_SECTION_AUTO_INVEST_DESC">Melalui pengetahuan para ahli &amp; teknologi Ajaib, paket investasi akan membantu mencapai tujuan finansialmu.</string>
+
+    <string name="STOCK_GROUP_DISCLAIMER">Harga saham dapat berfluktuasi banyak dari waktu ke waktu, daftar ini hanya untuk referensi. tolong dicatat.</string>
+
+    <string name="STOCK_RDN_BALANCE_CASH">Cash in RDN</string>
+    <string name="STOCK_RDN_BALANCE_TRADING_LIMIT">Trading Limit</string>
+
+    <string name="DEPOSITO_TOP_UP_TITLE">Top Up</string>
+    <string name="DEPOSITO_TOP_UP_SECTION_DETAILS">Top Up saldo ke :</string>
+    <string name="DEPOSITO_TOP_UP_BANK_NAME">Bank Penerbit</string>
+    <string name="DEPOSITO_TOP_UP_BANK_ACCOUNT">Nomor RDN</string>
+    <string name="DEPOSITO_TOP_UP_BANK_ACCOUNT_HOLDER">Nama Pemilik</string>
+    <string name="DEPOSITO_TOP_UP_INFO">Untuk mengoptimalkan penambahan dana ke rekening RDN, kami menyarankan untuk melakukan top up lewat Permata Bank, tapi jika kamu tidak mempunyai akun permata bank, kamu juga bisa melakukan top up menggunakan bank lain</string>
+    <string name="DEPOSITO_TOP_UP_SECTION_PAYMENT_METHOD">Payment Method</string>
+    <string name="DEPOSITO_TOP_UP_PAYMENT_METHOD_PERMATA">Permata Bank</string>
+    <string name="DEPOSITO_TOP_UP_PAYMENT_METHOD_OTHERS">Bank Lain</string>
+
+    <string name="DEPOSITO_WITHDRAW_TITLE">Withdraw</string>
+    <string name="DEPOSITO_WITHDRAW_RDN">RDN</string>
+    <string name="DEPOSITO_WITHDRAW_CASH">Cash Available</string>
+    <string name="DEPOSITO_WITHDRAW_TO">Withdraw saldo ke :</string>
+    <string name="DEPOSITO_WITHDRAW_AMOUNT">Withdraw Amount</string>
+    <string name="DEPOSITO_WITHDRAW_SECTION_METHOD">Cara Penarikan</string>
+    <string name="DEPOSITO_WITHDRAW_METHOD_REGULAR">Regular Withdrawal</string>
+    <string name="DEPOSITO_WITHDRAW_METHOD_REGULAR_DESC">Dana kamu akan di cairkan selama proses 2 hari kerja tidak termasuk hari libur atau tanggal merah</string>
+    <string name="DEPOSITO_WITHDRAW_FEE">Biaya</string>
+    <string name="DEPOSITO_WITHDRAW_BUTTON_CONTINUE">Lanjut</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_TITLE">Konfirmasi Penarikan</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_AMOUNT">Jumlah</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_FEE">Biaya Transfer</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_TOTAL">Total</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_WITHDRAW_TO">Ditarik ke</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_METHOD">Metode Penarikan</string>
+    <string name="DEPOSITO_WITHDRAW_POPUP_CONFIRM_BUTTON_POSITIVE">Tarik Uang</string>
+
+    <string name="DEPOSITO_UPDATE_BANK_TITLE">Edit</string>
+    <string name="DEPOSITO_UPDATE_BANK_SECTION_UPDATE">Edit Akun Bank</string>
+    <string name="DEPOSITO_UPDATE_BANK_SECTION_UPDATE_DESC">Pilih bank dan masukan detil akun</string>
+    <string name="DEPOSITO_UPDATE_BANK_BANK_NAME">Bank Penerima</string>
+    <string name="DEPOSITO_UPDATE_BANK_BANK_ACCOUNT">Nomor Rekening</string>
+    <string name="DEPOSITO_UPDATE_BANK_BUTTON_ACTION">Simpan</string>
+
+    <string name="DEPOSITO_HISTORY_TITLE">History</string>
+
+    <string name="DEPOSITO_DETAILS_TITLE">RDN Details</string>
+    <string name="DEPOSITO_DETAILS_CASH_IN_RDN">Cash in RDN</string>
+    <string name="DEPOSITO_DETAILS_TRADE_LIMIT">Trade Limit</string>
+    <string name="DEPOSITO_DETAILS_SECTION_SETTLEMENT">Detail Settlement</string>
+    <string name="DEPOSITO_DETAILS_SECTION_SETTLEMENT_DESC">Sesuai regulasi, transaksi jual/beli akan memengaruhi RDN dua hari (T+2) setelah transaksi dilakukan</string>
+    <string name="DEPOSITO_DETAILS_SELL_STOCK">Sell Stock</string>
+    <string name="DEPOSITO_DETAILS_BUY_STOCK">Buy Stock</string>
+    <string name="DEPOSITO_DETAILS_CASH_WITHDRAW">Cash Withdraw</string>
+    <string name="DEPOSITO_DETAILS_CASH_DEPOSIT">Cash Deposit</string>
+
+    <string name="HOME_SIMULATION_TITLE">Ayo Lihat Potensi Return</string>
+    <string name="HOME_SIMULATION_CONTENT">Jika investasi bulananmu sebesar</string>
+    <string name="HOME_SIMULATION_CALCULATE_BUTTON">HITUNG</string>
+    <string name="HOME_SIMULATION_HINT">Ketik angka investasimu di sini</string>
+
+    <string name="HOME_PORTFOLIO_SECTION">Investasi Sesuai Tujuanmu</string>
+
+    <string name="HOME_TRANSFER_POPUP_EMAIL_TITLE">Ayo Verifikasi email-mu</string>
+    <string name="HOME_TRANSFER_POPUP_EMAIL_DESC">Kami akan mengirimkan detail transaksi dan menjaga data kemanan Anda</string>
+    <string name="HOME_TRANSFER_POPUP_EMAIL_BUTTON_POSITIVE">Lanjut</string>
+    <string name="HOME_TRANSFER_POPUP_EMAIL_BUTTON_NEGATIVE">Coba Lagi</string>
+
+    <string name="HOME_PROMO_SECTION">Info Seru Buatmu</string>
+
+    <string name="HOME_REFERRAL_SECTION_TITLE">Ajak Teman, Dapatkan Reksa Dana Gratis</string>
+    <string name="HOME_REFERRAL_TITLE">Bonusmu Saat Ini:</string>
+    <string name="HOME_REFERRAL_DESCRIPTION">Dapatkan bonus maks. Rp1 juta untuk setiap teman yang daftar &amp; investasi pakai kode referral-mu!</string>
+    <string name="HOME_REFERRAL_BUTTON">Bagikan sekarang</string>
+
+    <string name="PORTFOLIO_HOME_TITLE_TYPE_EMERGENCY">Dana Darurat</string>
+    <string name="PORTFOLIO_HOME_TITLE_TYPE_RETIREMENT">Dana Pensiun</string>
+    <string name="PORTFOLIO_HOME_TITLE_TYPE_SPENDING">Pengeluaran Terencana</string>
+
+    <string name="PORTFOLIO_HOME_DESCRIPTION_TYPE_EMERGENCY">Pastikan ada cukup dana untuk keperluan darurat</string>
+    <string name="PORTFOLIO_HOME_DESCRIPTION_TYPE_RETIREMENT">Rencanakan masa depan Anda sekarang</string>
+    <string name="PORTFOLIO_HOME_DESCRIPTION_TYPE_SPENDING">Mulai menabung untuk pendidikan anak, mobil baru, dll</string>
+
+    <string name="INVEST_TOTAL_TOTAL_INVESTMENT">Total Investasi</string>
+    <string name="INVEST_TOTAL_DEPOSIT">Setoran Awal</string>
+    <string name="INVEST_TOTAL_RETURN">Return</string>
+    <string name="INVEST_TOTAL_BONUS">Bonus</string>
+
+    <string name="INVEST_SUMMARY_TITLE_RETIREMENT">Dana Pensiun</string>
+    <string name="INVEST_SUMMARY_TITLE_EMERGENCY">Dana Darurat</string>
+    <string name="INVEST_SUMMARY_TITLE_GENERAL">Investasi Umum</string>
+    <string name="INVEST_SUMMARY_TITLE_SPENDING">Investasi Impian</string>
+    <string name="INVEST_SUMMARY_TITLE_BONUS">Kamu memiliki %1$d bonus aktif</string>
+    <string name="INVEST_SUMMARY_TITLE_GURU">Investasi Dipandu Ahli</string>
+    <string name="INVEST_SUMMARY_TITLE_BONUS_TOTAL">Bonus : %1$s</string>
+    <string name="INVEST_SUMMARY_TITLE_BONUS_EMPTY">Undang teman &amp; dapatkan bonus</string>
+
+    <string name="INVEST_SUMMARY_DESC_RETIREMENT">Selagi masih produktif, persiapkan hidup santai di hari tua.</string>
+    <string name="INVEST_SUMMARY_DESC_EMERGENCY">Pastikan kamu selalu punya dana untuk hal-hal di luar dugaan</string>
+    <string name="INVEST_SUMMARY_DESC_GENERAL">Kembangkan uang dengan reksa dana pilihan para ahli</string>
+    <string name="INVEST_SUMMARY_DESC_SPENDING">Mobil? Rumah? Umroh? Kuliah? Wujudkan impian dengan investasi</string>
+    <string name="INVEST_SUMMARY_DESC_BONUS">Bonus</string>
+    <string name="INVEST_SUMMARY_DESC_GURU">Bingung investasi berapa dan seberapa sering? Ikuti cara sang ahli, Ryan Filbert</string>
+
+    <string name="INVEST_SUMMARY_POPUP_KYC_TITLE">Ayo Lengkapi Data Dirimu</string>
+    <string name="INVEST_SUMMARY_POPUP_KYC_DESCRIPTION">Selesaikan registrasi sebelum mulai berinvestasi</string>
+    <string name="INVEST_SUMMARY_POPUP_KYC_BUTTON_NEGATIVE">NANTI SAJA</string>
+    <string name="INVEST_SUMMARY_POPUP_KYC_BUTTON_POSITIVE">REGISTRASI</string>
+
+    <string name="INVEST_SUMMARY_BUTTON_TEXT_NORMAL">Ayo investasi</string>
+    <string name="INVEST_SUMMARY_BUTTON_TEXT_GURU">Coba Sekarang</string>
+
+    <string name="USER_BONUS_LIST_TITLE">Bonus</string>
+    <string name="USER_BONUS_LIST_HEADER_TOTAL">Total</string>
+    <string name="USER_BONUS_LIST_HEADER_RETURN">Return</string>
+    <string name="USER_BONUS_LIST_BUTTON_ADD_BONUS">&#65291; TAMBAH BONUS</string>
+    <string name="USER_BONUS_LIST_ITEM_BONUS">Total</string>
+    <string name="USER_BONUS_LIST_ITEM_RETURN">Returns</string>
+    <string name="USER_BONUS_LIST_ITEM_PROGRESS_SUCCESS">Sukses</string>
+    <string name="USER_BONUS_LIST_ITEM_PROGRESS_N_MORE_DAY">%1$d hari lagi</string>
+
+    <string name="USER_BONUS_DETAILS_DATE_STARTED">Tanggal dimulai %1$s</string>
+    <string name="USER_BONUS_DETAILS_TITLE_FUND">Reksa Dana</string>
+    <string name="USER_BONUS_DETAILS_TITLE_TOTAL">Nilai total</string>
+    <string name="USER_BONUS_DETAILS_TITLE_RETURN">Hasil kumulatif</string>
+    <string name="USER_BONUS_DETAILS_LATEST_UPDATE">Per tanggal %1$s</string>
+    <string name="USER_BONUS_DETAILS_SECTION_TERM">Ketentuan</string>
+
+    <string name="USER_BONUS_HISTORY_TITLE">Keterangan Bonus</string>
+    <string name="USER_BONUS_HISTORY_NO_BONUS">Belum ada bonus</string>
+    <string name="USER_BONUS_HISTORY_ITEM_TITLE_UNCLAIMED">Dapat bonus dari %1$s</string>
+    <string name="USER_BONUS_HISTORY_ITEM_TITLE_CLAIMED">Bonus %1$s sudah didapatkan</string>
+    <string name="USER_BONUS_HISTORY_ITEM_TITLE_VOID">Gagal dapat bonus dari %1$s</string>
+
+    <string name="THEME_INVEST_LIST_TITLE">Investasi Umum</string>
+    <string name="THEME_INVEST_LIST_BUTTON_ADD_INVESTMENT">&#65291; Tambah Investasi Baru</string>
+    <string name="THEME_INVEST_LIST_NO_TRANSACTION">Tidak Ada Aktifitas Transaksi</string>
+    <string name="THEME_INVEST_LIST_ITEM_TOTAL">Total</string>
+    <string name="THEME_INVEST_LIST_ITEM_RETURN">Return</string>
+
+    <string name="THEME_INVEST_DETAILS_TITLE_TOTAL">Nilai Total Investasi</string>
+    <string name="THEME_INVEST_DETAILS_TITLE_RETURN">Return</string>
+    <string name="THEME_INVEST_DETAILS_TITLE_NAB"> Di-update pada %1$s</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL">Detail</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_NAME">Nama</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_MANAGER">Manajer Investasi</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_TYPE">Tipe</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_CATEGORY">Kategori</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_UNIT">Unit Dimiliki</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_DETAIL_NAB">NAB/Unit</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_BUTTON_SEE_MORE">Lihat lebih detail</string>
+    <string name="THEME_INVEST_DETAILS_PENDING_TITLE">Dalam proses</string>
+    <string name="THEME_INVEST_DETAILS_PENDING_DESC">Deposit</string>
+    <string name="THEME_INVEST_DETAILS_PENDING_TOOLTIP">Ini adalah nilai transaksi yang sedang dalam proses perhitungan unit. Selama proses perhitungan berlangsung maka nilai ini tidak dapat ditarik sementara</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_BUTTON_WITHDRAW">TARIK</string>
+    <string name="THEME_INVEST_DETAILS_SECTION_BUTTON_DEPOSIT">SETOR</string>
+    <string name="THEME_INVEST_DETAILS_HISTORY_SPOTLIGHT_TITLE">Lihat Riwayat Transaksimu Di Sini</string>
+    <string name="THEME_INVEST_DETAILS_HISTORY_SPOTLIGHT_DESC">Semua transaksi setor dan tarik pada reksa dana pilihanmu dapat dilihat di sini</string>
+
+    <string name="THEME_INVEST_HISTORY_DEFAULT_TITLE">Riwayat Transaksi</string>
+    <string name="THEME_INVEST_HISTORY_TYPE_DEPOSIT">Setor</string>
+    <string name="THEME_INVEST_HISTORY_TYPE_WITHDRAW">Tarik</string>
+    <string name="THEME_INVEST_HISTORY_SECTION_TRANSACTION">Transaksi</string>
+    <string name="THEME_INVEST_HISTORY_SECTION_NAB">NAB saat transaksi</string>
+    <string name="THEME_INVEST_HISTORY_SECTION_TOTAL_TRANSACTION">Jumlah</string>
+    <string name="THEME_INVEST_HISTORY_SECTION_UNIT">Unit yang didapat</string>
+    <string name="THEME_INVEST_HISTORY_NO_DATA">Belum ada transaksi</string>
+
+    <string name="USER_PORTFOLIO_DETAILS_TOTAL_DESCRIPTION">Nilai Total</string>
+    <string name="USER_PORTFOLIO_DETAILS_RETURN_DESCRIPTION">Hasil kumulatif</string>
+    <string name="USER_PORTFOLIO_DETAILS_DATE_COMPUTED">Di-update pada %1$s</string>
+    <string name="USER_PORTFOLIO_DETAILS_SECTION_HISTORICAL">Nilai historis</string>
+    <string name="USER_PORTFOLIO_DETAILS_SECTION_DETAILS">Details</string>
+    <string name="USER_PORTFOLIO_DETAILS_SECTION_ALLOCATION">Alokasi aset</string>
+    <string name="USER_PORTFOLIO_DETAILS_PENDING_TITLE">Dalam proses</string>
+    <string name="USER_PORTFOLIO_DETAILS_PENDING_DESC">Deposit</string>
+    <string name="USER_PORTFOLIO_DETAILS_PENDING_TOOLTIP">Ini adalah nilai transaksi yang sedang dalam proses perhitungan unit. Selama proses perhitungan berlangsung maka nilai ini tidak dapat ditarik sementara</string>
+    <string name="USER_PORTFOLIO_DETAILS_BUTTON_WITHDRAW">TARIK</string>
+    <string name="USER_PORTFOLIO_DETAILS_BUTTON_DEPOSIT">SETOR</string>
+
+    <string name="PORTFOLIO_WITHDRAW_TITLE">Penarikan</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_SUM_TITLE">Berapa yang mau kamu tarik?</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_SUM_MIN_HOLDING">Sisakan min. %1$s untuk tetap punya reksa dana ini</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_SUM_AVAILABLE">Jumlah tersedia</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_SUM_WITHDRAW_ALL">Tarik semua</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_DETAIL">Detail</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_DETAIL_TOOLTIP">Jumlah penarikan Anda akan dibagi secara proporsional ke reksa dana dalam keranjang investasi ini kecuali diubah. Jumlah unit diperkirakan berdasarkan harga NAB terbaru.</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_REASON_TITLE">Alasan Penarikan</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_REASON_HINT">Mengapa kamu menarik dana?</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_EST_ACCEPTED">Estimasi diterima</string>
+    <string name="PORTFOLIO_WITHDRAW_SECTION_EST_INFO">Sesuai aturan Bank Kustodian, dana akan kembali ke rekening bank terdaftar dalam 2 – 6 hari kerja</string>
+    <string name="PORTFOLIO_WITHDRAW_DISCLAIMER">Dengan mengklik tarik, saya memahami bahwa jumlah perkiraan dihitung berdasarkan NAB pada {%1$s} untuk ilustrasi dan NAB aktual saya akan diberitahu ketika transaksi saya selesai.</string>
+    <string name="PORTFOLIO_WITHDRAW_SUMMARY_TOTAL">Total</string>
+    <string name="PORTFOLIO_WITHDRAW_BUTTON_WITHDRAW">TARIK</string>
+
+    <string name="WITHDRAW_TITLE">Penarikan</string>
+    <string name="WITHDRAW_SECTION_SUM_TITLE">Berapa yang mau kamu tarik?</string>
+    <string name="WITHDRAW_SECTION_SUM_MIN_HOLDING">Sisakan min. %1$s untuk tetap punya reksa dana ini</string>
+    <string name="WITHDRAW_SECTION_ERROR_AMOUNT_TOO_LARGE">Penarikan dana melebihi jumlah yang tersedia</string>
+    <string name="WITHDRAW_SECTION_ERROR_AMOUNT_TOO_LOW">Sisakan saldo minimal untuk bisa punya reksa dana ini, atau tarik semua</string>
+    <string name="WITHDRAW_SECTION_REASON_POPUP_TITLE">Mengapa kamu menarik dana?</string>
+    <string name="WITHDRAW_SECTION_REASON_ERROR_REQUIRED">Bantu Ajaib jadi lebih baik dengan memberi alasan penarikan</string>
+    <string name="WITHDRAW_SECTION_SUM_AVAILABLE">Jumlah tersedia</string>
+    <string name="WITHDRAW_SECTION_ESTIMATION_UNIT">Estimasi Unit</string>
+    <string name="WITHDRAW_SECTION_SUM_WITHDRAW_ALL">Tarik semua</string>
+    <string name="WITHDRAW_SECTION_DETAIL">Detail</string>
+    <string name="WITHDRAW_SECTION_DETAIL_UNIT">Unit</string>
+    <string name="WITHDRAW_SECTION_DETAIL_ESTIMATED_VALUE">Jumlah Perkiraan</string>
+    <string name="WITHDRAW_SECTION_DETAIL_AVAILABLE_AMOUNT">Jumlah Tersedia</string>
+    <string name="WITHDRAW_SECTION_DETAIL_AFTER_WITHDRAW">Dana Setelah Penarikan</string>
+    <string name="WITHDRAW_SECTION_DETAIL_MINIMUM_BALANCE">Saldo Minimal</string>
+    <string name="WITHDRAW_SECTION_DETAIL_TOOLTIP">Jumlah penarikan Anda akan dibagi secara proporsional ke reksa dana dalam keranjang investasi ini kecuali diubah. Jumlah unit diperkirakan berdasarkan harga NAB terbaru.</string>
+    <string name="WITHDRAW_SECTION_BANK_ACCOUNT">Akun bank penerima dana</string>
+    <string name="WITHDRAW_SECTION_BANK_ACCOUNT_WARNING">Transaksi tidak akan diproses bila ada ketidakcocokan nama dan rekening. Hubungi Customer Service Ajaib bila memerlukan bantuan untuk pembaruan data.</string>
+    <string name="WITHDRAW_SECTION_BANK_ACCOUNT_WITHDRAW_TO">Withdraw saldo ke :</string>
+    <string name="WITHDRAW_SECTION_BANK_ACCOUNT_INVALID_ACCOUNT">Akun tidak sesuai?</string>
+    <string name="WITHDRAW_SECTION_BANK_ACCOUNT_BUTTON_CONTACT_CS">Hubungi CS</string>
+    <string name="WITHDRAW_SECTION_REASON_TITLE">Alasan Penarikan</string>
+    <string name="WITHDRAW_SECTION_REASON_HINT">Mengapa kamu menarik dana?</string>
+    <string name="WITHDRAW_SECTION_EST_ACCEPTED">Estimasi diterima</string>
+    <string name="WITHDRAW_SECTION_EST_INFO">Sesuai aturan Bank Kustodian, dana akan kembali ke rekening bank terdaftar dalam 2 – 6 hari kerja</string>
+    <string name="WITHDRAW_DISCLAIMER">Saya paham bahwa angka tertulis merupakan gambaran berdasarkan NAV %1$s. Uang yang saya terima bisa berubah lebih banyak/sedikit sesuai dengan NAV hari transaksi dijalankan.</string>
+    <string name="WITHDRAW_SUMMARY_TOTAL">Total</string>
+    <string name="WITHDRAW_BUTTON_WITHDRAW">TARIK</string>
+    <string name="WITHDRAW_SUCCESS_POPUP_TITLE">Penarikan Berhasil</string>
+    <string name="WITHDRAW_SUCCESS_POPUP_DESCRIPTION">Status penarikan dana bisa dilihat di laman transaksi</string>
+    <string name="WITHDRAW_SUCCESS_POPUP_BUTTON_POSITIVE">Ke Transaksi</string>
+    <string name="WITHDRAW_ERROR_ONLY_WITHDRAW_ALL">Untuk produk ini hanya bisa tarik semua</string>
+
+    <string name="CONFIRM_PASSWORD_TITLE">Autentifikasi Penarikan</string>
+    <string name="CONFIRM_PASSWORD_DESCRIPTION">Masukkan Password untuk\nmenyelesaikan transaksi</string>
+    <string name="CONFIRM_PASSWORD_HINT">Password Anda</string>
+    <string name="CONFIRM_PASSWORD_ERROR_INVALID_PASSWORD">Password harus mengandung huruf dan angka</string>
+    <string name="CONFIRM_PASSWORD_FORGOT_PASSWORD">Lupa password?</string>
+    <string name="CONFIRM_PASSWORD_BUTTON_FORGOT_PASSWORD">Reset</string>
+    <string name="CONFIRM_PASSWORD_BUTTON_SUBMIT">Submit</string>
+
+    <string name="DEPOSIT_CONFIRM_TITLE">Setoran</string>
+    <string name="DEPOSIT_CONFIRM_HEADER">Pesanan Reksa Dana Berhasil Dibuat</string>
+    <string name="DEPOSIT_CONFIRM_TOOLTIP">Selesaikan transaksimu\nUnggah bukti transfer di kolom yang disediakan\nPastikan transfer dilakukan dengan rekening bank atas namamu sendiri</string>
+    <string name="DEPOSIT_CONFIRM_SECTION_DETAIL">Detail</string>
+    <string name="DEPOSIT_CONFIRM_BANK_DETAIL">Transfer ke</string>
+    <string name="DEPOSIT_CONFIRM_FUND_NAME">Nama Produk</string>
+    <string name="DEPOSIT_CONFIRM_TRANSACTION_NUMBER">No. Transaksi</string>
+    <string name="DEPOSIT_CONFIRM_TRANSACTION_NUMBER_TOOLTIP">Nomor unik ini digunakan untuk mengidentifikasi transaksimu</string>
+    <string name="DEPOSIT_CONFIRM_TOTAL_DEPOSIT">Jumlah setoran</string>
+    <string name="DEPOSIT_CONFIRM_HOW_TO_DEPOSIT">Cara transfer</string>
+    <string name="DEPOSIT_CONFIRM_SECTION_HOW_TO_DEPOSIT">Cara transfer</string>
+    <string name="DEPOSIT_CONFIRM_SECTION_PROOF">Unggah bukti transfer</string>
+    <string name="DEPOSIT_CONFIRM_SECTION_PROOF_DESCRIPTION">Pastikan gambar jelas dan dapat dibaca</string>
+    <string name="DEPOSIT_CONFIRM_BUTTON_UPLOAD_PROOF">Unggah bukti transfer</string>
+    <string name="DEPOSIT_CONFIRM_BUTTON_CHANGE_PICTURE">Ganti</string>
+    <string name="DEPOSIT_CONFIRM_BUTTON_CONFIRM">Konfirmasi</string>
+    <string name="DEPOSIT_CONFIRM_EXISTED_ALERT_TITLE">Dalam Proses</string>
+    <string name="DEPOSIT_CONFIRM_EXISTED_ALERT_MESSAGE">Transaksimu sedang berjalan. Pantau prosesnya di laman Transaksi!</string>
+    <string name="DEPOSIT_CONFIRM_EXISTED_ALERT_BUTTON_NEGATIVE">Kembali</string>
+    <string name="DEPOSIT_CONFIRM_EXISTED_ALERT_BUTTON_POSITIVE">Ke Transaksi</string>
+    <string name="DEPOSIT_CONFIRM_BACK_ALERT_MESSAGE">Unggah bukti pembayaranmu di laman Transaksi agar bisa segera menikmati return</string>
+    <string name="DEPOSIT_CONFIRM_BACK_ALERT_BUTTON_NEGATIVE">Batal</string>
+    <string name="DEPOSIT_CONFIRM_BACK_ALERT_BUTTON_POSITIVE">Kembali</string>
+    <string name="DEPOSIT_CONFIRM_ALERT_PROOF_REQUIRED">Silakan unggah bukti pembayaranmu</string>
+    <string name="DEPOSIT_CONFIRM_SUCCESS_ALERT_TITLE">Bukti Transfer Telah Diunggah</string>
+    <string name="DEPOSIT_CONFIRM_SUCCESS_ALERT_MESSAGE">Kami akan segera verifikasi setoranmu dalam waktu 1 hari kerja (tidak termasuk Sabtu, Minggu, dan libur nasional)</string>
+    <string name="DEPOSIT_CONFIRM_SUCCESS_ALERT_BUTTON_NEGATIVE">Kembali</string>
+    <string name="DEPOSIT_CONFIRM_SUCCESS_ALERT_BUTTON_POSITIVE">Transaksi</string>
+    <string name="DEPOSIT_CONFIRM_REMINDER_TITLE">Peringatan</string>
+    <string name="DEPOSIT_CONFIRM_REMINDER_DESCRIPTION">Transaksi Anda dihitung dengan menggunakan Nilai Aktiva Bersih (NAB) dari Hari Bursa yang sama jika konfirmasi pembayaran dilakukan sebelum pukul 13:00 WIB (cut-off time).\n\nJika konfirmasi pembayaran melebihi waktu cut-off atau dilakukan pada hari libur, maka transaksi akan dihitung berdasarkan NAB Hari Bursa berikutnya.</string>
+    <string name="DEPOSIT_CONFIRM_NOT_KYC_TITLE">Lengkapi data anda</string>
+    <string name="DEPOSIT_CONFIRM_NOT_KYC_DESC">Lengkapi data verifikasi wajib OJK untuk melanjutkan transaksi</string>
+    <string name="DEPOSIT_CONFIRM_KYC_VERIFYING_TITLE">Mohon menunggu</string>
+    <string name="DEPOSIT_CONFIRM_KYC_VERIFYING_DESC">Akunmu sedang diverifikasi Ajaib. Harap menunggu maksimal 3 jam kerja (di luar Sabtu, Minggu, dan libur nasional) untuk melanjutkan transaksi</string>
+    <string name="DEPOSIT_CONFIRM_KYC_REJECTED_TITLE">Kontak Kami</string>
+    <string name="DEPOSIT_CONFIRM_KYC_REJECTED_DESC">Silahkan hubungi customer service kami untuk informasi lebih lanjut.</string>
+
+    <string name="DEPOSIT_CONFIRM_EXPIRATION_TIME">Lakukan Pembayaran sebelum %1$s</string>
+    <string name="DEPOSIT_CONFIRM_SECTION_PAYMENT">Pembayaran</string>
+    <string name="DEPOSIT_CONFIRM_SUB_SECTION_TRANSFER">Transfer</string>
+    <string name="DEPOSIT_CONFIRM_BUTTON_CHANGE_PAYMENT">Metode pembayaran lain</string>
+
+    <string name="VA_CONFIRM_TITLE">Transaksi</string>
+    <string name="VA_CONFIRM_SECTION_HEADER">Pesanan Reksa Dana Berhasil Dibuat</string>
+    <string name="VA_CONFIRM_SECTION_HEADER_EXPIRED_DATE">Lakukan Pembayaran sebelum %1$s</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT">Pembayaran</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_METHOD_MANUAL">Transfer</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_METHOD_VA">Transfer</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_METHOD_VA_NUMBER">No. Transaksi</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_METHOD_TOTAL_AMOUNT">Jumlah Setoran</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_DETAILS">Detail Pembayaran</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_DETAILS_TOTAL_FEE">Total Fee</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_DETAILS_FREE_FEE">Gratis</string>
+    <string name="VA_CONFIRM_SECTION_PAYMENT_DETAILS_TOTAL_AMOUNT">Total Tagihan</string>
+    <string name="VA_CONFIRM_SECTION_HOW_TO_PAY">Cara Pembayaran</string>
+    <string name="VA_CONFIRM_DISCLAIMER_TITLE">Peringatan</string>
+    <string name="VA_CONFIRM_DISCLAIMER_CONTENT">Transaksi Anda dihitung dengan menggunakan Nilai Aktiva Bersih (NAB) dari Hari Bursa yang sama jika konfirmasi pembayaran dilakukan sebelum pukul 13:00 WIB (cut-off time).\n\nJika konfirmasi pembayaran melebihi waktu cut-off atau dilakukan pada hari libur, maka transaksi akan dihitung berdasarkan NAB Hari Bursa berikutnya.</string>
+    <string name="VA_CONFIRM_DISCLAIMER_BUTTON_PAY">Bayar</string>
+    <string name="VA_CONFIRM_DISCLAIMER_BUTTON_CHANGE_METHOD">Metode pembayaran lain</string>
+    <string name="VA_CONFIRM_BACK_ALERT_MESSAGE">Selesaikan pembayaranmu di laman Transaksi agar bisa segera menikmati return</string>
+    <string name="VA_CONFIRM_ERROR_PAYMENT_IN_PROGRESS">Transaksimu sedang berjalan. Pantau prosesnya di laman Transaksi!</string>
+    <string name="VA_CONFIRM_ERROR_PAYMENT_CONFIRMED">Pembayaran anda telah terkonfirmasi.</string>
+    <string name="VA_CONFIRM_ERROR_PAYMENT_CANCELED">Pembayaran anda telah dibatalkan.</string>
+    <string name="VA_CONFIRM_BACK_ALERT_BUTTON_NEGATIVE">Batal</string>
+    <string name="VA_CONFIRM_BACK_ALERT_BUTTON_POSITIVE">Kembali</string>
+
+    <string name="TRANSACTION_PROGRESS_AMOUNT">Jumlah</string>
+    <string name="TRANSACTION_PROGRESS_UNIT">Unit</string>
+    <string name="TRANSACTION_PROGRESS_UNIT_TOOLTIP">Ini adalah jumlah unit investasi dari pembelian reksa dana berdasarkan harga NAB hari bursa sebelumnya</string>
+    <string name="TRANSACTION_PROGRESS_NAB_PER_UNIT">NAB/Unit</string>
+    <string name="TRANSACTION_PROGRESS_NAB_PER_UNIT_TOOLTIP">NAB (Nilai Aktiva Bersih) merupakan harga 1 unit reksa dana di pasar saat ini.</string>
+    <string name="TRANSACTION_PROGRESS_SECTION_STATUS">Status</string>
+    <string name="TRANSACTION_PROGRESS_DESC_DATE_WITHDRAWAL">Diterima pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_WAITING_PAYMENT">Transaksi dibuat pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_PROOF_UPLOADED">Bukti transfer diterima pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_PAYMENT_ACCEPTED">Verifikasi dari Manajer Investasi %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_IN_PROGRESS">Transaksi sedang diproses sejak %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_REJECTED">Transaksi di tolak pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_CONFIRM">On %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_CANCELED">Transaksi dibatalkan pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_FINAL_CHECKING">Transaksi diproses %1$s</string>
+    <string name="TRANSACTION_PROGRESS_DESC_COMPLETE">Transaksi selesai pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_W_DESC_RECEIVED">%1$s</string>
+    <string name="TRANSACTION_PROGRESS_W_DESC_IN_PROGRESS">Dicairkan bertahap sejak %1$s</string>
+    <string name="TRANSACTION_PROGRESS_W_DESC_CONFIRMED">Terhitung dari %1$s. Belum termasuk biaya transfer antarbank</string>
+    <string name="TRANSACTION_PROGRESS_W_DESC_CANCELED">Transaksi selesai pada %1$s</string>
+    <string name="TRANSACTION_PROGRESS_SECTION_DETAIL">Detail</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_TRANSACTION_NUMBER">No. Transaksi</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_TRANSACTION_NUMBER_TOOLTIP">Nomor unik ini digunakan untuk mengidentifikasi transaksimu</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_BANK_DETAILS">Transfer ke</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_DEPOSIT_INFO_PAYMENT_TITLE">Kapan transaksi saya usai dan mulai menghasilkan return?</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_DEPOSIT_INFO_PAYMENT_DESC">Maks. 3 hari kerja. Tidak termasuk Sabtu, Minggu, dan hari libur nasional.</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_WITHDRAW_INFO_PAYMENT_TITLE">Kapan uang tunai saya kembali ke rekening setelah reksa dana dicairkan?</string>
+    <string name="TRANSACTION_PROGRESS_DETAIL_WITHDRAW_INFO_PAYMENT_DESC">Berdasarkan regulasi OJK, Manajer Investasi memiliki waktu hingga max. 7 hari kerja untuk mengembalikan dana ke rekeningmu. Hari kerja tidak termasuk Sabtu, Minggu, dan hari libur nasional.</string>
+    <string name="TRANSACTION_PROGRESS_ON_PROGRESS">Sedang diproses</string>
+
+    <string name="REFERRAL_PLAY_TITLE">Kode Referral</string>
+    <string name="REFERRAL_PLAY_INFO_HAS_PLAY_CHANCE">Kamu punya %1$d koin Ajaib</string>
+    <string name="REFERRAL_PLAY_INFO_HAS_NO_PLAY_CHANCE">Undang teman &amp; dapatkan bonus</string>
+    <string name="REFERRAL_PLAY_BUTTON_CLAIM">AMBIL</string>
+    <string name="REFERRAL_PLAY_BUTTON_PLAY_AGAIN">Main Lagi</string>
+    <string name="REFERRAL_PLAY_BUTTON_SEE_BONUS">Cek Reksa Dana Gratis</string>
+    <string name="REFERRAL_PLAY_CONGRATULATION">Congratulation</string>
+    <string name="REFERRAL_PLAY_SPOTLIGHT_TRACKER_TITLE">Daftar Teman</string>
+    <string name="REFERRAL_PLAY_SPOTLIGHT_TRACKER_DESC">Lihat daftar teman yang pakai kode referralmu. Ingatkan mereka untuk menyelesaikan transaksi agar dapat reksa dana GRATIS.</string>
+    <string name="REFERRAL_PLAY_HEADER_TITLE_1">Dapatkan hingga 1 Juta ketika kamu berbagi dengan teman</string>
+    <string name="REFERRAL_PLAY_HEADER_TITLE_2">Pilih karpet ajaib untuk memenangkan reksa dana gratis</string>
+    <string name="REFERRAL_PLAY_HEADER_TITLE_3">Cara mendapatkan reksa dana gratis</string>
+    <string name="REFERRAL_PLAY_HEADER_TITLE_4">Temanmu juga mendapat Rp 10 ribu reksa dana gratis</string>
+    <string name="REFERRAL_PLAY_HEADER_TITLE_5">Pantau reksa dana gratis Anda di menu Invest!</string>
+    <string name="REFERRAL_PLAY_SUBTITLE">Ajak Teman Berinvestasi, \nDapatkan Bonus dari Ajaib!</string>
+    <string name="REFERRAL_PLAY_DESC">Temanmu akan mendapatkan Rp10.000 reksa dana gratis ketika mendaftarkan diri di Ajaib untuk pertama kalinya</string>
+    <string name="REFERRAL_PLAY_COUNT">%1$d Teman Sudah Mendaftar</string>
+    <string name="REFERRAL_PLAY_POINT">%1$d Koin Tersedia</string>
+    <string name="REFERRAL_PLAY_EXPIRING_POINT">%1$d Akan Segera Kadaluarsa</string>
+    <string name="REFERRAL_PLAY_COUNT_ACTION">Ingatkan Untuk Investasi</string>
+    <string name="REFERRAL_PLAY_POINT_ACTION">Tukarkan</string>
+    <string name="REFERRAL_PLAY_HOW_TO_GET">Cara Kerja</string>
+    <string name="REFERRAL_PLAY_QUOTA_MAX">Kuota bonus tidak mencukupi</string>
+    <string name="REFERRAL_PLAY_TERM_AND_CONDITION">Syarat &amp; Ketentuan</string>
+
+    <string name="REFERRAL_SHARE_ENCOURAGEMENT">Share kode referral Anda</string>
+    <string name="REFERRAL_SHARE_COPY_BUTTON">Tap to share</string>
+    <string name="REFERRAL_SHARE_COPY_BUTTON_CLICK_FEEDBACK">Sudah ter-copy</string>
+    <string name="REFERRAL_SHARE_DEFAULT_SHARE_TEXT">Mulai investasi dengan Ajaib, aplikasi investasi mudah! Buka akun gratis, investasi modal rendah, aman, terdaftar dan diawasi OJK. Dapatkan reksa dana gratis jika daftar dengan kode:</string>
+    <string name="REFERRAL_SHARE_DEFAULT_DOWNLOAD_NOW"> - Download Sekarang</string>
+    <string name="REFERRAL_SHARE_SOCMED_TEXT">Aku baru mulai berinvestasi reksa dana dengan Ajaib, cara investasi paling gampang untuk pemula. Ini reksa dana GRATIS jika daftar dengan kode %1$s - download sekarang https://go.onelink.me/tR9U/ajaib</string>
+
+    <string name="BONUS_CLAIM_TITLE">Bonus</string>
+    <string name="BONUS_CLAIM_POINT">Koin Ajaib: %1$d</string>
+    <string name="BONUS_CLAIM_MUTUAL_FUND_TITLE">Reksa Dana Gratis</string>
+    <string name="BONUS_CLAIM_MUTUAL_FUND_DESC">Dapatkan reksa dana gratis hingga Rp1.000.000 per teman. Bonus berupa reksa dana pasar uang, dapat ditarik ke rekening setelah 30 hari.</string>
+    <string name="BONUS_CLAIM_STOCK_TITLE">Transaksi Bebas Komisi</string>
+    <string name="BONUS_CLAIM_STOCK_DESC">Dapatkan transaksi saham bebas komisi selama 10 hari. Pajak transaksi dan pajak penghasilan tetap wajib dibayarkan.</string>
+    <string name="BONUS_CLAIM_NEW_LABEL">Baru</string>
+    <string name="BONUS_CLAIM_CHANCE_LABEL">%1$dx</string>
+    <string name="BONUS_CLAIM_DISCLAIMER">Setiap bonus yang dipilih akan mengurangi satu Koin Ajaib. Koin yang tidak digunakan akan hangus dan tidak bisa ditukarkan lagi, 30 hari setelah didapatkan.</string>
+
+    <string name="BONUS_CLAIM_BOTTOMSHEET_TITLE">Gratis Fee dari Ajaib</string>
+    <string name="BONUS_CLAIM_BOTTOMSHEET_CONTENT">Claim dengan 1 Koin Ajaib</string>
+    <string name="BONUS_CLAIM_BOTTOMSHEET_DESC">Kamu akan mendapatkan Gratis Fee Ajaib untuk 10 hari setiap transaksi di Stock.  Terhitung mulai dari waktu bonus diclaim. Tidak termasuk fee IDX dan fee Saham. Bonus juga akan terhitung saat weekend</string>
+    <string name="BONUS_CLAIM_BOTTOMSHEET_BUTTON">Claim</string>
+
+    <string name="BONUS_SWITCH_TITLE">Bonus</string>
+    <string name="BONUS_SWITCH_STATUS_CHECK">Cek Status</string>
+    <string name="BONUS_SWITCH_DISCLAIMER">Bonus reksa dana maupun transaksi bebas komisi memiliki syarat dan ketentuan masing-masing, yang dapat dibaca ketika kamu memilih Koin Ajaib.</string>
+
+    <string name="BONUS_HISTORY_TITLE">Bonus Free Fee</string>
+    <string name="BONUS_HISTORY_DATE_TITLE">Duration End At</string>
+    <string name="BONUS_HISTORY_LIST_TITLE">Riwayat Bonus</string>
+    <string name="BONUS_HISTORY_DESC">Gratis fee Ajaib ini aktif secara automatis setelah kamu langsung melakukan penukaran. dan akan langsung terpotong saat kamu melakukan transaksi Stock di Ajaib</string>
+    <string name="BONUS_HISTORY_ITEM_CONTENT">%1$d Hari</string>
+    <string name="BONUS_HISTORY_ITEM_DURATION_TITLE">Duration</string>
+    <string name="BONUS_HISTORY_ITEM_DATE_TITLE">Bonus Claimed</string>
+
+    <string name="PLAY_BONUS_TITLE">Pilih Reksa Dana Gratis Anda</string>
+    <string name="PLAY_BONUS_CHANCE_TO_PLAY">Anda memiliki %1$d kesempatan bermain</string>
+    <string name="PLAY_BONUS_CHANCE_FOR">Kesempatan didapatkan dari %1$s</string>
+    <string name="PLAY_BONUS_CHANCE_INFO">Pilih karpet Ajaib untuk klaim Reksa Dana Gratis Anda</string>
+
+    <string name="USER_TRANSACTION_IN_PROGRESS_TITLE">Dalam Proses</string>
+    <string name="USER_TRANSACTION_CONFIRMED_TITLE">Terkonfirmasi</string>
+
+    <string name="USER_TRANSACTION_LIST_DATE">%1$s WIB</string>
+    <string name="USER_TRANSACTION_LIST_NAME">%1$s</string>
+    <string name="USER_TRANSACTION_LIST_TYPE_WITHDRAW">Tarik</string>
+    <string name="USER_TRANSACTION_LIST_TYPE_DEPOSIT">Setor</string>
+    <string name="USER_TRANSACTION_CANCEL_BUTTON">Batal Pesanan</string>
+    <string name="USER_TRANSACTION_CANCEL_TIME">Batalkan penarikan sebelum %1$s</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_POPUP_TITLE">Batalkan pesanan reksa danamu?</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_WITHDRAWAL_POPUP_TITLE">Batalkan penarikan reksa danamu?</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_POPUP_DESC">Kamu dapat memilih investasi sesuai kebutuhanmu pada laman utama Ajaib</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_BUTTON_POSITIVE">YAKIN</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_BUTTON_NEGATIVE">BATAL</string>
+    <string name="USER_TRANSACTION_LIST_CANCEL_FAILED_TITLE">Gagal membatalkan setoran</string>
+    <string name="USER_TRANSACTION_LIST_VA_PAYMENT">Menggunakan Pembayaran Instan</string>
+
+    <string name="TRANSACTION_STATUS_DEPOSIT_WAITING_PAYMENT">Menunggu Setoran</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_PAYMENT_ACCEPTED">Setoran Diterima</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_IN_PROGRESS">Unit Reksa Dana Diproses</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_CONFIRMED">Unit Diterima</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_FINAL_CHECKING">Pemeriksaan terakhir</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_CANCELED">Dibatalkan</string>
+    <string name="TRANSACTION_STATUS_DEPOSIT_PROOF_UPLOADED">Bukti Setoran Terunggah</string>
+
+    <string name="TRANSACTION_STATUS_WITHDRAWAL_RECEIVED">Permintaan Tarik Dana Diterima</string>
+    <string name="TRANSACTION_STATUS_WITHDRAWAL_IN_PROGRESS">Menunggu Persetujuan Manajer Investasi</string>
+    <string name="TRANSACTION_STATUS_WITHDRAWAL_CONFIRMED">Proses Transfer Berlangsung 7 Hari Kerja</string>
+    <string name="TRANSACTION_STATUS_WITHDRAWAL_CANCELED">Dibatalkan</string>
+
+    <string name="TRANSACTION_PROGRESS_TITLE_DEPOSIT">Deposit</string>
+    <string name="TRANSACTION_PROGRESS_TITLE_WITHDRAWAL">Withdrawal</string>
+
+    <string name="THEME_FUND_DETAILS_TAB_ABOUT">Keterangan</string>
+    <string name="THEME_FUND_DETAILS_TAB_PERFORMANCE">Performa</string>
+    <string name="THEME_FUND_DETAILS_TAB_CALCULATOR">Kalkulator</string>
+    <string name="THEME_FUND_DETAILS_SECTION_COMPANIES">Investasi Utama Kamu</string>
+    <string name="THEME_FUND_DETAILS_BUTTON_INVEST">INVESTASI SEKARANG</string>
+    <string name="THEME_FUND_DETAILS_TEXT_INVEST_RETURN">1Y Return</string>
+    <string name="THEME_FUND_DETAILS_MUTUAL_FUND">Reksa Dana: </string>
+    <string name="THEME_FUND_DETAILS_SECTION_INVESTMENT_DETAILS">Detail Investasi</string>
+    <string name="THEME_FUND_DETAILS_SECTION_INVESTMENT_DETAILS_ALLOCATION">Alokasi Aset:</string>
+    <string name="THEME_FUND_DETAILS_SECTION_INVESTMENT_DETAILS_FUND_NAME">Reksa Dana</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DISCLAIMER">Data pengembalian historis tidak menjamin pengembalian di masa depan.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIMULATION">Simulasi Return</string>
+    <string name="THEME_FUND_DETAILS_NUMBER_PURCHASE">%1$s orang telah membeli ini</string>
+
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_SECTION_PROMO_CODE">Punya Kode Promo?</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_SECTION_REMINDER">Pengingat</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_HINT_REMINDER">Ingatkan saya untuk berinvestasi tiap bulan pada reksa dana ini</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_HINT_PROMO_CODE">Ketikkan di sini</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_BUTTON_TNC">Saya telah membaca dan memahami prospektus terkait transaksi reksa dana saya dan saya setuju memilih portofolio yang mungkin beresiko dari profil risiko saya</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_BUTTON_DEPOSIT">SETOR</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_BUTTON_INSURANCE_TNC" translatable="false">Saya telah membaca dan menyetujui ringkasan produk ini. Saya telah memahami keuntungan dan risikonya.</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_BUTTON_INSURANCE_HI" translatable="false">ringkasan produk</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_PROMO_SUCCESS_POPUP_TITLE">Kode Promo Telah Aktif!</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_PROMO_SUCCESS_POPUP_DESC">Segera selesaikan setoranmu, yuk!</string>
+    <string name="THEME_FUND_DETAILS_DEPOSIT_MODAL_PROMO_SUCCESS_POPUP_BUTTON">Lanjut</string>
+
+    <string name="DEPOSIT_SHEET_TITLE">Mau investasi berapa?</string>
+    <string name="DEPOSIT_SHEET_MINIMUM_DEPOSIT">Min %1$s</string>
+    <string name="DEPOSIT_SHEET_SECTION_DETAILS">Detail setoran</string>
+    <string name="DEPOSIT_SHEET_UP_SELLING_TEXT">*Estimasi return: hingga <b>%1$s</b> per tahun dengan investasi %2$s</string>
+    <string name="DEPOSIT_SHEET_ERROR_INVALID_FUND_ID">Data tak ditemukan. Harap hubungi layanan pelanggan Ajaib</string>
+    <string name="DEPOSIT_SHEET_ERROR_INVALID_FUND_TYPE">Data tak ditemukan. Harap hubungi layanan pelanggan Ajaib</string>
+    <string name="DEPOSIT_SHEET_ERROR_INVALID_DEPOSIT_AMOUNT">Harap masukkan nominal yang sesuai</string>
+    <string name="DEPOSIT_SHEET_ERROR_UNCHECKED_DISCLAIMER">Saya sudah membaca prospektus dan telah memahami risiko investasi</string>
+    <string name="DEPOSIT_SHEET_ERROR_UNCHECKED_INSURANCE_DISCLAIMER">Silahkan setujui prospektus</string>
+
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE">Performance</string>
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE_N_YEAR">Return %1$s</string>
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE_NAV">NAB %1$s</string>
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE_CHART_NO_DATA">No chart data available.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE_PROSPECTUS_SEND">Prospektus telah dikirim</string>
+    <string name="THEME_FUND_DETAILS_SECTION_PERFORMANCE_FUNDFACTSHEET_SEND">Fundfactsheet telah dikirim</string>
+
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS">Detail</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_NAB">NAB</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_TOTAL_FUND">Dana Kelolaan</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_TYPE">Tipe</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_RISK_LEVEL">Level risiko</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_LAUNCH_DATE">Tanggal peluncuran</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_MANAGER">Manager Investasi</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_BANK">Bank Kustodian</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_PURCHASE_FEE">Biaya Setor &amp; Tarik</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_MANAGEMENT_FEE">Biaya Manajemen</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_LEARN_MORE">Pelajari selengkapnya</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_BUTTON_PROSPECTUS">PROSPECTUS</string>
+    <string name="THEME_FUND_DETAILS_SECTION_DETAILS_BUTTON_FACTSHEET">FUND FACTSHEET</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_NAB">NAB didasarkan pada perhitungan hari kerja sebelumnya</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_TYPE">Tipe reksa dana merupakan aset yang akan Anda dapatkan setelah melakukan pembelian suatu reksa dana.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_AUM">Total Dana Kelolaan adalah jumlah total aset yang dikelola dengan modal dari investor seperti Anda.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_RISK_LEVEL">Level risiko ditentukan berdasarkan aset yang ada dalam suatu reksa dana. Semakin tinggi risikonya, semakin tinggi hasil yang diperkirakan.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_MANAGER">Manajer investasi adalah ahli keuangan yang melakukan jual beli aset dengan modal Anda sesuai dengan strategi investasi.</string>
+    <string name="THEME_FUND_DETAILS_SECTION_TOOLTIP_BANK">Bank kustodian menjamin keamanan dan menyimpan modal investor saat manajer investasi mengatur aktivitas modal.</string>
+
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_HINT_MONTHLY_INVEST">Jika investasi bulananmu sebesar</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_HINT_DURATION">Selama</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_HINT_RESULT">Maka kamu bisa mendapatkan</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_TOTAL_INVEST">Total investasi</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_RETURN">Return</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_BUTTON_1_YEAR">1 Tahun</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_BUTTON_2_YEARS">2 Tahun</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_BUTTON_3_YEARS">3 Tahun</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIM_DISCLAIMER">Angka merupakan ilustrasi berdasarkan data pengembalian historis dan tidak menjamin pengembalian di masa depan. Ajaib tidak mengharuskan investasi bulanan, meskipun sangat disarankan.</string>
+
+    <string name="THEME_FUND_INSURANCE_DESC">Gratis asuransi dengan total investasi min. Rp10 juta. Dana tetap bisa ditarik kapan saja</string>
+    <string name="THEME_FUND_INSURANCE_DETAIL_1">Program asuransi ini bebas biaya dan langsung aktif ketika saldo reksa dana ini menyentuh Rp10 juta.</string>
+    <string name="THEME_FUND_INSURANCE_DETAIL_2">Saldo investasimu tidak akan dipotong sama sekali apabila asuransi membayarkan kebutuhan kesehatanmu.</string>
+    <string name="THEME_FUND_INSURANCE_DETAIL_3">Nominal pertanggungan rawat harian, ICU, dan santunan kematian dapat dilihat pada menu berikut:</string>
+    <string name="THEME_FUND_INSURANCE_BUTTON">Selengkapnya</string>
+
+    <string name="THEME_FUND_LIST_TITLE">Investasi</string>
+    <string name="THEME_FUND_LIST_SEARCH_FUND">Cari Reksa Dana</string>
+    <string name="THEME_FUND_LIST_SUB_SECTION">Investasi di reksa dana:</string>
+    <string name="THEME_FUND_LIST_BUTTON_SEE_ALL">Lihat semua</string>
+    <string name="THEME_FUND_LIST_NO_DATA">Reksa dana tidak ditemukan</string>
+    <string name="THEME_FUND_LIST_DISCLAIMER">Data didasarkan pada kinerja historis dan bukan jaminan untuk dana kinerja masa depan</string>
+    <string name="THEME_FUND_LIST_START_FROM">Dimulai dari</string>
+    <string name="THEME_FUND_LIST_BUTTON_COMPARE">Bandingkan</string>
+    <string name="THEME_FUND_LIST_BUTTON_SORT">Urutkan</string>
+    <string name="THEME_FUND_LIST_BUTTON_FILTER">Filter</string>
+    <string name="THEME_FUND_LIST_RETURN">Return</string>
+    <string name="THEME_FUND_LIST_1Y_RETURN">1Y Return</string>
+    <string name="THEME_FUND_LIST_N_RETURN">%1$s Return</string>
+    <string name="THEME_FUND_LIST_COMPARE">Bandingkan</string>
+    <string name="THEME_FUND_LIST_COMPARE_EMPTY">Pilih Reksa Dana Lainnya</string>
+    <string name="THEME_FUND_LIST_PURCHASED">%1$s orang telah membeli ini</string>
+    <string name="THEME_FUND_LIST_COMPARE_ERROR_INVALID_AMOUNT">Pilih lebih dari 1 reksa dana untuk membandingkan</string>
+
+    <string name="THEME_FUND_COMPARISON_TITLE">Perbandingan Reksa Dana</string>
+    <string name="THEME_FUND_COMPARISON_TAB_PERFORMANCE">Performa</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS">Detail</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_RETURN">Return Tahunan</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_TYPE">Tipe</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_RISK">Risiko</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_AUM">AUM</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_LAUNCH_DATE">Dari Tahun</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_SECTION_DETAIL">Detail Perbandingan Investasi</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_NO_SELECTED_FUND">Tidak ada reksa dana terpilih</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_INFO_RETURN">Return, atau disebut juga hasil investasi, adalah selisih nilai investasimu sekarang dengan modal investasi yang telah kamu keluarkan. Semakin tinggi nilai return yang ditampilkan, berarti semakin baik performa investasimu.</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_INFO_TYPE">Tipe reksa dana merupakan aset yang akan Anda dapatkan setelah melakukan pembelian suatu reksa dana.</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_INFO_RISK">Level risiko ditentukan berdasarkan aset yang ada dalam suatu reksa dana. Semakin tinggi risikonya, semakin tinggi hasil yang diperkirakan.</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_INFO_AUM">Total Dana Kelolaan adalah jumlah total aset yang dikelola dengan modal dari investor seperti Anda.</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_INFO_LAUNCH_DATE" />
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_BUTTON_BUY">Beli</string>
+    <string name="THEME_FUND_COMPARISON_TAB_DETAILS_SECTION_PERFORMANCE">Detail Perfoma Return</string>
+    <string name="THEME_FUND_COMPARISON_TAB_CHART_DISCLAIMER">Data pengembalian historis tidak menjamin pengembalian di masa depan.</string>
+
+    <string name="FUND_FILTER_TITLE">Filter</string>
+    <string name="FUND_FILTER_RESET">Reset</string>
+    <string name="FUND_FILTER_SECTION_DURATION">Durasi Return</string>
+    <string name="FUND_FILTER_SECTION_TYPE">Jenis reksa dana</string>
+    <string name="FUND_FILTER_SECTION_TYPE_BONDS">Obligasi</string>
+    <string name="FUND_FILTER_SECTION_TYPE_MONEY_MARKET">Pasar Uang</string>
+    <string name="FUND_FILTER_SECTION_TYPE_EQUITY">Saham</string>
+    <string name="FUND_FILTER_SECTION_MIN_AMOUNT">Minimal Investasi</string>
+    <string name="FUND_FILTER_SECTION_MIN_AMOUNT_10K">Rp 10.000</string>
+    <string name="FUND_FILTER_SECTION_MIN_AMOUNT_100K">Rp 100.000</string>
+    <string name="FUND_FILTER_SECTION_MIN_AMOUNT_500K">Rp 500.000</string>
+    <string name="FUND_FILTER_SECTION_MIN_AMOUNT_1M">Rp 1.000.000</string>
+    <string name="FUND_FILTER_BUTTON_APPLY">Aktifkan Filter</string>
+
+    <string name="STOCK_WATCHLIST_SECTION_TITLE">Saham</string>
+    <string name="STOCK_WATCHLIST_ITEM_CHANGES">%1$s %2$s &#37;</string>
+    <string name="STOCK_WATCHLIST_NO_DATA">Watchlist Kosong</string>
+    <string name="STOCK_WATCHLIST_BUTTON_ADD_WATCHLIST">Tambah</string>
+
+    <string name="STOCK_SEARCH_SECTION_SEARCH">Mencari saham</string>
+    <string name="STOCK_SEARCH_HINT">Cari saham…</string>
+    <string name="STOCK_SEARCH_SECTION_RESULTS">%1$d saham ditemukan</string>
+    <string name="STOCK_SEARCH_NO_DATA">Saham tidak ditemukan</string>
+
+    <string name="STOCK_SEARCH_DEFAULT_SECTION">Pencarian Populer</string>
+
+    <string name="STOCK_BUY_SUBTITLE">%1$s %2$s &#37;</string>
+    <string name="STOCK_BUY_ORDER_TYPE">Order Type</string>
+    <string name="STOCK_BUY_ORDER_TYPE_HINT">Order Type</string>
+    <string name="STOCK_BUY_ORDER_PERIOD">Period</string>
+    <string name="STOCK_BUY_ORDER_PERIOD_HINT">Period</string>
+    <string name="STOCK_BUY_PRICE">Harga</string>
+    <string name="STOCK_BUY_LOT">Lot</string>
+    <string name="STOCK_BUY_TOTAL">Total</string>
+    <string name="STOCK_BUY_AVAILABLE">Available</string>
+    <string name="STOCK_BUY_BUTTON_BUY">Beli</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_TITLE">Konfirmasi Order</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_TYPE">Type</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_NAME">Nama</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_TYPE_VALUE">Beli</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_CODE">Symbol</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_LOT">Lot</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_AMOUNT">Amount</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_PERIOD">Valid Period</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_PRICE">Price</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_ITEM_TOTAL">Total</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_BUTTON_CANCEL">Batal</string>
+    <string name="STOCK_BUY_POPUP_CONFIRM_BUTTON_CONFIRM">Beli</string>
+    <string name="STOCK_BUY_POPUP_SUCCESS_TITLE">Sukses</string>
+    <string name="STOCK_BUY_POPUP_SUCCESS_DESC">Proses Beli Berhasil</string>
+
+    <string name="STOCK_SELL_SUBTITLE">%1$s %2$s &#37;</string>
+    <string name="STOCK_SELL_ORDER_PERIOD">Period</string>
+    <string name="STOCK_SELL_ORDER_PERIOD_HINT">Period</string>
+    <string name="STOCK_SELL_PRICE">Harga</string>
+    <string name="STOCK_SELL_LOT">Lot</string>
+    <string name="STOCK_SELL_TOTAL">Total</string>
+    <string name="STOCK_SELL_AVAILABLE">Available Lot</string>
+    <string name="STOCK_SELL_BUTTON_SELL">Jual</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_TITLE">Konfirmasi Order</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_CODE">Symbol</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_LOT">Lot</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_TYPE">Type</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_NAME">Nama</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_TYPE_VALUE">Jual</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_PERIOD">Valid Period</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_AMOUNT">Amount</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_TOTAL">Total</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_ITEM_PRICE">Price</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_BUTTON_CANCEL">Batal</string>
+    <string name="STOCK_SELL_POPUP_CONFIRM_BUTTON_CONFIRM">Jual</string>
+    <string name="STOCK_SELL_POPUP_SUCCESS_TITLE">Sukses</string>
+    <string name="STOCK_SELL_POPUP_SUCCESS_DESC">Proses Jual Berhasil</string>
+
+    <string name="ORDER_AMEND_BUTTON_AMEND">Amend</string>
+
+    <string name="FUND_SEARCH_HINT">Cari reksa dana…</string>
+    <string name="FUND_SEARCH_NO_RESULTS">reksa dana yang dicari tidak ditemukan</string>
+    <string name="FUND_SEARCH_SECTION_RESULTS">%1$d reksa dana ditemukan</string>
+    <string name="FUND_SEARCH_SECTION_SEARCHING">Mencari reksa dana</string>
+    <string name="FUND_SEARCH_SECTION_RECENT">Riwayat Pencarian</string>
+    <string name="FUND_SEARCH_SECTION_POPULAR">Pencarian Populer</string>
+
+    <string name="EXPERT_UPDATE_TITLE">Berita Harian</string>
+    <string name="EXPERT_UPDATE_SHARE_DEFAULT_HASH_TAG">#AjaibUpdate</string>
+    <string name="EXPERT_UPDATE_SHARE_DEFAULT_EXTRA">Lihat update pasar investasi hari ini sekarang!</string>
+    <string name="EXPERT_UPDATE_SHARE_DEFAULT_LINK">https://ajaib.onelink.me/SgM5</string>
+
+    <string name="SUBMIT_KYC_TITLE">Buka Akun</string>
+    <string name="SUBMIT_KYC_BACK_POPUP_TITLE">Konfirmasi</string>
+    <string name="SUBMIT_KYC_BACK_POPUP_DESC">Mau kembali? Kamu perlu menyelesaikan pengisian profil untuk mulai berinvestasi</string>
+    <string name="SUBMIT_KYC_POPUP_VERIFIED_TITLE">Sudah terdaftar</string>
+    <string name="SUBMIT_KYC_POPUP_VERIFIED_DESC">Kamu sudah terdaftar</string>
+    <string name="SUBMIT_KYC_POPUP_FAILED_TITLE">Pendaftaran gagal</string>
+    <string name="SUBMIT_KYC_POPUP_FAILED_DESC">Pendaftaran kamu gagal, silahkan hubungi Customer Service kami</string>
+    <string name="SUBMIT_KYC_POPUP_FAILED_BUTTON_POSITIVE">Kontak CS</string>
+    <string name="SUBMIT_KYC_POPUP_ON_PROGRESS_TITLE">Sedang diproses</string>
+    <string name="SUBMIT_KYC_POPUP_ON_PROGRESS_DESC">Sedang memproses datamu… Harap menunggu</string>
+    <string name="SUBMIT_KYC_SECTION_OJK">OJK</string>
+    <string name="SUBMIT_KYC_SECTION_TNC">TnC</string>
+    <string name="SUBMIT_KYC_SECTION_IDENTITY">Identitas</string>
+    <string name="SUBMIT_KYC_SECTION_ADDRESS">Alamat</string>
+    <string name="SUBMIT_KYC_SECTION_BANK_ACCOUNT">Rekening Bank</string>
+    <string name="SUBMIT_KYC_BUTTON_NEXT">Lanjut</string>
+
+    <string name="SUCCESS_KYC_TITLE">Pendaftaran selesai!</string>
+    <string name="SUCCESS_KYC_DESC">Terima kasih sudah mendaftar. Mari mulai berinvestasi!</string>
+    <string name="SUCCESS_KYC_BUTTON">MULAI INVESTASI</string>
+
+    <string name="KYC_SWITCH_TITLE">Apa tujuan kamu berinvestasi di ajaib?</string>
+    <string name="KYC_SWITCH_SECTION_ALL_TITLE">Reksadana &amp; Saham</string>
+    <string name="KYC_SWITCH_SECTION_ALL_DESC">Cocok untuk kamu yang senang berinvestasi, dan senang menganalisa</string>
+    <string name="KYC_SWITCH_SECTION_STOCK_TITLE">Saham</string>
+    <string name="KYC_SWITCH_SECTION_STOCK_DESC">Cocok untuk kamu yang senang menganalisa</string>
+    <string name="KYC_SWITCH_SECTION_MUTUAL_FUND_TITLE">Reksadana Saja</string>
+    <string name="KYC_SWITCH_SECTION_MUTUAL_FUND_DESC">Cocok untuk kamu yang senang berinvestasi tanpa khawatir</string>
+
+    <string name="KYC_OJK_TITLE">Pertanyaan wajib OJK</string>
+    <string name="KYC_OJK_DESCRIPTION">Untuk memulai, mohon konfirmasi beberapa informasi untuk OJK.</string>
+    <string name="KYC_OJK_HINT_FULL_NAME">Nama lengkap sesuai KTP</string>
+    <string name="KYC_OJK_HINT_THIS_YEAR_INCOME">Penghasilan tahun ini</string>
+    <string name="KYC_OJK_HINT_INVEST_STYLE">Gaya Investasi</string>
+    <string name="KYC_OJK_HINT_SOURCE_INCOME">Sumber Pendapatan</string>
+    <string name="KYC_OJK_HINT_INVEST_OBJECTIVE">Ojektif</string>
+    <string name="KYC_OJK_HINT_EDUCATION">Pendidikan</string>
+    <string name="KYC_OJK_HINT_INVEST_EXPERIENCE">Pengalaman investasi</string>
+    <string name="KYC_OJK_SECTION_OTHERS">Lainnya</string>
+
+    <string name="KYC_IDENTITY_TITLE">Verifikasi Identitas Anda</string>
+    <string name="KYC_IDENTITY_DESCRIPTION">Ini memastikan orang lain tidak akan membuka akun atas nama Anda.</string>
+    <string name="KYC_IDENTITY_HINT_KTP">KTP</string>
+    <string name="KYC_IDENTITY_DESCRIPTION_KTP">Tap untuk mengambil foto KTPmu</string>
+    <string name="KYC_IDENTITY_KTP_NUMBER">Nomor KTP</string>
+    <string name="KYC_IDENTITY_TITLE_CHOOSE_METHOD">Silahkan pilih</string>
+    <string name="KYC_IDENTITY_BUTTON_CHANGE_KTP">GANTI</string>
+    <string name="KYC_IDENTITY_HINT_RELIGION">Agama</string>
+    <string name="KYC_IDENTITY_HINT_OCCUPATION">Pekerjaan</string>
+    <string name="KYC_IDENTITY_HINT_MARITAL_STATUS">Status perkawinan</string>
+    <string name="KYC_IDENTITY_HINT_PLACE_OF_BIRTH">Tempat Lahir</string>
+
+    <string name="KYC_ADDRESS_TITLE">Alamat surat menyurat</string>
+    <string name="KYC_ADDRESS_DESCRIPTION">Alamat ini akan digunakan untuk menerima laporan bulanan</string>
+    <string name="KYC_ADDRESS_HINT_ADDRESS">Alamat tempat tinggal</string>
+    <string name="KYC_ADDRESS_HINT_HOUSE_NUMBER">Nomor rumah</string>
+    <string name="KYC_ADDRESS_HINT_SUB_LOCALITY">Kelurahan</string>
+    <string name="KYC_ADDRESS_HINT_LOCALITY">Kecamatan</string>
+    <string name="KYC_ADDRESS_HINT_SUB_ADMIN_AREA">Kota</string>
+    <string name="KYC_ADDRESS_HINT_ZIP_CODE">Kodepos</string>
+
+    <string name="KYC_BANK_ACCOUNT_TITLE">Informasi Rekening</string>
+    <string name="KYC_BANK_ACCOUNT_DESCRIPTION">Rekening ini akan digunakan untuk menerima uang tunai hasil pencairan reksa dana mu.</string>
+    <string name="KYC_BANK_ACCOUNT_HINT_BANK_NAME">Nama bank</string>
+    <string name="KYC_BANK_ACCOUNT_HINT_ACCOUNT_HOLDER">Nama pemilik rekening (Sesuai KTP)</string>
+    <string name="KYC_BANK_ACCOUNT_HINT_ACCOUNT_NUMBER">Nomor Rekening</string>
+
+    <string name="KYC_DUCK_IDENTITY_TITLE">Identitas Anda</string>
+    <string name="KYC_DUCK_IDENTITY_DESC">Untuk memulai, mohon konfirmasi beberapa informasi untuk OJK.</string>
+    <string name="KYC_DUCK_IDENTITY_NIK_SECTION">NIK</string>
+    <string name="KYC_DUCK_IDENTITY_NIK_HINT">Masukkan nomor NIK KTP</string>
+    <string name="KYC_DUCK_IDENTITY_EDUCATION_SECTION">Pendidikan Terakhir</string>
+    <string name="KYC_DUCK_IDENTITY_EDUCATION_HINT">Pilih tingkat pendidikan terakhir</string>
+    <string name="KYC_DUCK_IDENTITY_RELIGION_SECTION">Agama</string>
+    <string name="KYC_DUCK_IDENTITY_RELIGION_HINT">Pilih agama</string>
+    <string name="KYC_DUCK_IDENTITY_OCCUPATION_SECTION">Pekerjaan</string>
+    <string name="KYC_DUCK_IDENTITY_OCCUPATION_HINT">Pilih pekerjaan</string>
+    <string name="KYC_DUCK_IDENTITY_MARITAL_STATUS_SECTION">Status perkawinan</string>
+    <string name="KYC_DUCK_IDENTITY_MARITAL_STATUS_HINT">Pilih status perkawinan</string>
+    <string name="KYC_DUCK_IDENTITY_FULL_NAME_SECTION">Name</string>
+    <string name="KYC_DUCK_IDENTITY_FULL_NAME_HINT">Masukkan nama sesuai KTP</string>
+    <string name="KYC_DUCK_IDENTITY_DATE_OF_BIRTH_SECTION">Tanggal Lahir</string>
+    <string name="KYC_DUCK_IDENTITY_DATE_OF_BIRTH_HINT">Masukkan tanggal lahir sesuai KTP</string>
+    <string name="KYC_DUCK_IDENTITY_ADDRESS_SECTION">Alamat</string>
+    <string name="KYC_DUCK_IDENTITY_ADDRESS_HINT">Masukkan alamat sesuai KTP</string>
+    <string name="KYC_DUCK_IDENTITY_CITY_SECTION">Kota</string>
+    <string name="KYC_DUCK_IDENTITY_CITY_HINT">Pilih kota</string>
+    <string name="KYC_DUCK_IDENTITY_ZIP_SECTION">Kode Pos</string>
+    <string name="KYC_DUCK_IDENTITY_ZIP_HINT">Masukkan kode pos</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_NIK_EMPTY">KTP tidak boleh kosong</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_NIK_SIZE_NOT_RIGHT">Nomor KTP harus 16 angka</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_NIK_START_ZERO">Angka pertama nomor NIK tidak boleh 0</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_NIK_END_ZERO">Empat angka terakhir nomor NIK tidak boleh 0</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_EDUCATION_EMPTY">Silahkan pilih pendidikan terakhir</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_OCCUPATION_EMPTY">Silahkan pilih pekerjaan anda</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_NAME_EMPTY">Nama tidak boleh kosong</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_DATE_OF_BIRTH_EMPTY">Tanggal lahir tidak boleh kosong</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_ADDRESS_EMPTY">Alamat tidak boleh kosong</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_ADDRESS_SIZE_NOT_RIGHT">Alamat tidak boleh melebihin 70 karakter</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_CITY_EMPTY">Silahkan pilih kota</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_ZIP_EMPTY">Kode pos tidak boleh kosong</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_ZIP_NOT_NUMBER">Kodepos hanya bisa diisi angka</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_ZIP_SIZE_NOT_RIGHT">Kodepos tidak boleh melebihi 8 karakter</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_TITLE">Benar ini Profil Kamu?</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_NAME">Nama</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_DOB">Tanggal Lahir</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_DISCLAIMER">Pastikan data sesuai dengan nama dan tanggal lahir kamu, bila belum sesuai silahkan cek nomor NIK kembali.</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_BUTTON_NEGATIVE">Bukan, Isi Manual</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_CONFIRM_NIK_BUTTON_POSITIVE">Betul, Lanjutkan</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_TITLE">NIK Kamu tidak ditemukan</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_DESC_NORMAL">NIK yang kamu masukkan tidak ditemukan, silahkan coba lagi atau isi data diri secara manual</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_DESC_FORCE_MANUAL">Kelihatannya data diri kamu masih belum ditemukan, coba untuk isi data diri secara manual.</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_DUPLICATE_NIK_TITLE">NIK Kamu sudah terpakai</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_DUPLICATE_NIK_DESC_NORMAL">NIK yang kamu masukkan tidak ditemukan, silahkan coba lagi atau isi data diri secara manual</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_DUPLICATE_NIK_DESC_FORCE_MANUAL">Kelihatannya data diri kamu masih belum ditemukan, coba untuk isi data diri secara manual.</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_BUTTON_NEGATIVE_NORMAL">Coba Isi Manual</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_BUTTON_POSITIVE_NORMAL">Isi Ulang NIK</string>
+    <string name="KYC_DUCK_IDENTITY_POPUP_INVALID_NIK_BUTTON_POSITIVE_FORCE">Lanjut Isi Manual</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_FULLNAME_FORMAT">Format nama salah</string>
+    <string name="KYC_DUCK_IDENTITY_ERROR_FULLNAME_EMPTY">Nama tidak boleh kosong</string>
+
+    <string name="KYC_DUCK_DOC_TITLE">Dokumen &amp; Rekening bank </string>
+    <string name="KYC_DUCK_DOC_DESC">Rekening ini yang akan menerima uang jika Anda menjual investasi. <b>Pastikan akun sesuai nama KTP.</b></string>
+    <string name="KYC_DUCK_DOC_IMAGE_ID">KTP Photo</string>
+    <string name="KYC_DUCK_DOC_BUTTON_UPLOAD">Ketuk di sini untuk mengirim foto KTP Anda</string>
+    <string name="KYC_DUCK_DOC_BUTTON_CHANGE">Change</string>
+    <string name="KYC_DUCK_DOC_BANK_NAME_SECTION">Bank</string>
+    <string name="KYC_DUCK_DOC_BANK_NAME_HINT">Pilih Bank yang digunakan</string>
+    <string name="KYC_DUCK_DOC_ACCOUNT_NAME_SECTION">Nama Pemilik Rekening</string>
+    <string name="KYC_DUCK_DOC_ACCOUNT_NAME_HINT">Rekening sesuai nama KTP yang didaftarkan</string>
+    <string name="KYC_DUCK_DOC_ACCOUNT_NUMBER_SECTION">Nomor Rekening</string>
+    <string name="KYC_DUCK_DOC_ACCOUNT_NUMBER_HINT">Nomor rekening anda</string>
+    <string name="KYC_DUCK_DOC_MOTHER_NAME_SECTION">Nama Ibu</string>
+    <string name="KYC_DUCK_DOC_MOTHER_NAME_HINT">Nama ibu anda</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NUMBER_EMPTY">Nomor rekening tidak boleh kosong</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NUMBER_START_ZERO">Nomor rekening tidak boleh dimulai dengan angka 0</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NUMBER_REPEATED_CHAR">Nomor rekening tidak valid</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NUMBER_INVALID_LENGTH">Nomor rekening harus minimal 6 karakter</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NUMBER_NOT_NUMERIC">Nomor rekening harus diisi angka saja</string>
+    <string name="KYC_DUCK_DOC_ERROR_EMPTY_MOTHER_NAME">Nama ibu tidak boleh kosong</string>
+    <string name="KYC_DUCK_DOC_IMAGE_PICK_CHOOSE_METHOD">Silahkan pilih</string>
+    <string name="KYC_DUCK_DOC_ERROR_NO_PHOTO">Silahkan unggah photo KTP anda</string>
+    <string name="KYC_DUCK_DOC_ERROR_BANK_NAME_EMPTY">Silahkan pilih Bank anda</string>
+    <string name="KYC_DUCK_DOC_ERROR_ACCOUNT_NAME_EMPTY">Silahkan isi nama pemilik rekening bank anda</string>
+
+    <string name="KYC_DUCK_EXP_TITLE">Pengalaman Investasimu</string>
+    <string name="KYC_DUCK_EXP_DESC">Bantu kami mengenal pengalaman investasi dengan melengkapi pertanyaan berikut</string>
+    <string name="KYC_DUCK_EXP_YEAR_INCOME_SECTION">Total penghasilan dalam setahun*</string>
+    <string name="KYC_DUCK_EXP_YEAR_INCOME_HINT">Pilih besar penghasilan</string>
+    <string name="KYC_DUCK_EXP_MONTH_INCOME_SECTION">Total penghasilan dalam sebulan</string>
+    <string name="KYC_DUCK_EXP_MONTH_INCOME_HINT">Pilih besar penghasilan dalam sebulan</string>
+    <string name="KYC_DUCK_EXP_SOURCE_INCOME_SECTION">Sumber Pendapatan</string>
+    <string name="KYC_DUCK_EXP_SOURCE_INCOME_HINT">Pilih sumber pendapatanmu</string>
+    <string name="KYC_DUCK_EXP_EXPERIENCE_SECTION">Pengalaman Investasi</string>
+    <string name="KYC_DUCK_EXP_EXPERIENCE_HINT">Pilih pengalaman investasimu</string>
+    <string name="KYC_DUCK_EXP_INVEST_PERIOD_SECTION">Jangka Waktu Investasi</string>
+    <string name="KYC_DUCK_EXP_INVEST_PERIOD_HINT">Pilih jangka waktu investasimu</string>
+    <string name="KYC_DUCK_EXP_SECTION_OTHERS">Lainnya</string>
+    <string name="KYC_DUCK_EXP_OBJECTIVE_SECTION">Tujuan berinvestasi</string>
+    <string name="KYC_DUCK_EXP_OBJECTIVE_HINT">Pilih tujuan investasimu</string>
+    <string name="KYC_DUCK_EXP_STYLE_SECTION">Gaya investasi</string>
+    <string name="KYC_DUCK_EXP_STYLE_HINT">Pilih gaya investasimu</string>
+
+    <string name="KYC_STOCK_OFFICE_TITLE">Alamat Kantor Anda</string>
+    <string name="KYC_STOCK_OFFICE_DESC">Silakan mengisi data sesuai dengan fakta</string>
+    <string name="KYC_STOCK_OFFICE_NAME_SECTION">Nama Perusahaan</string>
+    <string name="KYC_STOCK_OFFICE_NAME_HINT">Contoh: Ajaib</string>
+    <string name="KYC_STOCK_OFFICE_FIELD_SECTION">Bidang Pekerjaan</string>
+    <string name="KYC_STOCK_OFFICE_FIELD_HINT">Pilih</string>
+    <string name="KYC_STOCK_OFFICE_ADDRESS_SECTION">Alamat</string>
+    <string name="KYC_STOCK_OFFICE_ADDRESS_HINT">Contoh: Neo Soho Capital, Kawasan Podomoro City, Jalan Letjen s. parman</string>
+    <string name="KYC_STOCK_OFFICE_RT_SECTION">RT (Optional)</string>
+    <string name="KYC_STOCK_OFFICE_RT_HINT">Contoh: 01</string>
+    <string name="KYC_STOCK_OFFICE_RW_SECTION">RW (Optional)</string>
+    <string name="KYC_STOCK_OFFICE_RW_HINT">Contoh: 01</string>
+    <string name="KYC_STOCK_OFFICE_ZIP_SECTION">Kode Pos Kantor</string>
+    <string name="KYC_STOCK_OFFICE_ZIP_HINT">Contoh: 15151</string>
+    <string name="KYC_STOCK_OFFICE_PHONE_SECTION">Telepon Kantor</string>
+    <string name="KYC_STOCK_OFFICE_PHONE_HINT">Contoh: 021–21212121</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_EMPTY_NAME">Masukkan nama perusahaan</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_EMPTY_FIELD">Pilih bidang pekerjaan</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_EMPTY_ADDRESS">Masukkan alamat perusahaan</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_INVALID_RT_RW">Format tidak valid</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_EMPTY_ZIP">Masukkan kodepos perusahaan</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_INVALID_ZIP">kodepos tidak valid</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_EMPTY_PHONE">Masukkan telpon perusahaan</string>
+    <string name="KYC_STOCK_OFFICE_ERROR_INVALID_PHONE">telepon tidak valid</string>
+
+    <string name="KYC_STOCK_VIDEO_TITLE">Verifikasi melalui video:\nrekam dirimu ketika mengucapkan kalimat di bawah ini</string>
+    <string name="KYC_STOCK_VIDEO_DISCLAIMER">Nama saya [NAMA ANDA], video ini dibuat untuk keperluan verifikasi pembukaan rekening saham secara online di Ajaib. Data yang saya sampaikan sudah benar.</string>
+    <string name="KYC_STOCK_VIDEO_ERROR_EMPTY_VIDEO">Silahkan melakukan rekaman untuk melakukan validasi</string>
+    <string name="KYC_STOCK_VIDEO_BUTTON_TAKE_VIDEO">Ambil Video</string>
+    <string name="KYC_STOCK_VIDEO_BUTTON_RETAKE">Ulangi</string>
+
+    <string name="KYC_STOCK_TNC_TEXT">Saya menyetujui Syarat &amp; Ketentuan, dan Kebijakan Privasi Disclaimer dari Ajaib</string>
+    <string name="KYC_STOCK_TNC_DETAILS"><![CDATA[
+    <h1>Kebijakan Privasi</h1>
+    <h3>Definisi</h3>
+    <ol>
+    <li><p>&#8220;Data Pribadi&#8221; adalah informasi milik Pengguna, yang mengidentifikasi keterangan terkait Pengguna yang bersangkutan;</p></li>
+    <li><p>&#8220;Syarat Dan Ketentuan&#8221; merupakan ketentuan dan prasyarat dari penggunaan Layanan oleh Anda;</p></li>
+    <li><p>&#8220;Layanan&#8221; memiliki arti sebagaimana ditetapkan dalam Syarat Dan Ketentuan.</p></li>
+    <li><p>&#8220;Konten&#8221; berarti apapun yang ada pada Layanan kami, termasuk namun tidak terbatas pada rancangan, desain, teks, gambar grafis, foto, gambar, citra, video, perangkat lunak, musik, suara dan file lain, peringkat kredit, tarif, biaya, kuotasi, data historis, grafik, statistik, artikel, informasi kontak kami, setiap informasi lain, beserta pemilihan dan pengaturannya;</p></li>
+    <li><p>&#8220;Anggota” adalah individu yang atas dirinya mendaftar akun dengan Ajaib, dimana terdapat kepentingan keanggotaan;</p></li>
+    <li><p>&#8220;Anda&#8221; merujuk pada Pengguna Layanan Ajaib;</p></li>
+    <li><p>&#8220;Akun&#8221; merupakan identitas unik untuk mencatat kegiatan Anda dalam menggunakan Layanan yang pembuatannya dilakukan dengan cara pendaftaran pada platform Ajaib;</p></li>
+    <li><p>&#8220;Kami&#8221; merujuk pada PT Takjub Teknologi Indonesia (Ajaib) beserta perwakilan dan/atau kuasanya yang sah.</p></li>
+    </ol>
+    <h3>Perolehan Informasi</h3>
+    <ol>
+    <li>Sehubungan dengan penggunaan Layanan Kami oleh Anda, dari waktu ke waktu Kami dapat mengumpulkan informasi tentang Anda, terkait:
+    <ul>
+    <li><p>Anda ataupun pihak lain yang memiliki persetujuan yang sah dari Anda untuk memberikan Data Pribadi dalam rangka mengakses Layanan Kami;</p></li>
+    <li><p>Setiap kunjungan Anda ke Situs dan Aplikasi Kami;</p></li>
+    <li><p>Percakapan telepon Anda dengan Kami;</p></li>
+    <li><p>Penggunaan perangkat komputer maupun perangkat lainnya yang memfasilitasi hubungan ke internet untuk mengakses Layanan Kami oleh Anda, termasuk informasi mengenai alamat IP, sistem operasi dan browser yang Anda gunakan dalam mengakses Layanan Kami; dan/atau</p></li>
+    <li><p>Penggunaan &#8220;cookies&#8221; saat browser Anda mengakses dan Anda masuk (log-in) untuk menggunakan Layanan Kami. Jika statusnya diaktifkan (enabled), cookies akan menyimpan sejumlah kecil data pada komputer Anda tentang aktifitas Anda dalam menggunakan Layanan Kami.</p></li>
+    </ul></li>
+    <li><p>Dalam mengelola Data Pribadi, kami tunduk pada ketentuan peraturan perundang- undangan yang berlaku di Indonesia, termasuk namun tidak terbatas pada Undang-Undang Nomor 11 Tahun 2008 sebagaimana telah diubah dengan Undang-Undang Nomor 19 Tahun 2016 tentang Informasi dan Transaksi Elektronik beserta peraturan pelaksananya dan peraturan perundang-undangan terkait lainnya, antara lain Peraturan Pemerintah Nomor 82 Tahun 2012 tentang Penyelenggaraan Sistem dan Transaksi Elektronik dan Peraturan Menteri Komunikasi dan Informatika Nomor 20 Tahun 2016 tentang Perlindungan Data Pribadi dalam Sistem Elektronik.</p></li>
+    <li><p>Ajaib tidak memperdagangkan Data Pribadi yang Kami peroleh melalui aktivitas dalam rangka menggunakan Layanan Kami.</p></li>
+    <li><p>Anda dengan ini setuju bahwa kegagalan Anda untuk memberikan Data Pribadi yang benar dan akurat akan membuat Anda bertanggung jawab atas segala kerugian yang timbul, termasuk atas kerugian Kami dan pihak ketiga lainnya. Selain itu, atas kelalaian tersebut, Kami berwenang untuk menutup akses Anda terhadap Layanan Kami.</p></li></ol>
+    <h3>Penggunaan Data Pribadi</h3>
+    <ol>
+    <li>Anda dengan ini setuju bahwa Data Pribadi akan kami olah dalam rangka:
+    <ul>
+    <li><p>memberikan akses bagi Anda ke Layanan Kami dan memastikan bahwa Konten dan Layanan ditampilkan dengan cara yang paling efektif untuk Anda;</p></li>
+    <li><p>memberikan kepada Anda informasi terkait Konten Situs, Produk, Layanan dan Layanan Interaktif yang Anda minta dari kami;</p></li>
+    <li><p>untuk memproses keanggotaan Anda;</p></li>
+    <li><p>melaksanakan kewajiban Kami yang timbul dari setiap perjanjian yang diadakan antara Anda dan Kami;</p></li>
+    <li><p>pengembangan Layanan Kami, termasuk namun tidak terbatas pada pemecahan masalah, analisis data, pengujian, penelitian, tujuan statistik serta survei;</p></li>
+    <li><p>untuk membuat analisa statistik dalam rangka pengembangan produk Kami;</p></li>
+    <li><p>membuat keputusan terkait dengan pembukaan atau kelanjutan terhadap aktifnya Akun Anda serta pembuatan, penyediaan atau kelanjutan dari Layanan dan juga untuk menjaga akurasi Data Pribadi;</p></li>
+    <li><p>menyediakan informasi dan Data Pribadi yang relevan tentang Anda kepada pihak ketiga untuk tujuan memproses keanggotaan dan/atau pengajuan peristiwa;</p></li>
+    <li><p>menilai atau memahami efektivitas iklan kami dan iklan pihak ketiga pada Aplikasi Kami dan pada website pihak ketiga lain, dan untuk menyampaikan iklan yang relevan kepada Anda;</p></li>
+    <li><p>memberitahu Anda tentang perubahan-perubahan terhadap layanan kami;</p></li>
+    <li><p>memenuhi persyaratan-persyaratan hukum yang berlaku pada Ajaib berdasarkan peraturan perundang-undangan yang berlaku;</p></li>
+    <li><p>memeriksa identitas dan/atau kewenangan dari para wakil atau kuasa Anda yang menghubungi Kami dan untuk menanggapi permintaan, pertanyaan atau instruksi dari para kuasa yang telah diperiksa tersebut atau para pihak lain;</p></li>
+    <li><p>untuk memberikan otorisasi kepada bank, badan keuangan atau pihak ketiga yang berwenang untuk mengadakan pengecekan terbatas pada status Anda dalam database Kami atau Layanan Kami;</p></li>
+    <li><p>mencegah dan mendeteksi aktivitas kejahatan dan penipuan termasuk membantu dalam setiap penyidikan kejahatan oleh otoritas yang relevan terhadap Anda;</p></li>
+    <li><p>mengelola hubungan antara Ajaib dengan Anda, termasuk menyediakan informasi kepada Anda tentang Layanan, sepanjang diizinkan berdasarkan peraturan perundang-undangan yang berlaku;</p></li>
+    <li><p>untuk memasarkan produk yang terkait dengan Layanan melalui berbagai metode komunikasi termasuk surat, telepon, SMS, faksimili, email, internet, riset pasar, dan merancang atau menyaring produk atau layanan yang serupa termasuk dengan melakukan riset pasar, analisis data, dan survei; dan</p></li>
+    <li><p>melakukan menajemen internal untuk mengoperasikan kontrol terhadap sistem informasi dan manajemen serta melaksanakan audit internal atau mengizinkan pelaksanaan audit eksternal.</p></li></ul></li>
+    <li><p>Anda dengan ini setuju bahwa Kami dapat menggunakan Data Pribadi untuk tujuan lain yang berkaitan dengan hal-hal sebagaimana disebutkan dalam butir III.1 di atas, sesuai dengan peraturan perundang-undangan yang berlaku.</p></li>
+    <li><p>Anda dengan ini setuju bahwa Kami dapat berbagi Data Pribadi dengan pihak-pihak berikut sepanjang tidak bertentangan dengan peraturan perundang-undangan yang berlaku:</p><ul><li><p>para mitra usaha, untuk pelaksanaan setiap perjanjian yang kami adakan dengan mereka atau Anda;</p></li>
+    <li><p>para pengiklan dan jaringan-jaringan iklan yang memerlukan data dalam memilih iklan yang relevan kepada Anda dan orang lain. Kami tidak mengungkapkan informasi terkait individu yang dapat diidentifikasi kepada para pengiklan, tetapi kami dapat memberikan mereka informasi terkait agregat tentang Para Pengguna kami (sebagai contoh, kami dapat memberitahu mereka bahwa 125 orang pria berusia di bawah 33 tahun mengakses iklan mereka pada periode tertentu). Kami juga dapat menggunakan informasi agregat tersebut untuk membantu para pengiklan dalam rangka menjangkau jenis audiens yang mereka ingin targetkan. Kami dapat menggunakan informasi atau data yang dikumpulkan dari Anda untuk memungkinkan kami memenuhi keinginan para pengiklan kami dengan menampilkan iklan mereka kepada audiens yang menjadi target dari iklan tersebut;</p></li>
+    <li><p>penyedia analisis dan mesin pencari yang membantu kami dalam peningkatan dan optimalisasi situs kami;</p></li>
+    <li><p>calon penjual atau pembeli bisnis atau aset apabila kami menjual atau membeli bisnis atau aset apapun, dalam hal ini kami dapat mengalihkan Data Pribadi Anda kepada pembeli atau penjual tersebut sebagai bagian dari transaksi;</p></li>
+    <li><p>setiap organisasi ataupun perorangan, jika kami memiliki kewajiban untuk mengungkapkan Data Pribadi Anda guna mematuhi setiap kewajiban hukum, atau untuk melaksanakan dan menerapkan Syarat Dan Ketentuan Kami, Kebijakan Cookie kami, dan ketentuan lainnya, atau untuk melindungi hak, aset, atau keamanan dari Ajaib serta pihak-pihak terafiliasinya, Para Pengguna atau lainnya. Ini termasuk pertukaran informasi dengan perusahaan dan organisasi lain untuk tujuan perlindungan dari penipuan dan antisipasi terhadap risiko kredit;</p></li>
+    <li><p>agen, kontraktor atau penyedia layanan pihak ketiga yang menyediakan administrasi, pengiriman pos, telemarketing, telekomunikasi penjualan langsung, call center, proses bisnis, perjalanan, visa, manajemen pengetahuan, sumber daya manusia, pengolahan data, teknologi informasi, komputer, pembayaran, penagihan utang, referensi kredit atau pemeriksaan-pemeriksaan latar belakang lain atau layanan-layanan lain kepada Ajaib atau pihak terafiliasinya;</p></li>
+    <li><p>bank pihak tertarik atau pihak penarik sehubungan dengan setiap cek atau yang setara yang diproses oleh Ajaib atau pihak terafiliasinya;</p></li>
+    <li><p>lembaga keuangan yang mana terhadap badan tersebut, Anda memiliki atau mengajukan untuk memiliki urusan terkait dengan setiap Produk dan/atau Layanan;</p></li>
+    <li><p>orang atau entitas yang kepada orang atau entitas tersebut, Ajaib atau pihak terafiliasinya berkewajiban untuk melakukan pengungkapan sesuai dengan proses hukum atau berdasarkan persyaratan hukum, peraturan, perintah pengadilan, yang mengikat atau berlaku untuk Ajaib atau Pihak Terafiliasinya dan terhadap otoritas pemerintah, atau setiap pengungkapan berdasarkan dan untuk tujuan pedoman atau petunjuk yang diberikan atau dikeluarkan oleh badan penegak hukum, regulasi, badan pemerintah, otoritas pajak, lembaga penegak hukum atau lembaga otoritas-otoritas lain, atau peraturan otonom dari badan industri atau asosiasi dari penyedia jasa keuangan yang disyaratkan untuk dipenuhi oleh Ajaib atau pihak terafiliasinya, atau setiap pengungkapan sesuai dengan setiap komitmen dari Ajaib atau pihak terafiliasinya dengan lembaga hukum, regulasi, badan pemerintah, pajak, lembaga penegak hukum atau otoritas-otoritas lain, atau badan otonom atau industri atau asosiasi dari penyedia jasa keuangan, atau bursa efek, termasuk pengungkapan ke sidang pengadilan, pengadilan tribunal, dan/atau lembaga hukum, regulasi, pajak dan badan pemerintah, terlepas apakah proses hukum, kewajiban, permintaan, persyaratan, atau pedoman tersebut saat ini masih ada atau dibuat di masa mendatang;</p></li>
+    <li><p>lembaga keuangan, agen proses, atau pihak lainnya yang terlibat; dan</p></li>
+    <li><p>penerima pengalihan yang sebenarnya atau yang diajukan dari Ajaib atau pihak terafiliasinya, atau peserta atau sub-peserta atau penerima pengalihan hak-hak Ajaib atau pihak terafiliasinya sehubungan dengan Anda, dan semua atau sebagian dari aset atau bisnis dari Ajaib atau pihak terafiliasinya.</p></li>
+    </ul>
+    </li>
+    </ol>
+]]>
+    </string>
+
+    <string name="KYC_BUTTON_NEXT">LANJUT</string>
+    <string name="KYC_BUTTON_SUBMIT">SUBMIT</string>
+
+    <string name="FAQ_TITLE">FAQ</string>
+    <string name="FAQ_TAB_AJAIB">Ajaib</string>
+    <string name="FAQ_TAB_STOCK">Saham</string>
+    <string name="FAQ_TAB_MUTUAL_FUND">Reksa Dana</string>
+    <string name="FAQ_HAI_INVESTOR">Hai Investor</string>
+    <string name="FAQ_LOOKING_FOR_SOMETHING">Mencari Sesuatu?</string>
+    <string name="FAQ_NOT_FIND_ANSWER">Belum menemukan jawaban?\nSilahkan kontak <b>Customer Service</b> kami.</string>
+    <string name="FAQ_BUTTON_EMAIL">Email</string>
+    <string name="FAQ_BUTTON_CHAT">Chat</string>
+
+    <string name="REFERRAL_TRACKER_TITLE">Daftar Teman</string>
+    <string name="REFERRAL_TRACKER_NO_RESULT_DESC">Belum ada yang pakai kodemu :( Ayo bagikan ke teman-teman agar kami dapat reksa dana GRATIS</string>
+    <string name="REFERRAL_TRACKER_REGISTERED">Daftar</string>
+    <string name="REFERRAL_TRACKER_KYC_COMPLETED">Isi Data Diri</string>
+    <string name="REFERRAL_TRACKER_DEPOSIT_CONFIRM">Investasi</string>
+    <string name="REFERRAL_TRACKER_NEXT_REMIND">Anda dapat mengingatkan kembali pada %1$s</string>
+    <string name="REFERRAL_TRACKER_BUTTON_REMIND">INGATKAN</string>
+    <string name="REFERRAL_TRACKER_BUTTON_REMINDED">SUDAH DIINGATKAN</string>
+    <string name="REFERRAL_TRACKER_BUTTON_PLAY">AMBIL HADIAH</string>
+    <string name="REFERRAL_TRACKER_TEXT_CONGRATULATION">Selamat!</string>
+    <string name="REFERRAL_TRACKER_TEXT_CLAIMED_BONUS">Kamu sudah dapat reksa dana gratis</string>
+    <string name="REFERRAL_TRACKER_REMIND_TITLE">Kamu Mengirim Pengingat!</string>
+    <string name="REFERRAL_TRACKER_REMIND_DESC">kamu bisa mengingatkan temanmu sehari sekali</string>
+    <string name="REFERRAL_TRACKER_REMIND_BUTTON">OKE</string>
+
+    <string name="USER_PROFILE_TITLE">Pengaturan Akun</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT">Info Pribadi</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_SID">SID</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_FULL_NAME">Nama Lengkap</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_NIK">Nomor NIK</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_PHONE">Nomor Telepon</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_RISK_PROFILE">Profil Resiko</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_EMAIL">Email</string>
+    <string name="USER_PROFILE_SECTION_ACCOUNT_HINT_PASSWORD">Password</string>
+    <string name="USER_PROFILE_SECTION_BANK_ACCOUNT">Rekening Bank</string>
+    <string name="USER_PROFILE_SECTION_BANK_ACCOUNT_HINT_NAME">Nama Bank</string>
+    <string name="USER_PROFILE_SECTION_BANK_ACCOUNT_HINT_HOLDER">Nama Pemilik Rekening</string>
+    <string name="USER_PROFILE_SECTION_BANK_ACCOUNT_HINT_NUMBER">Nomor Rekening</string>
+
+    <string name="CITY_PICKER_TITLE">Pilih Kota</string>
+
+    <string name="USER_PORTFOLIO_PROFILE">Rekomendasi Para Ahli</string>
+    <string name="USER_PORTFOLIO_SECTION_INVESTMENT_ALLOCATION">Pembagian Investasi</string>
+    <string name="USER_PORTFOLIO_1Y_RETURN">Return 1 Thn*</string>
+    <string name="USER_PORTFOLIO_RISK_LEVEL">Tingkat Risiko</string>
+    <string name="USER_PORTFOLIO_DETAILS">Detail</string>
+    <string name="USER_PORTFOLIO_DETAILS_DESCRIPTION">Paket ini dibuat berdasarkan kebutuhanmu. Dana disalurkan pada berbagai produk investasi berbeda untuk mengoptimalkan keuntungan dan meminimalisir risiko</string>
+    <string name="USER_PORTFOLIO_NOT_MATCH">Paket investasi kurang tepat?</string>
+    <string name="USER_PORTFOLIO_BUTTON_SEE_OTHER">Lihat pilihan lainnya</string>
+    <string name="USER_PORTFOLIO_SECTION_INVEST_PACKAGE">Paket Investasi</string>
+    <string name="USER_PORTFOLIO_SECTION_INVEST_PACKAGE_DESC">Setelah meneliti 800++ reksa dana, para ahli memilih\nyang terbaik untukmu</string>
+    <string name="USER_PORTFOLIO_BUTTON_CONTINUE">Lanjut</string>
+    <string name="USER_PORTFOLIO_DISCLAIMER">*Berdasarkan kinerja reksa dana masa lalu. Kinerja masa lalu tidak mencerminkan kinerja masa mendatang.</string>
+
+    <string name="RISK_ALLOCATION_TITLE">Pilih profil investor</string>
+    <string name="RISK_ALLOCATION_YOUR_INVEST_PROFILE">Profil investor Anda</string>
+    <string name="RISK_ALLOCATION_CHOICE_AGRESIVE">Agresif</string>
+    <string name="RISK_ALLOCATION_CHOICE_AGRESIVE_MORDERATE">Moderat Agresif</string>
+    <string name="RISK_ALLOCATION_CHOICE_MORDERATE">Moderat</string>
+    <string name="RISK_ALLOCATION_CHOICE_MORDERATE_CONSERVATIVE">Moderat Konservatif</string>
+    <string name="RISK_ALLOCATION_CHOICE_CONSERVATIVE">Konservatif</string>
+    <string name="RISK_ALLOCATION_RECOMMENDED">(Rekomendasi untuk Anda)</string>
+    <string name="RISK_ALLOCATION_1Y_RETURN">1Y Return*</string>
+    <string name="RISK_ALLOCATION_BUTTON_SAVE">Simpan</string>
+    <string name="RISK_ALLOCATION_DISCLAIMER_1">Dengan mengubah portofolio, Anda setujui bahwa tingkat risiko portofolio mungkin berbeda dengan profil risiko Anda.</string>
+    <string name="RISK_ALLOCATION_DISCLAIMER_2">*Berdasarkan kinerja reksa dana default 18 Jul 2018–2019. Kinerja masa lalu tidak mencerminkan kinerja masa mendatang.</string>
+    <string name="RISK_ALLOCATION_DETAIL_DESCRIPTION">Gaya investasi Anda dibuat berdasarkan profil Anda. Anda akan berinvestasi dalam banyak investasi yang dipilih oleh para ahli untuk mengoptimalkan keuntungan dan mengurangi risiko.</string>
+    <string name="BANK_PICKER_TITLE">Pilih Bank</string>
+
+    <string name="USER_QUESTIONNAIRE_AGE_HEADER_TITLE">Dana Pensiun</string>
+    <string name="USER_QUESTIONNAIRE_AGE_HEAD_TITLE">Berapa umur Anda sekarang?</string>
+    <string name="USER_QUESTIONNAIRE_AGE_BODY_TITLE">Agar kami bisa memberi rekomendasi investasi terbaik sebelum kamu menginjak usia pensiun</string>
+    <string name="USER_QUESTIONNAIRE_AGE">Usia</string>
+
+    <string name="USER_QUESTIONNAIRE_SPENDING_HEADER_TITLE">Investasi Impian</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_HEAD_TITLE">Masukkan Tenggat Waktu Pembelian</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_BODY_TITLE">Para ahli akan memberikan saran sesuai dengan rencana pembelianmu</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_FIRST_ANSWER">Dalam 6 Bulan</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_SECOND_ANSWER">6 bulan - 1 tahun</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_THIRD_ANSWER">1 – 2 tahun</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_FOURTH_ANSWER">2 – 3 tahun</string>
+    <string name="USER_QUESTIONNAIRE_SPENDING_FIFTH_ANSWER">Lebih dari 3 tahun</string>
+    <string name="USER_QUESTIONNAIRE_BTN_SUBMIT">Submit</string>
+    <string name="USER_QUESTIONNAIRE_LOADER">Para ahli sedang menyiapkan paket investasimu…</string>
+
+    <string name="FUND_SELECTION_DESCRIPTION">Setelah meneliti 800++ reksa dana, para ahli memilih\nyang terbaik untukmu</string>
+    <string name="FUND_SELECTION_ITEM_RECOMMENDED">Rekomendasi untuk Anda</string>
+    <string name="FUND_SELECTION_ITEM_RATING">Peringkat Kinerja</string>
+    <string name="FUND_SELECTION_ITEM_SELECTED">TERPILIH</string>
+    <string name="FUND_SELECTION_ITEM_SEE_DETAILS">Lihat Detail</string>
+    <string name="FUND_SELECTION_ERROR_NO_DATA_FOUND">Data tidak ditemukan</string>
+
+    <string name="SIMULATION_DETAILS_TITLE">Kalkulator Return</string>
+    <string name="SIMULATION_DETAILS_TOP_TOOLTIP">Kami akan membantu menghitung seberapa besar potensi hasil investasimu. Ini merupakan ilustrasi. Kamu bisa setor dan tarik investasi kapan saja.</string>
+    <string name="SIMULATION_DETAILS_EXPERIENCE_LEVEL_TEXT">Tingkat risiko yang sesuai denganmu</string>
+    <string name="SIMULATION_DETAILS_AMOUNT_TEXT">Jika investasi bulananmu sebesar</string>
+    <string name="SIMULATION_DETAILS_RETURN_TEXT">Maka kamu bisa mendapatkan</string>
+    <string name="SIMULATION_DETAILS_WITH_AJAIB_LABEL">dengan Ajaib</string>
+    <string name="SIMULATION_DETAILS_EXPERIENCE_LEVEL_1">Pemula</string>
+    <string name="SIMULATION_DETAILS_EXPERIENCE_LEVEL_2">Berpengalaman</string>
+    <string name="SIMULATION_DETAILS_EXPERIENCE_LEVEL_3">Ahli</string>
+    <string name="SIMULATION_DETAILS_WITH_BANK">dengan tabungan bank</string>
+    <string name="SIMULATION_DETAILS_N_YEAR">%1$d Tahun</string>
+    <string name="SIMULATION_DETAILS_TERM_CONDITIONS">Angka merupakan ilustrasi berdasarkan data pengembalian historis dan tidak menjamin pengembalian di masa depan.</string>
+    <string name="SIMULATION_DETAILS_DISCLAIMER_TITLE">Mohon Perhatiannya</string>
+    <string name="SIMULATION_DETAILS_START_INVEST_BUTTON">MULAI INVESTASI</string>
+
+    <string name="HOME_CHALLENGE_SECTION">Ikuti Misinya dan Dapatkan Hadiahnya</string>
+    <string name="HOME_CHALLENGE_TITLE">Challenge</string>
+    <string name="HOME_CHALLENGE_FIRST_TITLE">Belajar Jadi Investor Hebat</string>
+    <string name="HOME_CHALLENGE_FIRST_BUTTON">MULAI</string>
+    <string name="HOME_CHALLENGE_START">Belajar Jadi Investor Hebat</string>
+    <string name="EXPERT_UPDATE_SHARE_TEXT">%1$s %2$s  %3$s  %4$s</string>
+    <string name="THEME_FUND_DETAILS_SECTION_SIMULATION_NO_DATA">Produk ini masih baru. Berinvestasi pada produk baru berarti kamu telah menjadi bagian dari pertumbuhan reksa dana ini. Simulasi kinerja akan segera hadir!</string>
+    <string name="DEPOSIT_CONFIRM_BACK_ALERT_TITLE" />
+    <string name="THEME_FUND_DETAILS_SECTION_MUTUAL_FUND">Reksa Dana</string>
+    <string name="EMPTY">" "</string>
+    <string name="USER_PORTFOLIO_INVEST_ADAPTER_ERROR">Tidak ada alokasi</string>
+    <string name="LIST_EXPERT_UPDATE_LABEL">Berita harian sebelumnya</string>
+    <string name="USER_TRANSACTION_LIST_CHECK_TRANSACTION_HERE">Kamu bisa cek semua transaksi setor dan tarik di sini</string>
+    <string name="USER_TRANSACTION_LIST_NO_ACTIVITY">Tidak Ada Aktifitas Transaksi</string>
+    <string name="VALIDATE_BUTTON">VALIDASI</string>
+    <string name="HOME_DASHBOARD_ALERT_EMAIL">Anda dapat melakukan email verifikasi dalam</string>
+    <string name="HOME_DASHBOARD_ALERT_EMAIL_PART">menit lagi</string>
+    <string name="VERIFICATION_EMAIL_SENT">Email verifikasi telah di kirim</string>
+    <string name="RETURN_LABEL">Return</string>
+    <string name="TOTAL_LABEL">Total</string>
+    <string name="THOUSAND_SEPARATOR">.</string>
+    <string name="COMMA_SEPARATOR">,</string>
+    <string name="CHANGE_PASSWORD">Ubah Password</string>
+    <string name="YEAR_LABEL">TAHUN</string>
+    <string name="CHALLENGE_HISTORY_HEADER">Misi</string>
+    <string name="CHALLENGE_HISTORY_BANNER">Menangkan reksa dana sebesar Rp500.000 untuk 3 pemenang setiap bulannya!</string>
+    <string name="CHALLENGE_HISTORY_ON_PROGRESS">On Progress</string>
+    <string name="CHALLENGE_HISTORY_RULES_TITLE">Cara Selesaikan Misi</string>
+    <string name="CHALLENGE_HISTORY_FINISH">Finish</string>
+    <string name="CHALLENGE_HISTORY_PROGRESS">%1$s/%2$s %3$s</string>
+    <string name="CHALLENGE_HISTORY_LABEL_BOTTOM">Semangat!</string>
+    <string name="CHALLENGE_REFERRED_FRIEND">Cari Teman</string>
+    <string name="CHALLENGE_DEPOSIT_COUNT">Mulai Deposit</string>
+    <string name="CHALLENGE_INVESTMENT_AMOUNT">Mulai Investasi</string>
+    <string name="CHALLENGE_POPUP_CONTINUE">LANJUTKAN</string>
+    <string name="CHALLENGE_POPUP_MISSION_LEVEL_TITLE">Hore! Misi %1$s Kamu Mencapai Level %2$s !</string>
+    <string name="CHALLENGE_POPUP_MISSION_REFERRAL">Referral</string>
+    <string name="CHALLENGE_POPUP_MISSION_DEPOSIT">Total Deposit</string>
+    <string name="CHALLENGE_POPUP_MISSION_INVESTMENT">Total Investasi</string>
+    <string name="CHALLENGE_POPUP_MISSION_NO_WITHDRAWAL">No Withdrawal</string>
+    <string name="CHALLENGE_POPUP_MISSION_LEVEL_CONTENT">Selamat, kamu sudah menjadi investor yang handal! Nantikan hadiah kejutan dari Ajaib</string>
+    <string name="CHALLENGE_FINISH_TITLE">Hore! Kamu telah menyelesaikan misi ini</string>
+    <string name="HOME_CHALLENGE_CONTENT_MISSION">Ikuti Misinya dan Dapatkan Hadiahnya</string>
+    <string name="HOME_CHALLENGE_TITLE_1">Misi Untuk Membantumu Berinvestasi</string>
+    <string name="HOME_CHALLENGE_TITLE_2">Selesaikan Misi &amp; Kumpulkan Medali!</string>
+    <string name="HOME_CHALLENGE_TITLE_3">Menangkan Hadiah Kejutan!</string>
+    <string name="HOME_CHALLENGE_CONTENT_1">Kamu bisa pilih misi yang mau kamu selesaikan duluan. Beberapa misi bisa diselesaikan sekaligus</string>
+    <string name="HOME_CHALLENGE_CONTENT_2">Kamu akan mendapatkan medali untuk setiap misi yang diselesaikan</string>
+    <string name="HOME_CHALLENGE_CONTENT_3">Ada hadiah khusus bagi investor handal seperti kamu</string>
+    <string name="CHALLENGE_POPUP_ALL_MISSION_COMPLETE_TITLE">Semua Misi Sukses!</string>
+    <string name="CHALLENGE_POPUP_ALL_MISSION_COMPLETE_CONTENT">Tunggu pengumuman pemenang hadiah utamanya ya.</string>
+    <string name="CHALLENGE_POPUP_NO_MISSION_TITLE">SEDANG TIDAK ADA MISI</string>
+    <string name="CHALLENGE_POPUP_NO_MISSION_CONTENT">Silahkan kembali lagi nanti.</string>
+
+    <string name="LEARN_RECOMMENDATION_FUND_TITLE">Rekomendasi\nReksa Dana\nHari Ini</string>
+    <string name="LEARN_RECOMMENDATION_FUND_CARD_PEOPLE">diinvestasikan %1$s orang</string>
+    <string name="LEARN_RECOMMENDATION_FUND_CARD_RETURN">Return %1$s</string>
+
+    <string name="NEWS_LIST_NO_DATA">Data tidak ditemukan</string>
+    <string name="NEWS_LIST_SEARCH_HINT">Cari Artikel</string>
+
+    <string name="GLOSSARY_NO_DATA">Kata tidak ditemukan.\nCoba kata kunci lainnya</string>
+    <string name="GLOSSARY_TITLE">Kamus Besar Bahasa Investasi</string>
+    <string name="GLOSSARY_HINT">Cari kata kunci</string>
+
+    <string name="PAYMENT_LIST_TITLE">Metode Pembayaran</string>
+    <string name="PAYMENT_LIST_BUTTON_PROCESS">Bayar</string>
+    <string name="PAYMENT_LIST_ERROR_UNSELECTED_PAYMENY">Silahkan pilih metode pembayaran</string>
+    <string name="PAYMENT_LIST_TITLE_TYPE_VIRTUAL_ACCCOUNT">Virtual Account</string>
+    <string name="PAYMENT_LIST_TITLE_TYPE_INSTANT">Dompet Digital</string>
+    <string name="PAYMENT_LIST_TITLE_TYPE_OTHERS">Transfer Manual</string>
+    <string name="PAYMENT_LIST_TITLE_TYPE_UNKNOWN">Lainnya</string>
+
+    <string name="GURU_INFO_TITLE">Investasi Dipandu Ahli</string>
+    <string name="GURU_INFO_SECTION_TITLE_DEFAULT">Panduan Investasi dari Sang Ahli</string>
+    <string name="GURU_INFO_SECTION_TITLE_NAMED">Panduan Investasi dari %1$s</string>
+    <string name="GURU_INFO_METHOD_SECTION_METHOD_DETAILS">Memperkenalkan cara sang ahli</string>
+    <string name="GURU_INFO_METHOD_SECTION_METHOD_INFO">Mengapa metode ini terbaik?</string>
+    <string name="GURU_INFO_METHOD_SECTION_METHOD_HOW_TO">Bagaimana Cara Kerjanya?</string>
+    <string name="GURU_INFO_METHOD_SECTION_GURU">Sang Ahli Investasimu</string>
+    <string name="GURU_INFO_BUTTON_START">Ayo Coba</string>
+
+    <string name="GURU_CALCULATOR_TITLE">Investasi Dipandu Ahli</string>
+    <string name="GURU_CALCULATOR_SECTION_TARGET_TITLE">Target Investasi</string>
+    <string name="GURU_CALCULATOR_SECTION_TARGET_DESC">Setahun dari sekarang, mau punya berapa?</string>
+    <string name="GURU_CALCULATOR_SECTION_TARGET_DATE">Sang ahli akan menghitung jumlah investasi bulanan yang kamu butuhkan agar target ini tercapai %1$s</string>
+    <string name="GURU_CALCULATOR_SECTION_FUND_SEE_MORE">Pilih Reksa Dana</string>
+    <string name="GURU_CALCULATOR_SECTION_FUND_TITLE">Rekomendasi Reksa Dana</string>
+    <string name="GURU_CALCULATOR_SECTION_FUND_1Y_RETURN">Return 1 Tahun</string>
+    <string name="GURU_CALCULATOR_SECTION_RESULT_TITLE">Investasi Bulanan kurang-lebih sebesar</string>
+    <string name="GURU_CALCULATOR_SECTION_DISCLAIMER">Perkiraan ini akan berubah sesuai dengan kondisi pasar. Metode ini memastikan kamu selalu berinvestasi dengan harga terbaik.</string>
+    <string name="GURU_CALCULATOR_BUTTON_START">Mulai Investasi</string>
+
+    <string name="GURU_PICK_FUND_TITLE">Pilih Reksa Dana</string>
+    <string name="GURU_PICK_FUND_SECTION_RECOMMENDED_TITLE">Rekomendasi Saat Ini</string>
+    <string name="GURU_PICK_FUND_SECTION_RECOMMENDED_DESC">Gapai target dana pensiunmu dengan reksa dana terbaik pilihan Ajaib. Pilihan akan berubah seiring waktu.</string>
+    <string name="GURU_PICK_FUND_BUTTON_PICK">Pilih Reksa Dana ini</string>
+    <string name="GURU_PICK_FUND_ERROR_INVALID_SELECTION">Silahkan pilih Reksa Dana</string>
+
+    <string name="GURU_DETAILS_TITLE">Investasi Dipandu Ahli</string>
+    <string name="GURU_DETAILS_HEADER_TOTAL_INVEST">Total Investasi</string>
+    <string name="GURU_DETAILS_HEADER_TOTAL_DEPOSIT">Setoran</string>
+    <string name="GURU_DETAILS_HEADER_TOTAL_RETURNS">Return</string>
+    <string name="GURU_DETAILS_PROGRESS_DURATION">%1$d bulan lagi</string>
+    <string name="GURU_DETAILS_PROGRESS_AMOUNT">%1$s / %2$s</string>
+    <string name="GURU_DETAILS_PROGRESS_ITEM_MONTH">Bulan %1$d</string>
+    <string name="GURU_DETAILS_PROGRESS_ITEM_TARGET">Target Investasi Bulan Ini</string>
+    <string name="GURU_DETAILS_PROGRESS_ITEM_RECOMMENDED">Rekomendasi Setoran</string>
+    <string name="GURU_DETAILS_PROGRESS_ITEM_RECOMMENDED_COMPLETED">Setoranmu</string>
+
+    <string name="GURU_DETAILS_SECTION_PROGRESS">Pencapaianmu Saat Ini</string>
+    <string name="GURU_DETAILS_SECTION_PROGRESS_SEE_MORE">Selengkapnya</string>
+    <string name="GURU_DETAILS_SECTION_PROGRESS_ANNOUNCE_NOT_COMPLETED">Ayo capai target bulan ini dengan setor</string>
+    <string name="GURU_DETAILS_SECTION_PROGRESS_ANNOUNCE_COMPLETED">Kamu sudah mencapai target setoran bulan ini! Ayo pertahankan agar pengembalian investasimu maksimal.</string>
+    <string name="GURU_DETAILS_SECTION_PROGRESS_ANNOUNCE_DONE">Hore! Kamu berhasil mencapai target! Ayo capai tujuan investasi lainnya bersama Ajaib.</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS">Keterangan</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_SEE_DETAILS">Lihat Detail</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_FUND_NAME">Reksa Dana</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_MANAGER">Manajer Investasi</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_RISK">Risiko</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_CATEGORY">Category</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_UNIT">Unit Dimiliki</string>
+    <string name="GURU_DETAILS_SECTION_DETAILS_NAB">NAB/Unit</string>
+    <string name="GURU_DETAILS_SECTION_GURU_DESC">Kamu berinvestasi dengan cara Ryan Filbert:</string>
+    <string name="GURU_DETAILS_SECTION_GURU_METHOD">Value Averaging Method</string>
+    <string name="GURU_DETAILS_BUTTON_WITHDRAW">Tarik</string>
+    <string name="GURU_DETAILS_BUTTON_DEPOSIT">Setor</string>
+
+    <string name="GURU_PROGRESS_LIST_TITLE">Progress Target</string>
+
+    <string name="THEME_INVEST_FUND_TITLE">Reksa Dana</string>
+    <string name="THEME_INVEST_FUND_NO_DATA_BUTTON_ADD">Tambah</string>
+    <string name="THEME_INVEST_FUND_NO_DATA_DESC">Investasi Reksa Dana kamu masih kosong, yuk Investasi sekarang!</string>
+    <string name="large_text">
+        "Material is the metaphor.\n\n"
+
+        "A material metaphor is the unifying theory of a rationalized space and a system of motion."
+        "The material is grounded in tactile reality, inspired by the study of paper and ink, yet "
+        "technologically advanced and open to imagination and magic.\n"
+        "Surfaces and edges of the material provide visual cues that are grounded in reality. The "
+        "use of familiar tactile attributes helps users quickly understand affordances. Yet the "
+        "flexibility of the material creates new affordances that supercede those in the physical "
+        "world, without breaking the rules of physics.\n"
+        "The fundamentals of light, surface, and movement are key to conveying how objects move, "
+        "interact, and exist in space and in relation to each other. Realistic lighting shows "
+        "seams, divides space, and indicates moving parts.\n\n"
+
+        "Bold, graphic, intentional.\n\n"
+
+        "The foundational elements of print based design typography, grids, space, scale, color, "
+        "and use of imagery guide visual treatments. These elements do far more than please the "
+        "eye. They create hierarchy, meaning, and focus. Deliberate color choices, edge to edge "
+        "imagery, large scale typography, and intentional white space create a bold and graphic "
+        "interface that immerse the user in the experience.\n"
+        "An emphasis on user actions makes core functionality immediately apparent and provides "
+        "waypoints for the user.\n\n"
+
+        "Motion provides meaning.\n\n"
+
+        "Motion respects and reinforces the user as the prime mover. Primary user actions are "
+        "inflection points that initiate motion, transforming the whole design.\n"
+        "All action takes place in a single environment. Objects are presented to the user without "
+        "breaking the continuity of experience even as they transform and reorganize.\n"
+        "Motion is meaningful and appropriate, serving to focus attention and maintain continuity. "
+        "Feedback is subtle yet clear. Transitions are efﬁcient yet coherent.\n\n"
+
+        "3D world.\n\n"
+
+        "The material environment is a 3D space, which means all objects have x, y, and z "
+        "dimensions. The z-axis is perpendicularly aligned to the plane of the display, with the "
+        "positive z-axis extending towards the viewer. Every sheet of material occupies a single "
+        "position along the z-axis and has a standard 1dp thickness.\n"
+        "On the web, the z-axis is used for layering and not for perspective. The 3D world is "
+        "emulated by manipulating the y-axis.\n\n"
+
+        "Light and shadow.\n\n"
+
+        "Within the material environment, virtual lights illuminate the scene. Key lights create "
+        "directional shadows, while ambient light creates soft shadows from all angles.\n"
+        "Shadows in the material environment are cast by these two light sources. In Android "
+        "development, shadows occur when light sources are blocked by sheets of material at "
+        "various positions along the z-axis. On the web, shadows are depicted by manipulating the "
+        "y-axis only. The following example shows the card with a height of 6dp.\n\n"
+
+        "Resting elevation.\n\n"
+
+        "All material objects, regardless of size, have a resting elevation, or default elevation "
+        "that does not change. If an object changes elevation, it should return to its resting "
+        "elevation as soon as possible.\n\n"
+
+        "Component elevations.\n\n"
+
+        "The resting elevation for a component type is consistent across apps (e.g., FAB elevation "
+        "does not vary from 6dp in one app to 16dp in another app).\n"
+        "Components may have different resting elevations across platforms, depending on the depth "
+        "of the environment (e.g., TV has a greater depth than mobile or desktop).\n\n"
+
+        "Responsive elevation and dynamic elevation offsets.\n\n"
+
+        "Some component types have responsive elevation, meaning they change elevation in response "
+        "to user input (e.g., normal, focused, and pressed) or system events. These elevation "
+        "changes are consistently implemented using dynamic elevation offsets.\n"
+        "Dynamic elevation offsets are the goal elevation that a component moves towards, relative "
+        "to the component’s resting state. They ensure that elevation changes are consistent "
+        "across actions and component types. For example, all components that lift on press have "
+        "the same elevation change relative to their resting elevation.\n"
+        "Once the input event is completed or cancelled, the component will return to its resting "
+        "elevation.\n\n"
+
+        "Avoiding elevation interference.\n\n"
+
+        "Components with responsive elevations may encounter other components as they move between "
+        "their resting elevations and dynamic elevation offsets. Because material cannot pass "
+        "through other material, components avoid interfering with one another any number of ways, "
+        "whether on a per component basis or using the entire app layout.\n"
+        "On a component level, components can move or be removed before they cause interference. "
+        "For example, a floating action button (FAB) can disappear or move off screen before a "
+        "user picks up a card, or it can move if a snackbar appears.\n"
+        "On the layout level, design your app layout to minimize opportunities for interference. "
+        "For example, position the FAB to one side of stream of a cards so the FAB won’t interfere "
+        "when a user tries to pick up one of cards.\n\n"
+    </string>
+</resources>

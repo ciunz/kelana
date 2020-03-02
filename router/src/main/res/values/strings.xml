@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="BASE_SCHEME">module</string>
+    <string name="MAIN">main</string>
+    <string name="FOOD_LIST">food_list</string>
+    <string name="FOOD_DETAILS">food_details</string>
+</resources>

@@ -1,0 +1,12 @@
+apply from: "$rootDir/common.gradle"
+
+dependencies {
+
+    //android support
+    implementation AndroidX.appCompat
+    implementation AndroidX.androidCore
+    implementation AndroidX.constraint
+    implementation AndroidX.recyclerView
+    implementation AndroidX.viewPager
+    api AndroidX.material
+}

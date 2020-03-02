@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:paddingStart="@dimen/dp_6"
+            android:paddingLeft="@dimen/dp_6"
+            android:paddingRight="@dimen/dp_6"
+            android:paddingEnd="@dimen/dp_6"
+            android:layout_height="@dimen/section_header_height">
+
+        <Button
+                android:text="Button"
+                android:id="@+id/btnSection"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                style="@style/buttonBorderless"
+                android:layout_marginLeft="@dimen/dp_12"
+                android:layout_marginStart="@dimen/dp_12"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        <TextView
+                android:id="@+id/tvSection"
+                android:layout_toStartOf="@id/btnSection"
+                android:layout_toLeftOf="@id/btnSection"
+                style="@style/text.large.bold"
+                android:text="Title"
+                android:layout_centerVertical="true"
+                android:gravity="start"
+                android:lines="1"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+    </RelativeLayout>
+</merge>

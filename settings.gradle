@@ -1,0 +1,6 @@
+rootProject.name='My Application'
+include Modules.app
+include Modules.abstraction
+include Modules.food
+include Modules.router
+include Modules.uicomponent
